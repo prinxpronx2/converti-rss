@@ -10,7 +10,8 @@ def scrape_news():
     headers = {"User-Agent": "Mozilla/5.0"}
     articles = []
 
-    for page in range(1, MAX_PAGES + 1):
+    # ciclo inverso: pagina 3 → 2 → 1
+    for page in range(MAX_PAGES, 0, -1):
         if page == 1:
             url = "https://romamobilita.it/news-eventi/tutte-le-news-e-gli-eventi/"
         else:
@@ -56,7 +57,7 @@ def scrape_news():
                 "pubdate": pubdate
             })
 
-    # ordina dal più recente al più vecchio
+    # ordina decrescente per sicurezza
     articles.sort(key=lambda x: x['pubdate'], reverse=True)
     print("Articoli trovati:", len(articles))
     return articles
