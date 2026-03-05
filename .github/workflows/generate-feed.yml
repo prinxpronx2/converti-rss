@@ -1,8 +1,8 @@
-name: Generate RSS Feed
+name: Generate RSS Feeds
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"  # ogni 30 minuti
   workflow_dispatch:
   push:
 
@@ -23,13 +23,16 @@ jobs:
         run: |
           pip install requests beautifulsoup4 feedgen
 
-      - name: Generate RSS
+      - name: Generate Primo Piano RSS
         run: python generate_rss.py
 
-      - name: Commit and push feed
+      - name: Generate Comunicati RSS
+        run: python generate_comunicati.py
+
+      - name: Commit and push feeds
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add feed.xml
-          git commit -m "Update RSS feed" || echo "No changes to commit"
+          git add feed.xml feed_comunic.xml
+          git commit -m "Aggiorna feed RSS" || echo "No changes to commit"
           git push
