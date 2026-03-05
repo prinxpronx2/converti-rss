@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
-from datetime import datetime
+from datetime import datetime, timezone
 
 URL = "https://romamobilita.it/news-eventi/tutte-le-news-e-gli-eventi/"
 
@@ -38,7 +38,7 @@ def scrape_news():
                 "title": title,
                 "link": link,
                 "description": desc,
-                "pubdate": datetime.now()
+                "pubdate": datetime.now(timezone.utc)
             })
 
         print("Articoli trovati:", len(articles))
