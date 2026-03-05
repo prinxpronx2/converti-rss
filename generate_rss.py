@@ -69,7 +69,7 @@ def create_rss_feed(articles):
 
     fg.rss_file("feed.xml", pretty=True)
 
-    printf(" RSS generato con {len(articles)} articoli")
+    print(" RSS generato con {len(articles)} articoli")
 
 
 if __name__ == "__main__":
