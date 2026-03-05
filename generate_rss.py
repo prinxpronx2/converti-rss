@@ -13,39 +13,43 @@ def scrape_news():
         soup = BeautifulSoup(response.content, "html.parser")
 
         articles = []
+        seen_links = set()
 
-        # cerca i titoli delle notizie
-        for h2 in soup.find_all("h2")[:20]:
+        for a in soup.find_all("a", href=True):
 
-            title = h2.get_text(strip=True)
-            parent = h2.parent
+            href = a["href"]
 
-            # cerca il link dentro il blocco
-            link_tag = parent.find("a", href=True)
-            if not link_tag:
+            if "/it/node/" not in href:
                 continue
 
-            link = link_tag["href"]
+            if not href.startswith("http"):
+                href = "https://romamobilita.it" + href
 
-            if not link.startswith("http"):
-                link = "https://romamobilita.it" + link
+            if href in seen_links:
+                continue
 
-            # descrizione
-            desc_tag = parent.find("p")
-            desc = desc_tag.get_text(strip=True) if desc_tag else "Leggi di più"
+            title = a.get_text(strip=True)
+
+            if len(title) < 10:
+                continue
+
+            seen_links.add(href)
 
             articles.append({
                 "title": title,
-                "link": link,
-                "description": desc,
+                "link": href,
+                "description": "Leggi la notizia completa",
                 "pubdate": datetime.now(timezone.utc)
             })
+
+            if len(articles) >= 20:
+                break
 
         print("Articoli trovati:", len(articles))
         return articles
 
     except Exception as e:
-        print("Errore durante lo scraping:", e)
+        print("Errore scraping:", e)
         return []
 
 
@@ -61,7 +65,6 @@ def create_rss_feed(articles):
 
     for article in articles:
         fe = fg.add_entry()
-
         fe.title(article["title"])
         fe.link(href=article["link"])
         fe.description(article["description"])
@@ -69,7 +72,7 @@ def create_rss_feed(articles):
 
     fg.rss_file("feed.xml", pretty=True)
 
-    print(" RSS generato con {len(articles)} articoli")
+    print("RSS generato con", len(articles), "articoli")
 
 
 if __name__ == "__main__":
@@ -78,4 +81,4 @@ if __name__ == "__main__":
     if articles:
         create_rss_feed(articles)
     else:
-        print(" Nessun articolo trovato!")
+        print("Nessun articolo trovato")
