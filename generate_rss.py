@@ -9,37 +9,35 @@ def scrape_news():
     try:
         response = requests.get(URL, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
-        
+
         articles = []
-        
-        for item in soup.find_all('article', limit=20):
-            try:
-                title_tag = item.find('h2') or item.find('h3') or item.find('a')
-                if not title_tag:
-                    continue
-                title = title_tag.get_text(strip=True)[:200]
-                
-                link_tag = item.find('a', href=True)
-                if not link_tag:
-                    continue
-                link = link_tag['href']
-                if not link.startswith('http'):
-                    link = 'https://romamobilita.it' + link
-                
-                desc_tag = item.find('p')
-                desc = desc_tag.get_text(strip=True)[:500] if desc_tag else 'Leggi di più'
-                
-                articles.append({
-                    'title': title,
-                    'link': link,
-                    'description': desc,
-                    'pubdate': datetime.now()
-                })
-            except:
+
+        for h2 in soup.find_all('h2')[:20]:
+            title = h2.get_text(strip=True)
+
+            parent = h2.parent
+
+            link_tag = parent.find('a', href=True)
+            if not link_tag:
                 continue
-        
+
+            link = link_tag['href']
+            if not link.startswith('http'):
+                link = 'https://romamobilita.it' + link
+
+            desc_tag = parent.find('p')
+            desc = desc_tag.get_text(strip=True) if desc_tag else "Leggi di più"
+
+            articles.append({
+                'title': title,
+                'link': link,
+                'description': desc,
+                'pubdate': datetime.now()
+            })
+
+        print("Articoli trovati:", len(articles))
         return articles
-    
+
     except Exception as e:
         print(f"Errore: {e}")
         return []
