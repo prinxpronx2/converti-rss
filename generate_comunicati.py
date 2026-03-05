@@ -11,7 +11,8 @@ def scrape_comunicati():
     headers = {"User-Agent": "Mozilla/5.0"}
     articles = []
 
-    for page in range(1, MAX_PAGES + 1):
+    # ciclo inverso: pagina 3 → 2 → 1
+    for page in range(MAX_PAGES, 0, -1):
         if page == 1:
             url = "https://romamobilita.it/news-eventi/comunicati/"
         else:
