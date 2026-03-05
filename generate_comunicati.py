@@ -2,52 +2,67 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
+import re
 
-URL = "https://romamobilita.it/news-eventi/comunicati/"
+BASE_URL = "https://romamobilita.it/news-eventi/comunicati/page/{}"
+MAX_PAGES = 3
 
 def scrape_comunicati():
     headers = {"User-Agent": "Mozilla/5.0"}
-    response = requests.get(URL, headers=headers, timeout=10)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.content, "html.parser")
-
     articles = []
 
-    # trova tutti i div con classe 'comunicato'
-    for item in soup.find_all("div", class_="comunicato", limit=20):
+    for page in range(1, MAX_PAGES + 1):
+        if page == 1:
+            url = "https://romamobilita.it/news-eventi/comunicati/"
+        else:
+            url = BASE_URL.format(page)
 
-        # titolo: il secondo h2
-        h2_tags = item.find_all("h2", class_="elementor-heading-title")
-        if len(h2_tags) < 2:
-            continue
-        title = h2_tags[1].get_text(strip=True)
+        print("Scarico:", url)
+        r = requests.get(url, headers=headers, timeout=15)
+        soup = BeautifulSoup(r.content, "html.parser")
+        items = soup.find_all("div", class_="comunicato")
 
-        # descrizione
-        desc_tag = item.find("div", class_="elementor-widget-theme-post-content")
-        description = desc_tag.get_text(strip=True) if desc_tag else "Leggi il comunicato completo"
+        for item in items:
+            titles = item.find_all("h2", class_="elementor-heading-title")
+            if len(titles) < 2:
+                continue
+            title = titles[1].get_text(strip=True)
 
-        # link "Leggi di più"
-        link_tag = item.find("a", class_="elementor-button-link", href=True)
-        if not link_tag:
-            continue
-        link = link_tag["href"]
-        if not link.startswith("http"):
-            link = "https://romamobilita.it" + link
+            link_tag = item.find("a", class_="elementor-button-link", href=True)
+            if not link_tag:
+                continue
+            link = link_tag["href"]
 
-        articles.append({
-            "title": title,
-            "link": link,
-            "description": description,
-            "pubdate": datetime.now(timezone.utc)
-        })
+            desc_tag = item.find("div", class_="elementor-widget-theme-post-content")
+            description = desc_tag.get_text(strip=True) if desc_tag else "Leggi il comunicato"
 
-    print(f"Comunicati trovati: {len(articles)}")
+            # data reale: prova a cercare pattern DD/MM/YYYY
+            date_match = re.search(r"(\d{2}/\d{2}/\d{4})", item.get_text())
+            if date_match:
+                try:
+                    pubdate = datetime.strptime(date_match.group(1), "%d/%m/%Y").replace(tzinfo=timezone.utc)
+                except:
+                    pubdate = datetime.now(timezone.utc)
+            else:
+                pubdate = datetime.now(timezone.utc)
+
+            articles.append({
+                "title": title,
+                "link": link,
+                "description": description,
+                "pubdate": pubdate
+            })
+
+    # ordina dal più recente al più vecchio
+    articles.sort(key=lambda x: x['pubdate'], reverse=True)
+    print("Comunicati trovati:", len(articles))
     return articles
 
-def create_rss_comunicati(articles):
+
+def create_rss(articles):
     fg = FeedGenerator()
     fg.title("Roma Mobilità - Comunicati")
-    fg.link(href="https://romamobilita.it", rel="alternate")
+    fg.link(href="https://romamobilita.it")
     fg.link(href="https://prinxpronx2.github.io/converti-rss/feed_comunic.xml", rel="self")
     fg.description("Comunicati ufficiali Roma Mobilità")
     fg.language("it")
@@ -60,11 +75,8 @@ def create_rss_comunicati(articles):
         fe.pubDate(article["pubdate"])
 
     fg.rss_file("feed_comunic.xml", pretty=True)
-    print("RSS dei comunicati generato con", len(articles), "articoli")
+
 
 if __name__ == "__main__":
     articles = scrape_comunicati()
-    if articles:
-        create_rss_comunicati(articles)
-    else:
-        print("Nessun comunicato trovato")
+    create_rss(articles)
