@@ -59,6 +59,9 @@ def scrape_news():
 
     # ordina decrescente per sicurezza
     articles.sort(key=lambda x: x['pubdate'], reverse=True)
+    # inverti la lista così i più recenti stanno in cima nel feed
+    articles = list(reversed(articles))
+
     print("Articoli trovati:", len(articles))
     return articles
 
