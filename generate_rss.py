@@ -3,55 +3,69 @@ from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 from datetime import datetime, timezone
 
-URL = "https://romamobilita.it/news-eventi/tutte-le-news-e-gli-eventi/"
+BASE_URL = "https://romamobilita.it/news-eventi/tutte-le-news-e-gli-eventi/{}"
+MAX_PAGES = 3
 
 def scrape_news():
     headers = {"User-Agent": "Mozilla/5.0"}
-    response = requests.get(URL, headers=headers, timeout=10)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.content, "html.parser")
-
     articles = []
 
-    # cerca tutti i div con classe 'primo-piano'
-    for item in soup.find_all("div", class_="primo-piano", limit=20):
-
-        # titolo
-        title_tag = item.find("h2", class_="elementor-heading-title")
-        if not title_tag:
-            continue
-        title = title_tag.get_text(strip=True)
-
-        # descrizione: prova theme-post-excerpt prima, poi shortcode
-        desc_tag = item.find("div", class_="elementor-widget-theme-post-excerpt")
-        if desc_tag:
-            description = desc_tag.get_text(strip=True)
+    for page in range(1, MAX_PAGES + 1):
+        if page == 1:
+            url = "https://romamobilita.it/news-eventi/tutte-le-news-e-gli-eventi/"
         else:
-            shortcode_tag = item.find("div", class_="elementor-shortcode")
-            description = shortcode_tag.get_text(strip=True) if shortcode_tag else "Leggi la notizia completa"
+            url = BASE_URL.format(page)
 
-        # link
-        link_tag = item.find("a", class_="elementor-button-link", href=True)
-        if not link_tag:
-            continue
-        link = link_tag["href"]
-        if not link.startswith("http"):
-            link = "https://romamobilita.it" + link
+        print("Scarico:", url)
+        r = requests.get(url, headers=headers, timeout=15)
+        soup = BeautifulSoup(r.content, "html.parser")
+        items = soup.find_all("div", class_="e-loop-item")
 
-        articles.append({
-            "title": title,
-            "link": link,
-            "description": description,
-            "pubdate": datetime.now(timezone.utc)
-        })
+        for item in items:
+            # titolo
+            title_tag = item.find("h2", class_="elementor-heading-title")
+            if not title_tag:
+                continue
+            title = title_tag.get_text(strip=True)
 
-    print(f"Articoli trovati: {len(articles)}")
+            # link
+            link_tag = item.find("a", href=True)
+            if not link_tag:
+                continue
+            link = link_tag["href"]
+
+            # descrizione
+            desc_tag = item.find("div", class_="elementor-widget-theme-post-excerpt")
+            description = desc_tag.get_text(strip=True) if desc_tag else "Leggi di più"
+
+            # data reale
+            date_tag = item.find("div", class_="elementor-widget-container")
+            if date_tag:
+                date_text = date_tag.get_text(strip=True)
+                try:
+                    pubdate = datetime.strptime(date_text, "%d/%m/%Y").replace(tzinfo=timezone.utc)
+                except:
+                    pubdate = datetime.now(timezone.utc)
+            else:
+                pubdate = datetime.now(timezone.utc)
+
+            articles.append({
+                "title": title,
+                "link": link,
+                "description": description,
+                "pubdate": pubdate
+            })
+
+    # ordina dal più recente al più vecchio
+    articles.sort(key=lambda x: x['pubdate'], reverse=True)
+    print("Articoli trovati:", len(articles))
     return articles
 
-def create_rss_feed(articles):
+
+def create_rss(articles):
     fg = FeedGenerator()
     fg.title("Roma Mobilità - News")
-    fg.link(href="https://romamobilita.it", rel="alternate")
+    fg.link(href="https://romamobilita.it")
     fg.link(href="https://prinxpronx2.github.io/converti-rss/feed.xml", rel="self")
     fg.description("News da Roma Mobilità")
     fg.language("it")
@@ -64,11 +78,8 @@ def create_rss_feed(articles):
         fe.pubDate(article["pubdate"])
 
     fg.rss_file("feed.xml", pretty=True)
-    print("RSS generato con", len(articles), "articoli")
+
 
 if __name__ == "__main__":
     articles = scrape_news()
-    if articles:
-        create_rss_feed(articles)
-    else:
-        print("Nessun articolo trovato")
+    create_rss(articles)
