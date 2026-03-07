@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 07 Mar 2026 07:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:50:58 +0000</lastBuildDate>
     <item>
       <title>Sei Nazioni, domani all’Olimpico Italia-Inghilterra: il piano mobilità</title>
       <link>https://romamobilita.it/primo-piano/sei-nazioni-sabato-allolimpico-italia-inghilterra-il-piano-mobilita/</link>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/polmetro-aperti-i-nuovi-uffici-a-termini/</link>
       <description>L'inaugurazione alla presenza del ministro Piantedosi. Prosegue il partenariato Atac-Questura di Roma</description>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zone a transizione limitata, presentato il report di Kyoto Club sulla Capitale</title>
+      <link>https://romamobilita.it/primo-piano/zone-a-transizione-limitata-presentato-il-report-di-kyoto-club-sulla-capitale/</link>
+      <description>Leggi di più</description>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ponte Risorgimento, nuova fase dei lavori di manutenzione</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/viabilita-e-tpl-sino-al-6-gennaio-piano-speciale-mobilita/</link>
       <description>Leggi di più</description>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conclusi gli interventi sul Ponte dell’Industria, ora dedicato a San Francesco</title>
-      <link>https://romamobilita.it/primo-piano/conclusi-gli-interventi-sul-ponte-dellindustria-ora-dedicato-a-san-francesco/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
