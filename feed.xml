@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 09 Mar 2026 11:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 11:56:06 +0000</lastBuildDate>
     <item>
       <title>Via Ardeatina, fino al 13 marzo chiuso tratto Fotografia-Grotta Perfetta</title>
       <link>https://romamobilita.it/primo-piano/via-ardeatina-dal-9-al-13-marzo-chiuso-tratto-fotografia-grotta-perfetta/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/zone-a-transizione-limitata-presentato-il-report-di-kyoto-club-sulla-capitale/</link>
       <description>Leggi di più</description>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro C, Gualtieri: “Il 25 febbraio al via i lavori della tratta T2”. Poi a luglio la T1</title>
+      <link>https://romamobilita.it/primo-piano/metro-c-gualtieri-il-25-febbraio-al-via-lavori-t2-a-luglio-t3/</link>
+      <description>Sei stazioni in tutto da realizzare nelle due tratte</description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro C, Gualtieri: “Il 25 febbraio al via i lavori della tratta T2”. Poi a luglio la T1</title>
@@ -148,6 +154,12 @@
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Via dei Fori Imperiali, più spazio a pedoni e ciclisti</title>
+      <link>https://romamobilita.it/primo-piano/via-dei-fori-imperiali-piu-spazio-a-pedoni-e-ciclisti/</link>
+      <description>Leggi di più</description>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Nuova tranvia Togliatti, al via la posa dei binari</title>
       <link>https://romamobilita.it/primo-piano/nuova-tranvia-togliatti-al-via-la-posa-dei-binari/</link>
       <description>Leggi di più</description>
@@ -162,12 +174,6 @@
     <item>
       <title>Strade, approvata la delibera per il nuovo modello di gestione</title>
       <link>https://romamobilita.it/primo-piano/strade-approvata-la-delibera-per-il-nuovo-modello-di-gestione/</link>
-      <description>Leggi di più</description>
-      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via dei Fori Imperiali, più spazio a pedoni e ciclisti</title>
-      <link>https://romamobilita.it/primo-piano/via-dei-fori-imperiali-piu-spazio-a-pedoni-e-ciclisti/</link>
       <description>Leggi di più</description>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
     </item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/conclusi-gli-interventi-sul-ponte-dellindustria-ora-dedicato-a-san-francesco/</link>
       <description>Leggi di più</description>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tram di nuovo sui binari. Ecco le modalità del servizio</title>
-      <link>https://romamobilita.it/primo-piano/tram-di-nuovo-sui-binari-ecco-le-modalita-del-servizio/</link>
-      <description>Leggi di più</description>
-      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
