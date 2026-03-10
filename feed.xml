@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 10 Mar 2026 15:30:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 16:34:16 +0000</lastBuildDate>
     <item>
       <title>Restyling via Veneto, c’è il calendario: l’intervento sarà tra aprile e ottobre</title>
       <link>https://romamobilita.it/primo-piano/restyling-via-veneto-ce-il-calendario-lintervento-sara-tra-aprile-e-ottobre/</link>
@@ -19,6 +19,12 @@
       <title>Domenica all’Olimpico si gioca Lazio-Milan, i bus per lo stadio</title>
       <link>https://romamobilita.it/primo-piano/domenica-allolimpico-si-gioca-lazio-milan-i-bus-per-lo-stadio/</link>
       <description>Divieti di sosta ad ampio raggio nell'area del Foro Italico</description>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Premier League Roma, da venerdì nella Capitale il top del karate mondiale</title>
+      <link>https://romamobilita.it/primo-piano/premier-league-roma-da-venerdi-nella-capitale-il-top-del-karate-mondiale/</link>
+      <description>Nel PalaPellicone di Ostia. Come arrivare con il Tpl, promozioni per il car sharing</description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -76,15 +82,15 @@
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zone a transizione limitata, presentato il report di Kyoto Club sulla Capitale</title>
-      <link>https://romamobilita.it/primo-piano/zone-a-transizione-limitata-presentato-il-report-di-kyoto-club-sulla-capitale/</link>
-      <description>Leggi di più</description>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ponte Risorgimento, nuova fase dei lavori di manutenzione</title>
       <link>https://romamobilita.it/primo-piano/ponte-risorgimento-dal-23-febbraio-la-seconda-fase-dei-lavori-di-manutenzione/</link>
       <description>In vigore modifiche alla viabilità</description>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zone a transizione limitata, presentato il report di Kyoto Club sulla Capitale</title>
+      <link>https://romamobilita.it/primo-piano/zone-a-transizione-limitata-presentato-il-report-di-kyoto-club-sulla-capitale/</link>
+      <description>Leggi di più</description>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/roma-capitale-a-salonicco-due-giorni-di-confronto-e-innovazione-per-il-futuro-della-mobilita-europea/</link>
       <description>Leggi di più</description>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Viabilità e Tpl, sino al 6 gennaio Piano speciale mobilità</title>
-      <link>https://romamobilita.it/primo-piano/viabilita-e-tpl-sino-al-6-gennaio-piano-speciale-mobilita/</link>
-      <description>Leggi di più</description>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
