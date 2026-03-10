@@ -8,11 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 10 Mar 2026 16:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 17:45:30 +0000</lastBuildDate>
     <item>
       <title>Restyling via Veneto, c’è il calendario: l’intervento sarà tra aprile e ottobre</title>
       <link>https://romamobilita.it/primo-piano/restyling-via-veneto-ce-il-calendario-lintervento-sara-tra-aprile-e-ottobre/</link>
       <description>Prima fase al via da piazza Barberini. Focus su asfalto, marciapiedi e decoro</description>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donne e mobilità, Roma continua a fare rete con le altre città</title>
+      <link>https://romamobilita.it/primo-piano/donne-e-mobilita-roma-continua-a-fare-rete-con-le-altre-citta/</link>
+      <description>Convegno tra Rsm e l'Amat di Milano</description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -22,9 +28,9 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Premier League Roma, da venerdì nella Capitale il top del karate mondiale</title>
+      <title>A Ostia il top del Karate mondiale. Promozioni per chi raggiunge l’evento con il car sharing</title>
       <link>https://romamobilita.it/primo-piano/premier-league-roma-da-venerdi-nella-capitale-il-top-del-karate-mondiale/</link>
-      <description>Nel PalaPellicone di Ostia. Come arrivare con il Tpl, promozioni per il car sharing</description>
+      <description>Al PalaPellicone, la Premier League Roma. Come arrivare con il Tpl</description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/metro-c-inaugurate-le-fermate-colosseo-e-porta-metronia/</link>
       <description>Leggi di più</description>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roma Capitale a Salonicco: due giorni di confronto e innovazione per il futuro della mobilità europea</title>
-      <link>https://romamobilita.it/primo-piano/roma-capitale-a-salonicco-due-giorni-di-confronto-e-innovazione-per-il-futuro-della-mobilita-europea/</link>
-      <description>Leggi di più</description>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
