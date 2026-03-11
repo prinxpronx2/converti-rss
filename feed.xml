@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 11 Mar 2026 13:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 14:26:31 +0000</lastBuildDate>
     <item>
       <title>Restyling via Veneto, c’è il calendario: l’intervento sarà tra aprile e ottobre</title>
       <link>https://romamobilita.it/primo-piano/restyling-via-veneto-ce-il-calendario-lintervento-sara-tra-aprile-e-ottobre/</link>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/metro-c-domani-lavvio-dei-cantieri-per-quattro-nuove-stazioni/</link>
       <description>In corso modifiche alla viabilità. Per il cantiere in via Barletta, deviate anche le linee bus</description>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale nelle scuole, partito il progetto di Roma Servizi per la Mobilità</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-nelle-scuole-partito-il-progetto-di-roma-servizi-per-la-mobilita/</link>
+      <description>Un'iniziativa rivolta ai futuri automobilisti-motociclisti</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Manutenzione strade, via libera a ulteriori risorse con l’ok alla variazione di bilancio</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/baron-polstrada-scuole-fondamentali-per-cambiare-comportamenti/</link>
       <description>Leggi di più</description>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro C, inaugurate le fermate Colosseo e Porta Metronia</title>
-      <link>https://romamobilita.it/primo-piano/metro-c-inaugurate-le-fermate-colosseo-e-porta-metronia/</link>
-      <description>Leggi di più</description>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
