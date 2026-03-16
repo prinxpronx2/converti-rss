@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 16 Mar 2026 08:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 09:39:27 +0000</lastBuildDate>
     <item>
       <title>Piano Strade, approvato progetto fattibilità per i territori municipali. Investimento da 30 milioni</title>
       <link>https://romamobilita.it/primo-piano/piano-strade-approvato-progetto-fattibilita-per-i-territori-municipali-investimento-da-30-milioni/</link>
@@ -82,12 +82,6 @@
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Manutenzione strade, via libera a ulteriori risorse con l’ok alla variazione di bilancio</title>
-      <link>https://romamobilita.it/primo-piano/manutenzione-strade-via-libera-a-ulteriori-risorse-con-lok-alla-variazione-di-bilancio/</link>
-      <description>Dalla Giunta</description>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sicurezza stradale nelle scuole, partito il progetto di Roma Servizi per la Mobilità</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-nelle-scuole-partito-il-progetto-di-roma-servizi-per-la-mobilita/</link>
       <description>Un'iniziativa rivolta ai futuri automobilisti-motociclisti</description>
@@ -142,12 +136,6 @@
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ztl Centro, in vigore il limite di velocità a 30 km/h</title>
-      <link>https://romamobilita.it/primo-piano/patane-dal-15-gennaio-zona-30-nella-ztl-centro/</link>
-      <description>Patané (Mobilità): "Primo mese di assestamento per abituare i cittadini"</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Spostarsi in città, Atac rilascia una nuova app</title>
       <link>https://romamobilita.it/primo-piano/spostarsi-in-citta-atac-rilascia-una-nuova-app/</link>
       <description>Offre servizi integrati sulla mobilità cittadina</description>
@@ -157,6 +145,12 @@
       <title>Via dell’Isola Farnese, avviati gli interventi di messa in sicurezza</title>
       <link>https://romamobilita.it/primo-piano/via-dellisola-farnese-avviati-gli-interventi-di-messa-in-sicurezza/</link>
       <description>Per il cedimento di un costone privato, la strada è chiusa tra i civici 175 e 190</description>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl Centro, in vigore il limite di velocità a 30 km/h</title>
+      <link>https://romamobilita.it/primo-piano/patane-dal-15-gennaio-zona-30-nella-ztl-centro/</link>
+      <description>Patané (Mobilità): "Primo mese di assestamento per abituare i cittadini"</description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -222,6 +216,12 @@
     <item>
       <title>Trasporti come comunità, premiati in Campidoglio autisti “eroi” e abbonati Metrebus</title>
       <link>https://romamobilita.it/primo-piano/trasporti-come-comunita-premiati-in-campidoglio-autisti-eroi-e-abbonati-metrebus/</link>
+      <description>Leggi di più</description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baron (Polstrada): “Scuole fondamentali per cambiare comportamenti”</title>
+      <link>https://romamobilita.it/primo-piano/baron-polstrada-scuole-fondamentali-per-cambiare-comportamenti/</link>
       <description>Leggi di più</description>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
