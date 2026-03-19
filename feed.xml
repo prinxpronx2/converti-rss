@@ -8,12 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 18 Mar 2026 23:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 02:11:50 +0000</lastBuildDate>
     <item>
-      <title>A Roma tre giorni di “Eurocities”, il più importante evento europeo sulla mobilità</title>
+      <title>A Roma è in corso “Eurocities”, il più importante evento europeo sulla mobilità</title>
       <link>https://romamobilita.it/primo-piano/arriva-a-roma-eurocities-il-piu-importante-evento-europeo-sulla-mobilita/</link>
-      <description>Tre giorni di appuntamenti tra il Campidoglio, Palazzo Valentini e Spazio Europa</description>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Il Forum riunisce oltre 150 tra rappresentanti istituzionali e tecnici</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Eurocities”: mobilità, tecnologia e cooperazione i temi al centro del Forum</title>
+      <link>https://romamobilita.it/primo-piano/forum-eurocities-le-innovazioni-al-servizio-delle-citta/</link>
+      <description>A Roma, in Centro, installati i primi display della velocità rilevata</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Contrassegno Unico Disabili Europeo, richieste anche tramite patronati convenzionati</title>
@@ -74,12 +80,6 @@
       <link>https://romamobilita.it/primo-piano/donne-e-mobilita-roma-continua-a-fare-rete-con-le-altre-citta/</link>
       <description>La Capitale continua a fare rete con le altre città. Incontro Rsm-Amat</description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sensori di parcheggio, a breve l’avvio del montaggio sulle strisce blu</title>
-      <link>https://romamobilita.it/primo-piano/sensori-di-parcheggio-da-marzo-lavvio-del-montaggio-sulle-strisce-blu/</link>
-      <description>Progetto Sospas realizzato da Roma Servizi per la Mobilità</description>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sensori di parcheggio, a breve l’avvio del montaggio sulle strisce blu</title>
