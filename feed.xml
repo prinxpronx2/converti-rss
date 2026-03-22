@@ -8,12 +8,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 22 Mar 2026 20:54:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 21:26:38 +0000</lastBuildDate>
     <item>
-      <title>Oggi la 31esima edizione della Maratona di Roma, il piano viabilità e trasporti</title>
-      <link>https://romamobilita.it/primo-piano/maratona-roma-mobilita/</link>
-      <description>Limitate nei percorsi 50 linee del trasporto pubblico</description>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
+      <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
+      <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte dei Congressi, aggiudicata la gara per la realizzazione della nuova infrastruttura</title>
+      <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-aggiudicata-la-gara-per-la-realizzazione-della-nuova-infrastruttura/</link>
+      <description>Collegherà direttamente l'autostrada Roma-Fiumicino con i quartieri Magliana, Ostiense ed Eur</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parco del Celio, da domani nuova fase degli interventi con modifiche per i tram 3 e 8</title>
+      <link>https://romamobilita.it/primo-piano/parco-del-celio-da-domani-nuova-fase-degli-interventi-con-modifiche-per-i-tram-3-e-8/</link>
+      <description>Prosegue la sostituzione di binari e la chiusura della strada</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domeniche ecologiche, il 29 marzo la quinta e ultima della stagione</title>
+      <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-il-29-marzo-la-quinta-e-ultima-della-stagione/</link>
+      <description>Il divieto di circolazione sarà in vigore all'interno della Fascia Verde</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Il Mobility Forum di Eurocities a Roma, nella seconda giornata seminari tematici e visite sul campo</title>
@@ -40,12 +58,6 @@
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cantiere Ponte della Storta, modifiche notturne alla viabilità tra Boccea, Casal Selce e via della Storta</title>
-      <link>https://romamobilita.it/primo-piano/ponte-della-storta-in-arrivo-nuove-modifiche-alla-viabilita/</link>
-      <description>Deviate le linee bus 027 e 031</description>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Piano Strade, approvato progetto fattibilità per i territori municipali. Investimento da 30 milioni</title>
       <link>https://romamobilita.it/primo-piano/piano-strade-approvato-progetto-fattibilita-per-i-territori-municipali-investimento-da-30-milioni/</link>
       <description>I nuovi fondi parte di un pacchetto da 100 milioni per la città</description>
@@ -64,12 +76,6 @@
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Restyling via Veneto, c’è il calendario: l’intervento sarà tra aprile e ottobre</title>
-      <link>https://romamobilita.it/primo-piano/restyling-via-veneto-ce-il-calendario-lintervento-sara-tra-aprile-e-ottobre/</link>
-      <description>Prima fase al via da piazza Barberini. Focus su asfalto, marciapiedi e decoro</description>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Donne e mobilità, Roma e Milano insieme per la parità di genere</title>
       <link>https://romamobilita.it/primo-piano/donne-e-mobilita-roma-continua-a-fare-rete-con-le-altre-citta/</link>
       <description>La Capitale continua a fare rete con le altre città. Incontro Rsm-Amat</description>
@@ -80,18 +86,6 @@
       <link>https://romamobilita.it/primo-piano/restyling-via-veneto-ce-il-calendario-lintervento-sara-tra-aprile-e-ottobre/</link>
       <description>Prima fase al via da piazza Barberini. Focus su asfalto, marciapiedi e decoro</description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Donne e mobilità, Roma e Milano insieme per la parità di genere</title>
-      <link>https://romamobilita.it/primo-piano/donne-e-mobilita-roma-continua-a-fare-rete-con-le-altre-citta/</link>
-      <description>La Capitale continua a fare rete con le altre città. Incontro Rsm-Amat</description>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sensori di parcheggio, a breve l’avvio del montaggio sulle strisce blu</title>
-      <link>https://romamobilita.it/primo-piano/sensori-di-parcheggio-da-marzo-lavvio-del-montaggio-sulle-strisce-blu/</link>
-      <description>Progetto Sospas realizzato da Roma Servizi per la Mobilità</description>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sensori di parcheggio, a breve l’avvio del montaggio sulle strisce blu</title>
@@ -134,12 +128,6 @@
       <link>https://romamobilita.it/primo-piano/polmetro-aperti-i-nuovi-uffici-a-termini/</link>
       <description>L'inaugurazione alla presenza del ministro Piantedosi. Prosegue il partenariato Atac-Questura di Roma</description>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponte Risorgimento, nuova fase dei lavori di manutenzione</title>
-      <link>https://romamobilita.it/primo-piano/ponte-risorgimento-dal-23-febbraio-la-seconda-fase-dei-lavori-di-manutenzione/</link>
-      <description>In vigore modifiche alla viabilità</description>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Zone a transizione limitata, presentato il report di Kyoto Club sulla Capitale</title>
@@ -222,6 +210,18 @@
     <item>
       <title>Via dei Fori Imperiali, più spazio a pedoni e ciclisti</title>
       <link>https://romamobilita.it/primo-piano/via-dei-fori-imperiali-piu-spazio-a-pedoni-e-ciclisti/</link>
+      <description>Leggi di più</description>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nuova tranvia Togliatti, al via la posa dei binari</title>
+      <link>https://romamobilita.it/primo-piano/nuova-tranvia-togliatti-al-via-la-posa-dei-binari/</link>
+      <description>Leggi di più</description>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cavalcavia via delle Calle, conclusi i lavori strutturali. A gennaio le ultime finiture</title>
+      <link>https://romamobilita.it/primo-piano/cavalcavia-via-delle-calle-conclusi-i-lavori-strutturali-a-gennaio-le-ultime-finiture/</link>
       <description>Leggi di più</description>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
     </item>
