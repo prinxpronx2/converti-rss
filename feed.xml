@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 28 Mar 2026 17:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 17:56:51 +0000</lastBuildDate>
     <item>
       <title>Nel pomeriggio corteo da piazza della Repubblica a San Giovanni</title>
       <link>https://romamobilita.it/primo-piano/sabato-pomeriggio-corteo-da-piazza-della-repubblica-a-san-giovanni/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/forum-eurocities-le-innovazioni-al-servizio-delle-citta/</link>
       <description>A Roma, in Centro, installati i primi display della velocità rilevata</description>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Formazione nelle scuole, quarto appuntamento con il progetto Rsm sulla sicurezza stradale</title>
+      <link>https://romamobilita.it/primo-piano/formazione-nelle-scuole-quarto-appuntamento-con-il-progetto-rsm-sulla-sicurezza-stradale/</link>
+      <description>L'incontro con gli studenti del liceo Cannizzaro. Tra i protagonisti, Luca Valdiserri</description>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Contrassegno Unico Disabili Europeo, richieste anche tramite patronati convenzionati</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/via-libera-al-progetto-di-realizzazione-dei-varchi-ztl-in-uscita/</link>
       <description>Patanè: "Controlli più efficaci per tutelare area di pregio della città"</description>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sicurezza stradale, Gualtieri: “Educazione e rispetto dei limiti sono fondamentali”</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-gualtieri-educazione-e-rispetto-dei-limiti-sono-fondamentali/</link>
-      <description>Le azioni messe in campo dal Campidoglio</description>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
