@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 29 Mar 2026 11:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:54:22 +0000</lastBuildDate>
     <item>
       <title>Attraversamenti pedonali sopraelevati, allo studio intervento in via Anagnina</title>
       <link>https://romamobilita.it/primo-piano/attraversamenti-pedonali-sopraelevati-allo-studio-intervento-in-via-anagnina/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/piano-strade-approvato-progetto-fattibilita-per-i-territori-municipali-investimento-da-30-milioni/</link>
       <description>I nuovi fondi parte di un pacchetto da 100 milioni per la città</description>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Via Ardeatina, riaperto tratto Fotografia-Grotta Perfetta</title>
+      <link>https://romamobilita.it/primo-piano/via-ardeatina-dal-9-al-13-marzo-chiuso-tratto-fotografia-grotta-perfetta/</link>
+      <description>Ora si circola a senso unico alternato. Percorso regolare per la linea 218</description>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Via Ardeatina, riaperto tratto Fotografia-Grotta Perfetta</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/dal-ministero-dei-trasporti-118-milioni-per-due-linee-tranviarie-della-capitale/</link>
       <description>Leggi di più</description>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via dei Fori Imperiali, più spazio a pedoni e ciclisti</title>
-      <link>https://romamobilita.it/primo-piano/via-dei-fori-imperiali-piu-spazio-a-pedoni-e-ciclisti/</link>
-      <description>Leggi di più</description>
-      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
