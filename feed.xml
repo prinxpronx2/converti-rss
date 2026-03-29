@@ -8,7 +8,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 29 Mar 2026 15:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 16:35:30 +0000</lastBuildDate>
+    <item>
+      <title>Domenica delle Palme, linee bus deviate per le processioni</title>
+      <link>https://romamobilita.it/primo-piano/via-crucis-e-domenica-delle-palme-le-linee-bus-deviate-per-le-processioni/</link>
+      <description>Appuntamenti in diversi quartieri</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale nelle scuole, domani appuntamento al “Vespucci”</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-nelle-scuole-domani-appuntamento-al-vespucci/</link>
+      <description>Il progetto di Roma Servizi per la Mobilità fa tappa nel IV Municipio</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parco del Celio, proseguono gli interventi e le modifiche per i tram 3 e 8</title>
+      <link>https://romamobilita.it/primo-piano/parco-del-celio-da-domani-nuova-fase-degli-interventi-con-modifiche-per-i-tram-3-e-8/</link>
+      <description>Prosegue la sostituzione di binari e la chiusura della strada</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il 4 aprile all’Olimpico la sfida Lazio-Parma, come raggiungere lo stadio col tpl</title>
+      <link>https://romamobilita.it/primo-piano/il-4-aprile-allolimpico-la-sfida-lazio-parma-come-raggiungere-lo-stadio-col-tpl/</link>
+      <description>Sono diciannove i collegamenti che raggiungono l'area del Foro Italico</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Attraversamenti pedonali sopraelevati, allo studio intervento in via Anagnina</title>
       <link>https://romamobilita.it/primo-piano/attraversamenti-pedonali-sopraelevati-allo-studio-intervento-in-via-anagnina/</link>
@@ -24,7 +48,7 @@
     <item>
       <title>Domeniche ecologiche, oggi la quinta e ultima della stagione</title>
       <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-il-29-marzo-la-quinta-e-ultima-della-stagione/</link>
-      <description>Il divieto di circolazione sarà in vigore all'interno della Fascia Verde</description>
+      <description>Divieto di circolazione in vigore all'interno della Fascia Verde</description>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -46,12 +70,6 @@
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Parco del Celio, nuova fase degli interventi con modifiche per i tram 3 e 8</title>
-      <link>https://romamobilita.it/primo-piano/parco-del-celio-da-domani-nuova-fase-degli-interventi-con-modifiche-per-i-tram-3-e-8/</link>
-      <description>Prosegue la sostituzione di binari e la chiusura della strada</description>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Il Mobility Forum di Eurocities a Roma, seminari tematici e visite sul campo</title>
       <link>https://romamobilita.it/primo-piano/il-mobility-forum-di-eurocities-a-roma-nella-seconda-giornata-seminari-tematici-e-visite-sul-campo/</link>
       <description>La stazione Colosseo della linea C come perfetto connubio tra storia e futuro</description>
@@ -64,28 +82,10 @@
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Contrassegno Unico Disabili Europeo, richieste anche tramite patronati convenzionati</title>
-      <link>https://romamobilita.it/primo-piano/contrassegno-unico-disabili-europeo-richieste-anche-tramite-patronati-convenzionati/</link>
-      <description>Ecco le strutture che forniscono assistenza per le domande on line</description>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Piano Strade, approvato progetto fattibilità per i territori municipali. Investimento da 30 milioni</title>
       <link>https://romamobilita.it/primo-piano/piano-strade-approvato-progetto-fattibilita-per-i-territori-municipali-investimento-da-30-milioni/</link>
       <description>I nuovi fondi parte di un pacchetto da 100 milioni per la città</description>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piano Strade, approvato progetto fattibilità per i territori municipali. Investimento da 30 milioni</title>
-      <link>https://romamobilita.it/primo-piano/piano-strade-approvato-progetto-fattibilita-per-i-territori-municipali-investimento-da-30-milioni/</link>
-      <description>I nuovi fondi parte di un pacchetto da 100 milioni per la città</description>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via Ardeatina, riaperto tratto Fotografia-Grotta Perfetta</title>
-      <link>https://romamobilita.it/primo-piano/via-ardeatina-dal-9-al-13-marzo-chiuso-tratto-fotografia-grotta-perfetta/</link>
-      <description>Ora si circola a senso unico alternato. Percorso regolare per la linea 218</description>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Via Ardeatina, riaperto tratto Fotografia-Grotta Perfetta</title>
