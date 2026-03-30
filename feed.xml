@@ -8,11 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 30 Mar 2026 11:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:20:42 +0000</lastBuildDate>
     <item>
       <title>Sicurezza stradale nelle scuole, oggi appuntamento al “Vespucci”</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-nelle-scuole-domani-appuntamento-al-vespucci/</link>
       <description>Il progetto di Roma Servizi per la Mobilità fa tappa nel IV Municipio</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte dei Congressi, consegnati i lavori</title>
+      <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-consegnati-i-lavori/</link>
+      <description>Investimento da 299 milioni, conclusione prevista nel 2031</description>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-gualtieri-educazione-e-rispetto-dei-limiti-sono-fondamentali/</link>
       <description>Le azioni messe in campo dal Campidoglio</description>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dal ministero dei Trasporti 118 milioni per due linee tranviarie della Capitale</title>
-      <link>https://romamobilita.it/primo-piano/dal-ministero-dei-trasporti-118-milioni-per-due-linee-tranviarie-della-capitale/</link>
-      <description>Leggi di più</description>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
