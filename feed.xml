@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 31 Mar 2026 19:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:04:53 +0000</lastBuildDate>
     <item>
       <title>Via Crucis al Colosseo, venerdì scattano le chiusure al traffico</title>
       <link>https://romamobilita.it/primo-piano/via-crucis-al-colosseo-venerdi-in-programma-chiusure-al-traffico/</link>
@@ -92,12 +92,6 @@
       <link>https://romamobilita.it/primo-piano/forum-eurocities-le-innovazioni-al-servizio-delle-citta/</link>
       <description>A Roma, in Centro, installati i primi display della velocità rilevata</description>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Contrassegno Unico Disabili Europeo, richieste anche tramite patronati convenzionati</title>
-      <link>https://romamobilita.it/primo-piano/contrassegno-unico-disabili-europeo-richieste-anche-tramite-patronati-convenzionati/</link>
-      <description>Ecco le strutture che forniscono assistenza per le domande on line</description>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piano Strade, approvato progetto fattibilità per i territori municipali. Investimento da 30 milioni</title>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/la-finale-di-coppa-italia-e-il-progetto-road-to-zero-ecco-i-dati-della-sostenibilita-dellevento/</link>
       <description>Iniziativa della Lega Serie A in collaborazione con Roma Capitale e Roma Mobilità</description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Via libera al progetto di realizzazione dei varchi Ztl in uscita</title>
+      <link>https://romamobilita.it/primo-piano/via-libera-al-progetto-di-realizzazione-dei-varchi-ztl-in-uscita/</link>
+      <description>Patanè: "Controlli più efficaci per tutelare area di pregio della città"</description>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
