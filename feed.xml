@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 31 Mar 2026 10:33:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 11:50:17 +0000</lastBuildDate>
+    <item>
+      <title>Via Crucis al Colosseo, venerdì scattano le chiusure al traffico</title>
+      <link>https://romamobilita.it/primo-piano/via-crucis-al-colosseo-venerdi-in-programma-chiusure-al-traffico/</link>
+      <description>Divieti di sosta dalla notte tra 2 e 3 aprile. Nella Settimana Santa cerimonie a San Giovanni e a San</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ponte dei Congressi, consegnati i lavori. Sarà strategico per il quadrante sud-ovest</title>
       <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-consegnati-i-lavori/</link>
@@ -18,7 +24,7 @@
     <item>
       <title>Lezioni di sicurezza stradale, al “Vespucci” focus su velocità e concentrazione</title>
       <link>https://romamobilita.it/primo-piano/lezioni-di-sicurezza-stradale-al-vespucci-focus-su-velocita-e-concentrazione/</link>
-      <description>Questa mattina il corso di Roma Servizi per la Mobilità ha fatto tappa nel quarto Municipio</description>
+      <description>Il corso di Roma Servizi per la Mobilità ha fatto tappa nel IV Municipio</description>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -76,10 +82,10 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>“Eurocities”: mobilità, tecnologia e cooperazione i temi al centro del Forum</title>
-      <link>https://romamobilita.it/primo-piano/forum-eurocities-le-innovazioni-al-servizio-delle-citta/</link>
-      <description>A Roma, in Centro, installati i primi display della velocità rilevata</description>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <title>Il Mobility Forum di Eurocities a Roma, seminari tematici e visite sul campo</title>
+      <link>https://romamobilita.it/primo-piano/il-mobility-forum-di-eurocities-a-roma-nella-seconda-giornata-seminari-tematici-e-visite-sul-campo/</link>
+      <description>La stazione Colosseo della linea C come perfetto connubio tra storia e futuro</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>“Eurocities”: mobilità, tecnologia e cooperazione i temi al centro del Forum</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/la-finale-di-coppa-italia-e-il-progetto-road-to-zero-ecco-i-dati-della-sostenibilita-dellevento/</link>
       <description>Iniziativa della Lega Serie A in collaborazione con Roma Capitale e Roma Mobilità</description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via libera al progetto di realizzazione dei varchi Ztl in uscita</title>
-      <link>https://romamobilita.it/primo-piano/via-libera-al-progetto-di-realizzazione-dei-varchi-ztl-in-uscita/</link>
-      <description>Patanè: "Controlli più efficaci per tutelare area di pregio della città"</description>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
