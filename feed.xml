@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 01 Apr 2026 13:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 14:49:52 +0000</lastBuildDate>
     <item>
       <title>Via Crucis al Colosseo, venerdì scattano le chiusure al traffico</title>
       <link>https://romamobilita.it/primo-piano/via-crucis-al-colosseo-venerdi-in-programma-chiusure-al-traffico/</link>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/nel-x-municipio-riattivato-il-capolinea-dei-bus-davanti-alla-stazione-di-acilia/</link>
       <description>Dopo i lavori di riqualificazione</description>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte dei Congressi, aggiudicata la gara per la realizzazione della nuova infrastruttura</title>
+      <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-aggiudicata-la-gara-per-la-realizzazione-della-nuova-infrastruttura/</link>
+      <description>Collegherà direttamente l'autostrada Roma-Fiumicino con i quartieri Magliana, Ostiense ed Eur</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/la-finale-di-coppa-italia-e-il-progetto-road-to-zero-ecco-i-dati-della-sostenibilita-dellevento/</link>
       <description>Iniziativa della Lega Serie A in collaborazione con Roma Capitale e Roma Mobilità</description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via libera al progetto di realizzazione dei varchi Ztl in uscita</title>
-      <link>https://romamobilita.it/primo-piano/via-libera-al-progetto-di-realizzazione-dei-varchi-ztl-in-uscita/</link>
-      <description>Patanè: "Controlli più efficaci per tutelare area di pregio della città"</description>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
