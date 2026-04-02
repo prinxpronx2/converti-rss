@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 02 Apr 2026 14:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 15:34:40 +0000</lastBuildDate>
     <item>
       <title>Riqualificazione stazioni ferroviarie, il punto su cantieri e progetti</title>
       <link>https://romamobilita.it/primo-piano/riqualificazione-stazioni-ferroviarie-il-punto-su-cantieri-e-progetti/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/nel-x-municipio-riattivato-il-capolinea-dei-bus-davanti-alla-stazione-di-acilia/</link>
       <description>Dopo i lavori di riqualificazione</description>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
+      <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
+      <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ponte dei Congressi, aggiudicata la gara per la realizzazione della nuova infrastruttura</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/patane-dal-15-gennaio-zona-30-nella-ztl-centro/</link>
       <description>Patané (Mobilità): "Primo mese di assestamento per abituare i cittadini"</description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La finale di Coppa Italia e il progetto “Road to Zero”, ecco i dati di sostenibilità dell’evento</title>
-      <link>https://romamobilita.it/primo-piano/la-finale-di-coppa-italia-e-il-progetto-road-to-zero-ecco-i-dati-della-sostenibilita-dellevento/</link>
-      <description>Iniziativa della Lega Serie A in collaborazione con Roma Capitale e Roma Mobilità</description>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
