@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 03 Apr 2026 07:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 08:54:34 +0000</lastBuildDate>
     <item>
       <title>Nuova passeggiata archeologica ai Fori Imperiali, il punto sugli interventi</title>
       <link>https://romamobilita.it/primo-piano/nuova-passeggiata-archeologica-ai-fori-imperiali-il-punto-sugli-interventi/</link>
@@ -82,6 +82,12 @@
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nel X Municipio riattivato il capolinea dei bus davanti alla stazione di Acilia</title>
+      <link>https://romamobilita.it/primo-piano/nel-x-municipio-riattivato-il-capolinea-dei-bus-davanti-alla-stazione-di-acilia/</link>
+      <description>Dopo i lavori di riqualificazione</description>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
       <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
       <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
@@ -142,15 +148,15 @@
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Intervento di messa in sicurezza per l’incrocio pedonale via Ferdinando di Savoia/via Maria Adelaide</title>
-      <link>https://romamobilita.it/primo-piano/intervento-di-messa-in-sicurezza-per-lincrocio-pedonale-via-ferdinando-di-savoia-via-maria-adelaide/</link>
-      <description>Gli obiettivi da raggiungere con i lavori sul black point</description>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl, da luglio pagamento anche per le auto elettriche: costo del permesso annuale al 50 per cento rispetto agli altri veicoli</title>
       <link>https://romamobilita.it/primo-piano/ztl-da-luglio-per-le-auto-elettriche-permesso-a-pagamento-al-50-per-cento-del-costo/</link>
       <description>Resta gratuito per alcune categorie a partire da residenti e artigiani</description>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Intervento di messa in sicurezza per l’incrocio pedonale via Ferdinando di Savoia/via Maria Adelaide</title>
+      <link>https://romamobilita.it/primo-piano/intervento-di-messa-in-sicurezza-per-lincrocio-pedonale-via-ferdinando-di-savoia-via-maria-adelaide/</link>
+      <description>Gli obiettivi da raggiungere con i lavori sul black point</description>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Via dell’Isola Farnese, avviati gli interventi di messa in sicurezza</title>
       <link>https://romamobilita.it/primo-piano/via-dellisola-farnese-avviati-gli-interventi-di-messa-in-sicurezza/</link>
       <description>Per il cedimento di un costone privato, la strada è chiusa tra i civici 175 e 190</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl Centro, in vigore il limite di velocità a 30 km/h</title>
-      <link>https://romamobilita.it/primo-piano/patane-dal-15-gennaio-zona-30-nella-ztl-centro/</link>
-      <description>Patané (Mobilità): "Primo mese di assestamento per abituare i cittadini"</description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
