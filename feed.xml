@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:47:35 +0000</lastBuildDate>
     <item>
       <title>A Porta Metronia aperto il nuovo parco di via Ipponio</title>
       <link>https://romamobilita.it/primo-piano/a-porta-metronia-aperto-il-nuovo-parco-di-via-ipponio/</link>
@@ -64,6 +64,12 @@
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Sicurezza stradale, al “Federico Caffè” la quinta lezione organizzata da Rsm</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-alla-federico-caffe-la-quinta-lezione-organizzata-da-rsm/</link>
+      <description>Prosegue l'iniziativa rivolta alle ragazze e ai ragazzi del terzo e quarto anno delle superiori</description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Attraversamenti pedonali sopraelevati, allo studio intervento in via Anagnina</title>
       <link>https://romamobilita.it/primo-piano/attraversamenti-pedonali-sopraelevati-allo-studio-intervento-in-via-anagnina/</link>
       <description>Nel tratto tra i civici 3 e 19</description>
@@ -74,6 +80,12 @@
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-alla-federico-caffe-la-quinta-lezione-organizzata-da-rsm/</link>
       <description>Prosegue l'iniziativa rivolta alle ragazze e ai ragazzi del terzo e quarto anno delle superiori</description>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nel X Municipio riattivato il capolinea dei bus davanti alla stazione di Acilia</title>
+      <link>https://romamobilita.it/primo-piano/nel-x-municipio-riattivato-il-capolinea-dei-bus-davanti-alla-stazione-di-acilia/</link>
+      <description>Dopo i lavori di riqualificazione</description>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nel X Municipio riattivato il capolinea dei bus davanti alla stazione di Acilia</title>
@@ -211,18 +223,6 @@
       <title>Spostarsi in città, Atac rilascia una nuova app</title>
       <link>https://romamobilita.it/primo-piano/spostarsi-in-citta-atac-rilascia-una-nuova-app/</link>
       <description>Offre servizi integrati sulla mobilità cittadina</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via dell’Isola Farnese, avviati gli interventi di messa in sicurezza</title>
-      <link>https://romamobilita.it/primo-piano/via-dellisola-farnese-avviati-gli-interventi-di-messa-in-sicurezza/</link>
-      <description>Per il cedimento di un costone privato, la strada è chiusa tra i civici 175 e 190</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl Centro, in vigore il limite di velocità a 30 km/h</title>
-      <link>https://romamobilita.it/primo-piano/patane-dal-15-gennaio-zona-30-nella-ztl-centro/</link>
-      <description>Patané (Mobilità): "Primo mese di assestamento per abituare i cittadini"</description>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
