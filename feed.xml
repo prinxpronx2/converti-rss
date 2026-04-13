@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:13:53 +0000</lastBuildDate>
     <item>
       <title>Lavori in viale Liegi, da oggi modifiche al servizio tram</title>
       <link>https://romamobilita.it/primo-piano/atac-lavori-acea-ato2-modifiche-ai-tram-per-cinque-settimane/</link>
@@ -68,12 +68,6 @@
       <link>https://romamobilita.it/primo-piano/tramvia-termini-tor-vergata-pubblicata-la-gara-per-la-progettazione/</link>
       <description>Riguarda linea e nuovo deposito di Centocelle</description>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cantiere Pigneto, Rfi: “Posa dei primi binari per la nuova fermata”</title>
-      <link>https://romamobilita.it/primo-piano/rfi-cantiere-pigneto-al-via-la-nuova-fermata-con-la-posa-dei-primi-binari/</link>
-      <description>Futuro nodo di scambio con la metro C</description>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ponte dei Congressi, consegnati i lavori. Sarà strategico per il quadrante sud-ovest</title>
@@ -148,15 +142,15 @@
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Donne e mobilità, Roma e Milano insieme per la parità di genere</title>
-      <link>https://romamobilita.it/primo-piano/donne-e-mobilita-roma-continua-a-fare-rete-con-le-altre-citta/</link>
-      <description>La Capitale continua a fare rete con le altre città. Incontro Rsm-Amat</description>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Restyling via Veneto, c’è il calendario: l’intervento sarà tra aprile e ottobre</title>
       <link>https://romamobilita.it/primo-piano/restyling-via-veneto-ce-il-calendario-lintervento-sara-tra-aprile-e-ottobre/</link>
       <description>Prima fase al via da piazza Barberini. Focus su asfalto, marciapiedi e decoro</description>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Donne e mobilità, Roma e Milano insieme per la parità di genere</title>
+      <link>https://romamobilita.it/primo-piano/donne-e-mobilita-roma-continua-a-fare-rete-con-le-altre-citta/</link>
+      <description>La Capitale continua a fare rete con le altre città. Incontro Rsm-Amat</description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/viale-della-venezia-giulia-da-lunedi-cambio-di-viabilita-per-i-lavori-sui-marciapiedi/</link>
       <description>Senso unico da viale della Serenissima a via San Giusto. Deviati i bus di 450 e 541</description>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dai nuovi tram alle linee in fase di realizzazione, l’assessore Patanè fa il punto in commissione Mobilità</title>
+      <link>https://romamobilita.it/primo-piano/dai-nuovi-tram-alle-tranvie-in-fase-di-realizzazione-lassessore-patane-fa-il-punto-in-commissione-mobilita/</link>
+      <description>Entro il 2026 arriveranno a Roma venti nuovi convogli</description>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
