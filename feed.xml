@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 18 Apr 2026 19:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 20:48:26 +0000</lastBuildDate>
     <item>
       <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
       <link>https://romamobilita.it/primo-piano/la-formazione-di-roma-servizi-per-la-mobilita-arriva-allistituto-galilei/</link>
@@ -80,18 +80,6 @@
       <link>https://romamobilita.it/primo-piano/metromare-parcheggio-e-ponte-ciclopedonale-acilia-sud-pronti-per-il-2027/</link>
       <description>Le due opere sono finanziate con 4,3 milioni di euro, di cui 2 milioni di fondi giubilari</description>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Porta Metronia aperto il nuovo parco di via Ipponio</title>
-      <link>https://romamobilita.it/primo-piano/a-porta-metronia-aperto-il-nuovo-parco-di-via-ipponio/</link>
-      <description>Al posto dell'asfalto un percorso riqualificato all'insegna di alberi e aiuole</description>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nuova passeggiata archeologica ai Fori Imperiali, il punto sugli interventi</title>
-      <link>https://romamobilita.it/primo-piano/nuova-passeggiata-archeologica-ai-fori-imperiali-il-punto-sugli-interventi/</link>
-      <description>In commissione Giubileo</description>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Riqualificazione stazioni ferroviarie, il punto su cantieri e progetti</title>
@@ -224,6 +212,18 @@
       <link>https://romamobilita.it/primo-piano/manutenzione-strade-via-libera-a-ulteriori-risorse-con-lok-alla-variazione-di-bilancio/</link>
       <description>Dalla Giunta</description>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PolMetro a Termini, aperti i nuovi uffici del presidio nella stazione della linea A</title>
+      <link>https://romamobilita.it/primo-piano/polmetro-aperti-i-nuovi-uffici-a-termini/</link>
+      <description>L'inaugurazione alla presenza del ministro Piantedosi. Prosegue il partenariato Atac-Questura di Roma</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zone a transizione limitata, presentato il report di Kyoto Club sulla Capitale</title>
+      <link>https://romamobilita.it/primo-piano/zone-a-transizione-limitata-presentato-il-report-di-kyoto-club-sulla-capitale/</link>
+      <description>Leggi di più</description>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
