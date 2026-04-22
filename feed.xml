@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 22 Apr 2026 14:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:50:27 +0000</lastBuildDate>
     <item>
       <title>Mobilità e parità di genere, Rsm racconta la sua esperienza</title>
       <link>https://romamobilita.it/primo-piano/mobilita-e-parita-di-genere-rsm-racconta-la-sua-esperienza/</link>
@@ -82,6 +82,12 @@
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Metromare, parcheggio e ponte ciclopedonale “Acilia Sud” pronti per il 2027</title>
+      <link>https://romamobilita.it/primo-piano/metromare-parcheggio-e-ponte-ciclopedonale-acilia-sud-pronti-per-il-2027/</link>
+      <description>Le due opere sono finanziate con 4,3 milioni di euro, di cui 2 milioni di fondi giubilari</description>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>A Porta Metronia aperto il nuovo parco di via Ipponio</title>
       <link>https://romamobilita.it/primo-piano/a-porta-metronia-aperto-il-nuovo-parco-di-via-ipponio/</link>
       <description>Al posto dell'asfalto un percorso riqualificato all'insegna di alberi e aiuole</description>
@@ -142,15 +148,15 @@
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
-      <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
-      <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ponte dei Congressi, aggiudicata la gara per la realizzazione della nuova infrastruttura</title>
       <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-aggiudicata-la-gara-per-la-realizzazione-della-nuova-infrastruttura/</link>
       <description>Collegherà direttamente l'autostrada Roma-Fiumicino con i quartieri Magliana, Ostiense ed Eur</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
+      <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
+      <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/metro-c-domani-lavvio-dei-cantieri-per-quattro-nuove-stazioni/</link>
       <description>In corso modifiche alla viabilità. Per il cantiere in via Barletta, deviate anche le linee bus</description>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manutenzione strade, via libera a ulteriori risorse con l’ok alla variazione di bilancio</title>
-      <link>https://romamobilita.it/primo-piano/manutenzione-strade-via-libera-a-ulteriori-risorse-con-lok-alla-variazione-di-bilancio/</link>
-      <description>Dalla Giunta</description>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
