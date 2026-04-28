@@ -8,7 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:12:19 +0000</lastBuildDate>
+    <item>
+      <title>Lavori per la tramvia Togliatti, nuove modifiche alla viabilità e ai percorsi bus</title>
+      <link>https://romamobilita.it/primo-piano/dal-9-aprile-modifiche-per-la-viabilita-allincrocio-tra-la-prenestina-e-viale-togliatti/</link>
+      <description>Per i lavori di realizzazione della nuova tramvia</description>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venerdì primo maggio il “concertone” a San Giovanni, la mobilità</title>
+      <link>https://romamobilita.it/primo-piano/venerdi-primo-maggio-il-concertone-a-san-giovanni-la-mobilita/</link>
+      <description>Le chiusure previste e le modifiche al trasporto pubblico</description>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Olimpico, il 13 maggio la finale di Coppa Italia: sostenibilità al centro</title>
+      <link>https://romamobilita.it/primo-piano/olimpico-il-13-maggio-la-finale-di-coppa-italia-sostenibilita-al-centro/</link>
+      <description>Trasporti gratis con il mobility pass. Torna la guida Roma Gioca Sostenibile</description>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Semafori, in arrivo 38 nuovi impianti Photored. Ecco dove verranno installati</title>
       <link>https://romamobilita.it/primo-piano/semafori-in-arrivo-38-nuovi-impianti-photored-ecco-dove-verranno-installati/</link>
@@ -76,18 +94,6 @@
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lavori in viale Liegi, modifiche per le linee 2, 3 e 19</title>
-      <link>https://romamobilita.it/primo-piano/atac-lavori-acea-ato2-modifiche-ai-tram-per-cinque-settimane/</link>
-      <description>Cantiere sulla rete idrica</description>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black point, avviati i lavori all’incrocio pedonale tra piazzale Dunant e via di Monteverde</title>
-      <link>https://romamobilita.it/primo-piano/black-point-avviati-i-lavori-allincrocio-pedonale-tra-piazzale-dunant-e-via-di-monteverde/</link>
-      <description>Obiettivo più sicurezza</description>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Black point, avviati i lavori all’incrocio pedonale tra piazzale Dunant e via di Monteverde</title>
       <link>https://romamobilita.it/primo-piano/black-point-avviati-i-lavori-allincrocio-pedonale-tra-piazzale-dunant-e-via-di-monteverde/</link>
       <description>Obiettivo più sicurezza</description>
@@ -148,15 +154,15 @@
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sicurezza stradale, al “Federico Caffè” la quinta lezione organizzata da Rsm</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-alla-federico-caffe-la-quinta-lezione-organizzata-da-rsm/</link>
-      <description>Prosegue l'iniziativa rivolta alle ragazze e ai ragazzi del terzo e quarto anno delle superiori</description>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Attraversamenti pedonali sopraelevati, allo studio intervento in via Anagnina</title>
       <link>https://romamobilita.it/primo-piano/attraversamenti-pedonali-sopraelevati-allo-studio-intervento-in-via-anagnina/</link>
       <description>Nel tratto tra i civici 3 e 19</description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale, al “Federico Caffè” la quinta lezione organizzata da Rsm</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-alla-federico-caffe-la-quinta-lezione-organizzata-da-rsm/</link>
+      <description>Prosegue l'iniziativa rivolta alle ragazze e ai ragazzi del terzo e quarto anno delle superiori</description>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/donne-e-mobilita-roma-continua-a-fare-rete-con-le-altre-citta/</link>
       <description>La Capitale continua a fare rete con le altre città. Incontro Rsm-Amat</description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sensori di parcheggio, a breve l’avvio del montaggio sulle strisce blu</title>
-      <link>https://romamobilita.it/primo-piano/sensori-di-parcheggio-da-marzo-lavvio-del-montaggio-sulle-strisce-blu/</link>
-      <description>Progetto Sospas realizzato da Roma Servizi per la Mobilità</description>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
