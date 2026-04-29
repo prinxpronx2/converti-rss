@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:43:55 +0000</lastBuildDate>
     <item>
       <title>Lavori per la tramvia Togliatti, nuove modifiche alla viabilità e ai percorsi bus</title>
       <link>https://romamobilita.it/primo-piano/dal-9-aprile-modifiche-per-la-viabilita-allincrocio-tra-la-prenestina-e-viale-togliatti/</link>
@@ -62,6 +62,12 @@
       <link>https://romamobilita.it/primo-piano/intervento-sullattraversamento-pedonale-tra-via-di-pietralata-e-via-dellacqua-marcia/</link>
       <description>Obiettivi più sicurezza e accessibilità</description>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Isola Farnese, riaperta la strada di accesso al borgo</title>
+      <link>https://romamobilita.it/primo-piano/isola-farnese-riaperta-la-strada-di-accesso-al-borgo/</link>
+      <description>L'ordinanza sindacale dispone la riapertura parziale, temporanea e condizionata</description>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
@@ -142,6 +148,12 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Lezioni di sicurezza stradale, al “Vespucci” focus su velocità e concentrazione</title>
+      <link>https://romamobilita.it/primo-piano/lezioni-di-sicurezza-stradale-al-vespucci-focus-su-velocita-e-concentrazione/</link>
+      <description>Il corso di Roma Servizi per la Mobilità ha fatto tappa nel IV Municipio</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Cantiere Pigneto, Rfi: “Posa dei primi binari per la nuova fermata”</title>
       <link>https://romamobilita.it/primo-piano/rfi-cantiere-pigneto-al-via-la-nuova-fermata-con-la-posa-dei-primi-binari/</link>
       <description>Futuro nodo di scambio con la metro C</description>
@@ -151,12 +163,6 @@
       <title>Ponte dei Congressi, consegnati i lavori. Sarà strategico per il quadrante sud-ovest</title>
       <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-consegnati-i-lavori/</link>
       <description>Investimento da 299 milioni, conclusione prevista nel 2031</description>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lezioni di sicurezza stradale, al “Vespucci” focus su velocità e concentrazione</title>
-      <link>https://romamobilita.it/primo-piano/lezioni-di-sicurezza-stradale-al-vespucci-focus-su-velocita-e-concentrazione/</link>
-      <description>Il corso di Roma Servizi per la Mobilità ha fatto tappa nel IV Municipio</description>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/formazione-nelle-scuole-terza-puntata-alla-scoperta-di-bici-monopattini-e-scooter-sharing/</link>
       <description>Mattinata di confronto nell'ambito del progetto sulla sicurezza stradale</description>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Restyling via Veneto, c’è il calendario: l’intervento sarà tra aprile e ottobre</title>
-      <link>https://romamobilita.it/primo-piano/restyling-via-veneto-ce-il-calendario-lintervento-sara-tra-aprile-e-ottobre/</link>
-      <description>Prima fase al via da piazza Barberini. Focus su asfalto, marciapiedi e decoro</description>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
