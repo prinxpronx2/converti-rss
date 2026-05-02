@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 02 May 2026 01:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 04:40:03 +0000</lastBuildDate>
     <item>
       <title>Oggi Primo maggio il “concertone” a San Giovanni, la mobilità</title>
       <link>https://romamobilita.it/primo-piano/venerdi-primo-maggio-il-concertone-a-san-giovanni-la-mobilita/</link>
@@ -82,12 +82,6 @@
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
-      <link>https://romamobilita.it/primo-piano/la-formazione-di-roma-servizi-per-la-mobilita-arriva-allistituto-galilei/</link>
-      <description>Dedicate ai ragazzi le esperienze degli ingegneri di RSM</description>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Isola Farnese, riaperta la strada di accesso al borgo</title>
       <link>https://romamobilita.it/primo-piano/isola-farnese-riaperta-la-strada-di-accesso-al-borgo/</link>
       <description>L'ordinanza sindacale dispone la riapertura parziale, temporanea e condizionata</description>
@@ -148,12 +142,6 @@
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lezioni di sicurezza stradale, al “Vespucci” focus su velocità e concentrazione</title>
-      <link>https://romamobilita.it/primo-piano/lezioni-di-sicurezza-stradale-al-vespucci-focus-su-velocita-e-concentrazione/</link>
-      <description>Il corso di Roma Servizi per la Mobilità ha fatto tappa nel IV Municipio</description>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Cantiere Pigneto, Rfi: “Posa dei primi binari per la nuova fermata”</title>
       <link>https://romamobilita.it/primo-piano/rfi-cantiere-pigneto-al-via-la-nuova-fermata-con-la-posa-dei-primi-binari/</link>
       <description>Futuro nodo di scambio con la metro C</description>
@@ -163,6 +151,12 @@
       <title>Ponte dei Congressi, consegnati i lavori. Sarà strategico per il quadrante sud-ovest</title>
       <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-consegnati-i-lavori/</link>
       <description>Investimento da 299 milioni, conclusione prevista nel 2031</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lezioni di sicurezza stradale, al “Vespucci” focus su velocità e concentrazione</title>
+      <link>https://romamobilita.it/primo-piano/lezioni-di-sicurezza-stradale-al-vespucci-focus-su-velocita-e-concentrazione/</link>
+      <description>Il corso di Roma Servizi per la Mobilità ha fatto tappa nel IV Municipio</description>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/donne-e-mobilita-roma-continua-a-fare-rete-con-le-altre-citta/</link>
       <description>La Capitale continua a fare rete con le altre città. Incontro Rsm-Amat</description>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sensori di parcheggio, a breve l’avvio del montaggio sulle strisce blu</title>
+      <link>https://romamobilita.it/primo-piano/sensori-di-parcheggio-da-marzo-lavvio-del-montaggio-sulle-strisce-blu/</link>
+      <description>Progetto Sospas realizzato da Roma Servizi per la Mobilità</description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
