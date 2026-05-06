@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 06 May 2026 13:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 15:40:32 +0000</lastBuildDate>
     <item>
       <title>Black point, concluso l’intervento tra via Ferdinando di Savoia e via Maria Adelaide</title>
       <link>https://romamobilita.it/primo-piano/black-point-concluso-lintervento-tra-via-ferdinando-di-savoia-e-via-maria-adelaide/</link>
@@ -68,6 +68,18 @@
       <link>https://romamobilita.it/primo-piano/semafori-in-arrivo-38-nuovi-impianti-photored-ecco-dove-verranno-installati/</link>
       <description>Andranno ad aggiungersi agli 11 già attivi nella Capitale</description>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contrassegno disabili, le targhe vanno comunicate entro il 19 giugno</title>
+      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
+      <description>Sono due quelle associabili al permesso</description>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale e differenze di genere, lezione al liceo Majorana</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-e-differenze-di-genere-lezione-al-liceo-majorana/</link>
+      <description>Nuovo appuntamento del percorso formativo di Rsm rivolto agli studenti romani</description>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Contrassegno disabili, le targhe vanno comunicate entro il 19 giugno</title>
@@ -212,18 +224,6 @@
       <link>https://romamobilita.it/primo-piano/forum-eurocities-le-innovazioni-al-servizio-delle-citta/</link>
       <description>A Roma, in Centro, installati i primi display della velocità rilevata</description>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piano Strade, approvato progetto fattibilità per i territori municipali. Investimento da 30 milioni</title>
-      <link>https://romamobilita.it/primo-piano/piano-strade-approvato-progetto-fattibilita-per-i-territori-municipali-investimento-da-30-milioni/</link>
-      <description>I nuovi fondi parte di un pacchetto da 100 milioni per la città</description>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via Ardeatina, riaperto tratto Fotografia-Grotta Perfetta</title>
-      <link>https://romamobilita.it/primo-piano/via-ardeatina-dal-9-al-13-marzo-chiuso-tratto-fotografia-grotta-perfetta/</link>
-      <description>Ora si circola a senso unico alternato. Percorso regolare per la linea 218</description>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
