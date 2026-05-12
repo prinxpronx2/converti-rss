@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 12 May 2026 14:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 16:37:06 +0000</lastBuildDate>
     <item>
       <title>Olimpico, domani la finale di Coppa Italia: sostenibilità al centro</title>
       <link>https://romamobilita.it/primo-piano/olimpico-il-13-maggio-la-finale-di-coppa-italia-sostenibilita-al-centro/</link>
@@ -76,154 +76,10 @@
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sicurezza stradale e differenze di genere, lezione al liceo Majorana</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-e-differenze-di-genere-lezione-al-liceo-majorana/</link>
-      <description>Nuovo appuntamento del percorso formativo di Rsm rivolto agli studenti romani</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Contrassegno disabili, le targhe vanno comunicate entro il 19 giugno</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
       <description>Sono due quelle associabili al permesso</description>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobilità e parità di genere, Rsm racconta la sua esperienza</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-e-parita-di-genere-rsm-racconta-la-sua-esperienza/</link>
-      <description>In commissione comunale</description>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incidenti e consapevolezza dei rischi: presentato il progetto “Mobilità Sicura”</title>
-      <link>https://romamobilita.it/primo-piano/incidenti-e-consapevolezza-dei-rischi-presentato-il-progetto-mobilita-sicura/</link>
-      <description>Coinvolte 10 Città Metropolitane e 20 Province. Il ruolo di Rsm</description>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intervento sull’attraversamento pedonale tra via di Pietralata e via dell’Acqua Marcia</title>
-      <link>https://romamobilita.it/primo-piano/intervento-sullattraversamento-pedonale-tra-via-di-pietralata-e-via-dellacqua-marcia/</link>
-      <description>Obiettivi più sicurezza e accessibilità</description>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
-      <link>https://romamobilita.it/primo-piano/la-formazione-di-roma-servizi-per-la-mobilita-arriva-allistituto-galilei/</link>
-      <description>Dedicate ai ragazzi le esperienze degli ingegneri di RSM</description>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Isola Farnese, riaperta la strada di accesso al borgo</title>
-      <link>https://romamobilita.it/primo-piano/isola-farnese-riaperta-la-strada-di-accesso-al-borgo/</link>
-      <description>L'ordinanza sindacale dispone la riapertura parziale, temporanea e condizionata</description>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Condotta idrica Ottavia-Trionfale, nuova fase dei lavori con modifiche per la viabilità</title>
-      <link>https://romamobilita.it/primo-piano/condotta-idrica-ottavia-trionfale-da-domani-nuova-fase-dei-lavori-con-modifiche-per-la-viabilita/</link>
-      <description>Deviazioni di percorso per 11 collegamenti bus</description>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobilità sostenibile, a Valle Aurelia nuova ciclofficina/hub per gli spostamenti a pedali</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-sostenibile-a-valle-aurelia-nuova-ciclofficina-hub-per-gli-spostamenti-a-pedali/</link>
-      <description>Iniziativa di Doctorbike sviluppata nel progetto europeo Move 21 con Rsm</description>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lavori in viale Liegi, modifiche per le linee 2, 3 e 19</title>
-      <link>https://romamobilita.it/primo-piano/atac-lavori-acea-ato2-modifiche-ai-tram-per-cinque-settimane/</link>
-      <description>Cantiere sulla rete idrica</description>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black point, avviati i lavori all’incrocio pedonale tra piazzale Dunant e via di Monteverde</title>
-      <link>https://romamobilita.it/primo-piano/black-point-avviati-i-lavori-allincrocio-pedonale-tra-piazzale-dunant-e-via-di-monteverde/</link>
-      <description>Obiettivo più sicurezza</description>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessore Patanè: “La ferrovia Termini-Centocelle non rientrerà in servizio”</title>
-      <link>https://romamobilita.it/primo-piano/ferrovia-termini-centocelle-non-rientrera-in-servizio/</link>
-      <description>La linea sarà trasformata nella tramvia Termini-Tor Vergata</description>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Porta Metronia aperto il nuovo parco di via Ipponio</title>
-      <link>https://romamobilita.it/primo-piano/a-porta-metronia-aperto-il-nuovo-parco-di-via-ipponio/</link>
-      <description>Al posto dell'asfalto un percorso riqualificato all'insegna di alberi e aiuole</description>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nuova passeggiata archeologica ai Fori Imperiali, il punto sugli interventi</title>
-      <link>https://romamobilita.it/primo-piano/nuova-passeggiata-archeologica-ai-fori-imperiali-il-punto-sugli-interventi/</link>
-      <description>In commissione Giubileo</description>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Riqualificazione stazioni ferroviarie, il punto su cantieri e progetti</title>
-      <link>https://romamobilita.it/primo-piano/riqualificazione-stazioni-ferroviarie-il-punto-su-cantieri-e-progetti/</link>
-      <description>Commissione Mobilità con RFI</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Termini-Tor Vergata, pubblicata la gara per la progettazione</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-termini-tor-vergata-pubblicata-la-gara-per-la-progettazione/</link>
-      <description>Riguarda linea e nuovo deposito di Centocelle</description>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponte dei Congressi, consegnati i lavori. Sarà strategico per il quadrante sud-ovest</title>
-      <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-consegnati-i-lavori/</link>
-      <description>Investimento da 299 milioni, conclusione prevista nel 2031</description>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lezioni di sicurezza stradale, al “Vespucci” focus su velocità e concentrazione</title>
-      <link>https://romamobilita.it/primo-piano/lezioni-di-sicurezza-stradale-al-vespucci-focus-su-velocita-e-concentrazione/</link>
-      <description>Il corso di Roma Servizi per la Mobilità ha fatto tappa nel IV Municipio</description>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cantiere Pigneto, Rfi: “Posa dei primi binari per la nuova fermata”</title>
-      <link>https://romamobilita.it/primo-piano/rfi-cantiere-pigneto-al-via-la-nuova-fermata-con-la-posa-dei-primi-binari/</link>
-      <description>Futuro nodo di scambio con la metro C</description>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Attraversamenti pedonali sopraelevati, allo studio intervento in via Anagnina</title>
-      <link>https://romamobilita.it/primo-piano/attraversamenti-pedonali-sopraelevati-allo-studio-intervento-in-via-anagnina/</link>
-      <description>Nel tratto tra i civici 3 e 19</description>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nel X Municipio riattivato il capolinea dei bus davanti alla stazione di Acilia</title>
-      <link>https://romamobilita.it/primo-piano/nel-x-municipio-riattivato-il-capolinea-dei-bus-davanti-alla-stazione-di-acilia/</link>
-      <description>Dopo i lavori di riqualificazione</description>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
-      <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
-      <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Il Mobility Forum di Eurocities a Roma, seminari tematici e visite sul campo</title>
-      <link>https://romamobilita.it/primo-piano/il-mobility-forum-di-eurocities-a-roma-nella-seconda-giornata-seminari-tematici-e-visite-sul-campo/</link>
-      <description>La stazione Colosseo della linea C come perfetto connubio tra storia e futuro</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Eurocities”: mobilità, tecnologia e cooperazione i temi al centro del Forum</title>
-      <link>https://romamobilita.it/primo-piano/forum-eurocities-le-innovazioni-al-servizio-delle-citta/</link>
-      <description>A Roma, in Centro, installati i primi display della velocità rilevata</description>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piano Strade, approvato progetto fattibilità per i territori municipali. Investimento da 30 milioni</title>
-      <link>https://romamobilita.it/primo-piano/piano-strade-approvato-progetto-fattibilita-per-i-territori-municipali-investimento-da-30-milioni/</link>
-      <description>I nuovi fondi parte di un pacchetto da 100 milioni per la città</description>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
