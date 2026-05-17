@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 17 May 2026 16:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 17:31:47 +0000</lastBuildDate>
     <item>
       <title>Grande tennis al Foro Italico, finale Sinner-Ruud: la mobilità</title>
       <link>https://romamobilita.it/primo-piano/foro-italico-domenica-finale-degli-internazionali-di-tennis-la-mobilita/</link>
@@ -80,12 +80,6 @@
       <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
       <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Braccianese, avvio lavori per due nuove rotatorie</title>
-      <link>https://romamobilita.it/primo-piano/braccianese-avvio-lavori-per-due-nuove-rotatorie/</link>
-      <description>L'intervento interessa la viabilità nel territorio dei Municipi XIV e XV</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Giro d’Italia, la tappa finale è ancora a Roma</title>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/nel-x-municipio-riattivato-il-capolinea-dei-bus-davanti-alla-stazione-di-acilia/</link>
       <description>Dopo i lavori di riqualificazione</description>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
+      <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
+      <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
