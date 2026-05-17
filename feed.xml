@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 17 May 2026 17:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 19:09:05 +0000</lastBuildDate>
     <item>
       <title>Grande tennis al Foro Italico, finale Sinner-Ruud: la mobilità</title>
       <link>https://romamobilita.it/primo-piano/foro-italico-domenica-finale-degli-internazionali-di-tennis-la-mobilita/</link>
@@ -148,12 +148,6 @@
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lavori in viale Liegi, modifiche per le linee 2, 3 e 19</title>
-      <link>https://romamobilita.it/primo-piano/atac-lavori-acea-ato2-modifiche-ai-tram-per-cinque-settimane/</link>
-      <description>Cantiere sulla rete idrica</description>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Black point, avviati i lavori all’incrocio pedonale tra piazzale Dunant e via di Monteverde</title>
       <link>https://romamobilita.it/primo-piano/black-point-avviati-i-lavori-allincrocio-pedonale-tra-piazzale-dunant-e-via-di-monteverde/</link>
       <description>Obiettivo più sicurezza</description>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
       <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Il Mobility Forum di Eurocities a Roma, seminari tematici e visite sul campo</title>
+      <link>https://romamobilita.it/primo-piano/il-mobility-forum-di-eurocities-a-roma-nella-seconda-giornata-seminari-tematici-e-visite-sul-campo/</link>
+      <description>La stazione Colosseo della linea C come perfetto connubio tra storia e futuro</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
