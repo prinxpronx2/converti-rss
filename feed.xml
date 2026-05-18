@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 18 May 2026 19:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:16:19 +0000</lastBuildDate>
     <item>
       <title>Oggi sciopero generale Usb, trasporto pubblico a rischio</title>
       <link>https://romamobilita.it/primo-piano/il-18-maggio-sciopero-generale-usb-trasporto-pubblico-a-rischio/</link>
@@ -74,12 +74,6 @@
       <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
       <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Giro d’Italia, la tappa finale è ancora a Roma</title>
-      <link>https://romamobilita.it/primo-piano/giro-ditalia-la-tappa-finale-e-ancora-a-roma/</link>
-      <description>Per il quarto anno consecutivo chiuderà nella Capitale. Appuntamento il 31 maggio</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Braccianese, avvio lavori per due nuove rotatorie</title>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/il-mobility-forum-di-eurocities-a-roma-nella-seconda-giornata-seminari-tematici-e-visite-sul-campo/</link>
       <description>La stazione Colosseo della linea C come perfetto connubio tra storia e futuro</description>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Eurocities”: mobilità, tecnologia e cooperazione i temi al centro del Forum</title>
+      <link>https://romamobilita.it/primo-piano/forum-eurocities-le-innovazioni-al-servizio-delle-citta/</link>
+      <description>A Roma, in Centro, installati i primi display della velocità rilevata</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
