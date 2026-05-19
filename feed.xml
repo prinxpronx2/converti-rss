@@ -8,7 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 19 May 2026 15:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:43:06 +0000</lastBuildDate>
+    <item>
+      <title>Rete tram, le modifiche in corso sulle linee 2, 3, 8, 14 e 19</title>
+      <link>https://romamobilita.it/primo-piano/rete-tram-come-funzionera-il-servizio-dal-18-maggio/</link>
+      <description>Terminano i lavori in viale Liegi. Proseguono quelli a Parco del Celio</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale nelle scuole: tempo di bilanci per il progetto di Roma Mobilità</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-nelle-scuole-tempo-di-bilanci-per-il-progetto-di-roma-mobilita/</link>
+      <description>I numeri dell'iniziativa che ha coinvolto 1600 studenti di 8 istituti</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro A: lavori di rinnovo dell’infrastruttura</title>
+      <link>https://romamobilita.it/primo-piano/metro-a-lavori-di-rinnovo-dellinfrastruttura/</link>
+      <description>Dalle 21 di venerdì 22 a fine servizio di sabato 23 maggio, linea chiusa e sostituita da linee bus MA1</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Elettrici o a idrogeno, dal primo luglio cambiano le regole per l’accesso nelle Ztl</title>
       <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
@@ -20,12 +38,6 @@
       <link>https://romamobilita.it/primo-piano/villa-gordiani-riaperta-dopo-undici-anni-via-buie-distria/</link>
       <description>Completato l'intervento avviato a novembre 2025</description>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rete tram, come funzionerà il servizio dal 18 maggio</title>
-      <link>https://romamobilita.it/primo-piano/rete-tram-come-funzionera-il-servizio-dal-18-maggio/</link>
-      <description>Terminano i lavori in viale Liegi. Proseguono quelli a Parco del Celio</description>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Casilina, dal 15 giugno nuovo assetto per la rete di superficie</title>
@@ -68,12 +80,6 @@
       <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
       <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Giro d’Italia, la tappa finale è ancora a Roma</title>
-      <link>https://romamobilita.it/primo-piano/giro-ditalia-la-tappa-finale-e-ancora-a-roma/</link>
-      <description>Per il quarto anno consecutivo chiuderà nella Capitale. Appuntamento il 31 maggio</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Braccianese, avvio lavori per due nuove rotatorie</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
       <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Il Mobility Forum di Eurocities a Roma, seminari tematici e visite sul campo</title>
-      <link>https://romamobilita.it/primo-piano/il-mobility-forum-di-eurocities-a-roma-nella-seconda-giornata-seminari-tematici-e-visite-sul-campo/</link>
-      <description>La stazione Colosseo della linea C come perfetto connubio tra storia e futuro</description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
