@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 21 May 2026 07:52:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:24:21 +0000</lastBuildDate>
     <item>
       <title>Metro A: nel fine settimana modifiche al servizio per lavori. I dettagli</title>
       <link>https://romamobilita.it/primo-piano/metro-a-lavori-di-rinnovo-dellinfrastruttura/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/monitoraggio-della-sosta-nelle-strisce-blu-a-via-dei-cerchi-i-primi-sensori-sospas/</link>
       <description>La sostenibilità passa anche da un parcheggio più ordinato</description>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un futuro da polo culturale per l’ex-rimessa “Vittoria”</title>
+      <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
+      <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Un futuro da polo culturale per l’ex-rimessa “Vittoria”</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/nel-x-municipio-riattivato-il-capolinea-dei-bus-davanti-alla-stazione-di-acilia/</link>
       <description>Dopo i lavori di riqualificazione</description>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ridefinizione dello spazio pubblico: un bando aperto alla città</title>
-      <link>https://romamobilita.it/primo-piano/ridefinizione-dello-spazio-pubblico-un-bando-aperto-alla-citta/</link>
-      <description>Ecco cos'è l'iniziativa del Campidoglio "Spazio ai colori"</description>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
