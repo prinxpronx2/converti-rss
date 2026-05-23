@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 23 May 2026 13:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 15:05:26 +0000</lastBuildDate>
     <item>
       <title>Dalle 14 sfila il corteo da piazza della Repubblica a San Giovanni</title>
       <link>https://romamobilita.it/primo-piano/sabato-pomeriggio-corteo-tra-piazza-della-repubblica-e-san-giovanni-2/</link>
@@ -74,12 +74,6 @@
       <link>https://romamobilita.it/primo-piano/servizio-di-bus-a-chiamata-a-massimina-nuovi-mezzi-e-nuova-app/</link>
       <description>Nei prossimi mesi ClicBus arriverà anche in altre sette zone</description>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sicurezza stradale, terminata la prima fase del progetto di formazione curato da Rsm</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-conclusa-la-prima-fase-del-progetto-di-formazione-curato-da-rsm/</link>
-      <description>Gli appuntamenti riprenderanno a settembre con i laboratori creativi</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Black point, concluso l’intervento tra via Ferdinando di Savoia e via Maria Adelaide</title>
@@ -154,15 +148,15 @@
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
-      <link>https://romamobilita.it/primo-piano/la-formazione-di-roma-servizi-per-la-mobilita-arriva-allistituto-galilei/</link>
-      <description>Dedicate ai ragazzi le esperienze degli ingegneri di RSM</description>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Isola Farnese, riaperta la strada di accesso al borgo</title>
       <link>https://romamobilita.it/primo-piano/isola-farnese-riaperta-la-strada-di-accesso-al-borgo/</link>
       <description>L'ordinanza sindacale dispone la riapertura parziale, temporanea e condizionata</description>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
+      <link>https://romamobilita.it/primo-piano/la-formazione-di-roma-servizi-per-la-mobilita-arriva-allistituto-galilei/</link>
+      <description>Dedicate ai ragazzi le esperienze degli ingegneri di RSM</description>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/rfi-cantiere-pigneto-al-via-la-nuova-fermata-con-la-posa-dei-primi-binari/</link>
       <description>Futuro nodo di scambio con la metro C</description>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attraversamenti pedonali sopraelevati, allo studio intervento in via Anagnina</title>
+      <link>https://romamobilita.it/primo-piano/attraversamenti-pedonali-sopraelevati-allo-studio-intervento-in-via-anagnina/</link>
+      <description>Nel tratto tra i civici 3 e 19</description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
