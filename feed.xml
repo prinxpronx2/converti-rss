@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 24 May 2026 14:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 15:42:55 +0000</lastBuildDate>
     <item>
       <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
       <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
@@ -82,6 +82,12 @@
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Monitoraggio della sosta nelle strisce blu, a via dei Cerchi i primi sensori SOSPAS</title>
+      <link>https://romamobilita.it/primo-piano/monitoraggio-della-sosta-nelle-strisce-blu-a-via-dei-cerchi-i-primi-sensori-sospas/</link>
+      <description>La sostenibilità passa anche da un parcheggio più ordinato</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Un futuro da polo culturale per l’ex-rimessa “Vittoria”</title>
       <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
       <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
@@ -142,15 +148,15 @@
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
-      <link>https://romamobilita.it/primo-piano/la-formazione-di-roma-servizi-per-la-mobilita-arriva-allistituto-galilei/</link>
-      <description>Dedicate ai ragazzi le esperienze degli ingegneri di RSM</description>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Isola Farnese, riaperta la strada di accesso al borgo</title>
       <link>https://romamobilita.it/primo-piano/isola-farnese-riaperta-la-strada-di-accesso-al-borgo/</link>
       <description>L'ordinanza sindacale dispone la riapertura parziale, temporanea e condizionata</description>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
+      <link>https://romamobilita.it/primo-piano/la-formazione-di-roma-servizi-per-la-mobilita-arriva-allistituto-galilei/</link>
+      <description>Dedicate ai ragazzi le esperienze degli ingegneri di RSM</description>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/attraversamenti-pedonali-sopraelevati-allo-studio-intervento-in-via-anagnina/</link>
       <description>Nel tratto tra i civici 3 e 19</description>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nel X Municipio riattivato il capolinea dei bus davanti alla stazione di Acilia</title>
-      <link>https://romamobilita.it/primo-piano/nel-x-municipio-riattivato-il-capolinea-dei-bus-davanti-alla-stazione-di-acilia/</link>
-      <description>Dopo i lavori di riqualificazione</description>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
