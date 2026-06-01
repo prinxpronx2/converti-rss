@@ -8,15 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 01 Jun 2026 10:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 16:37:50 +0000</lastBuildDate>
     <item>
-      <title>Festa del 2 Giugno: dalla mattina di martedì chiusure in Centro. Deviate 35 linee</title>
-      <link>https://romamobilita.it/primo-piano/festa-del-2-giugno-dalla-mattina-di-martedi-chiusure-in-centro-deviate-35-linee/</link>
+      <title>Festa 2 Giugno: dalla mattina di domani divieti in Centro. Deviano 35 linee, chiude metro Colosseo</title>
+      <link>https://romamobilita.it/primo-piano/festa-del-2-giugno-dalla-mattina-di-martedi-divieti-in-centro-deviate-35-linee/</link>
       <description>Il piano viabilità in dettaglio</description>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Una nuova rete per via Casilina: da domani più corse bus, più connessioni</title>
+      <title>“Donne e mobilità”, giovedì nuovo momento di confronto tra città</title>
+      <link>https://romamobilita.it/primo-piano/donne-e-mobilita-giovedi-nuovo-momento-di-confronto-tra-citta/</link>
+      <description>Webinar organizzato dall'Anci in collaborazione anche con Rsm</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Una nuova rete per via Casilina: da oggi più corse bus, più connessioni</title>
       <link>https://romamobilita.it/primo-piano/una-nuova-rete-per-via-casilina-piu-corse-piu-connessioni/</link>
       <description>Intervento sulla rete di superficie dopo la chiusura della Termini-Centocelle</description>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
@@ -76,15 +82,15 @@
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Villa Gordiani, riaperta dopo undici anni via Buie d’Istria</title>
-      <link>https://romamobilita.it/primo-piano/villa-gordiani-riaperta-dopo-undici-anni-via-buie-distria/</link>
-      <description>Completato l'intervento avviato a novembre 2025</description>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Elettrici o a idrogeno, dal primo luglio cambiano le regole per l’accesso nelle Ztl</title>
       <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
       <description>Necessario il permesso. Richieste dal 16 giugno</description>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Villa Gordiani, riaperta dopo undici anni via Buie d’Istria</title>
+      <link>https://romamobilita.it/primo-piano/villa-gordiani-riaperta-dopo-undici-anni-via-buie-distria/</link>
+      <description>Completato l'intervento avviato a novembre 2025</description>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,15 +148,15 @@
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Contrassegno disabili, le targhe vanno comunicate entro il 19 giugno</title>
-      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
-      <description>Sono due quelle associabili al permesso</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sicurezza stradale e differenze di genere, lezione al liceo Majorana</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-e-differenze-di-genere-lezione-al-liceo-majorana/</link>
       <description>Nuovo appuntamento del percorso formativo di Rsm rivolto agli studenti romani</description>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contrassegno disabili, le targhe vanno comunicate entro il 19 giugno</title>
+      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
+      <description>Sono due quelle associabili al permesso</description>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/riqualificazione-stazioni-ferroviarie-il-punto-su-cantieri-e-progetti/</link>
       <description>Commissione Mobilità con RFI</description>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Termini-Tor Vergata, pubblicata la gara per la progettazione</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-termini-tor-vergata-pubblicata-la-gara-per-la-progettazione/</link>
-      <description>Riguarda linea e nuovo deposito di Centocelle</description>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

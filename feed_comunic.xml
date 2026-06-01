@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 01 Jun 2026 10:37:45 +0000</lastBuildDate>
-    <item>
-      <title>Venerdì 28 novembre sciopero generale nazionale. Trasporto pubblico a rischio</title>
-      <link>https://romamobilita.it/comunicato/venerdi-28-novembre-sciopero-generale-nazionale-trasporto-pubblico-a-rischio/</link>
-      <description>Venerdì 28 novembre trasporto pubblico a rischio per lo sciopero nazionale generale di 24 ore indetto dai sindacati Usb, Cub, Sgb e Cobas. A Roma l’agitazione interesserà la rete Atac e i bus periferici gestiti da operatori privati. Il servizio sarà comunque regolare fino alle 8,30 e dalle 17 alle 20.</description>
-      <guid isPermaLink="false">https://romamobilita.it/comunicato/venerdi-28-novembre-sciopero-generale-nazionale-trasporto-pubblico-a-rischio/</guid>
-      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sciopero del trasporto pubblico, aperte le metropolitane</title>
-      <link>https://romamobilita.it/comunicato/sciopero-del-trasporto-pubblico-aperte-le-metropolitane-2/</link>
-      <description>È in corso lo sciopero generale nazionale di 24 ore. Ecco la situazione sulla rete romana del trasporto pubblico. Metro A-B/B1 e ferrovia Termini-Centocelle: proseguono servizio con possibile riduzione di corse; -metro C: regolare -bus e tram: possibile riduzione di servizio.</description>
-      <guid isPermaLink="false">https://romamobilita.it/comunicato/sciopero-del-trasporto-pubblico-aperte-le-metropolitane-2/</guid>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Jun 2026 16:38:50 +0000</lastBuildDate>
     <item>
       <title>Sciopero generale, adesione personale Atac al 25,9%</title>
       <link>https://romamobilita.it/comunicato/sciopero-generale-adesione-personale-atac-al-259/</link>
@@ -218,6 +204,20 @@
       <description>È in corso lo sciopero generale nazionale che coinvolge anche il trasporto pubblico. Ecco la situazione sulla rete romana -metro A: attiva -metro B: attiva -metro C: attiva -Bus e tram: possibili riduzioni di corse o interruzioni Aggiornamenti su romamobilita.it</description>
       <guid isPermaLink="false">https://romamobilita.it/comunicato/sciopero-generale-aperte-le-linee-della-metropolitana/</guid>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sciopero generale, adesione personale Atac al 22%</title>
+      <link>https://romamobilita.it/comunicato/sciopero-generale-adesione-personale-atac-al-22/</link>
+      <description>L’adesione del personale Atac allo sciopero generale, rilevata in mattinata, è stata pari al 22%</description>
+      <guid isPermaLink="false">https://romamobilita.it/comunicato/sciopero-generale-adesione-personale-atac-al-22/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arrivo del Giro e corteo in Centro. Gli eventi del fine settimana</title>
+      <link>https://romamobilita.it/comunicato/arrivo-del-giro-e-corteo-in-centro-gli-eventi-del-fine-settimana/</link>
+      <description>Domenica, con partenza alle 15,30, è in programma la tappa conclusiva del Giro d’Italia. Il via è previsto dall’Eur, l’arrivo al Circo Massimo. La carovana si dirigerà prima verso Ostia poi, attraversando la Colombo, approderà in Centro. Dalle 13 scatteranno le chiusure delle carreggiate centrali di viale Colombo. Deviazioni interesseranno le linee del trasporto pubblico. Tutto il piano mobilità è consultabile, con continui aggiornamenti, su romamobilita.it Domenica, dalle 18 alle 20,30, una manifestazione sfilerà da piazzale Aldo Moro a piazza Vittorio percorrendo via dei Marrucini, via Tiburtina, via di Santa Bibiana, via Giolitti, viale Manzoni, via Principe Eugenio. Possibili brevi stop o deviazioni per le linee di bus.</description>
+      <guid isPermaLink="false">https://romamobilita.it/comunicato/arrivo-del-giro-e-corteo-in-centro-gli-eventi-del-fine-settimana/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
