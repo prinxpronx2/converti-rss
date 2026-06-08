@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 08 Jun 2026 05:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:02:38 +0000</lastBuildDate>
+    <item>
+      <title>Venerdì all’Olimpico c’è Luciano Ligabue, come raggiungere lo stadio con bus e tram</title>
+      <link>https://romamobilita.it/primo-piano/venerdi-allolimpico-ce-luciano-ligabue-come-raggiungere-lo-stadio-con-bus-e-tram/</link>
+      <description>Sono 20 i collegamenti che servono l'area del Foro Italico</description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giovedì arriva a Roma la 1000 Miglia, il piano viabilità e trasporto pubblico</title>
+      <link>https://romamobilita.it/primo-piano/giovedi-arriva-a-roma-la-1000-miglia-il-piano-viabilita-e-trasporto-pubblico/</link>
+      <description>I primi divieti al transito scatteranno domani mattina in piazzale del Brasile</description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Interventi sul verde, a giugno chiusure sulle principali arterie stradali per pulizie straordinarie</title>
       <link>https://romamobilita.it/primo-piano/interventi-sul-verde-a-giugno-pulizie-straordinarie-e-chiusure-sulle-principali-arterie-stradali/</link>
@@ -64,15 +76,15 @@
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
-      <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
-      <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Piano Roma Notte, da luglio più vigili, bonus taxi e il servizio “Come back home”</title>
       <link>https://romamobilita.it/primo-piano/piano-roma-notte-da-luglio-piu-vigili-bonus-taxi-e-il-servizio-come-back-home/</link>
       <description>Dal giovedì al sabato. Potenziate le linee nMA, nMB, nMB1 e nMC</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
+      <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
+      <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -212,18 +224,6 @@
       <link>https://romamobilita.it/primo-piano/nuova-passeggiata-archeologica-ai-fori-imperiali-il-punto-sugli-interventi/</link>
       <description>In commissione Giubileo</description>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Riqualificazione stazioni ferroviarie, il punto su cantieri e progetti</title>
-      <link>https://romamobilita.it/primo-piano/riqualificazione-stazioni-ferroviarie-il-punto-su-cantieri-e-progetti/</link>
-      <description>Commissione Mobilità con RFI</description>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Termini-Tor Vergata, pubblicata la gara per la progettazione</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-termini-tor-vergata-pubblicata-la-gara-per-la-progettazione/</link>
-      <description>Riguarda linea e nuovo deposito di Centocelle</description>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
