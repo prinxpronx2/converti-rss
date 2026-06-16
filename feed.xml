@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 16 Jun 2026 13:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:15:16 +0000</lastBuildDate>
     <item>
       <title>Autoveicoli elettrici in Ztl, da oggi le richieste per il permesso</title>
       <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
@@ -16,9 +16,15 @@
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>All’Olimpico oggi c’è Eros Ramazzotti, come raggiungere lo stadio con bus e tram</title>
+      <title>Anche Roma a “Velocity”, il summit mondiale dedicato alle bici in corso a Rimini</title>
+      <link>https://romamobilita.it/primo-piano/anche-roma-a-velocity-il-summit-mondiale-dedicato-alle-bici-in-corso-a-rimini/</link>
+      <description>La Capitale si conferma tra i Comuni Ciclabili e si prepara a raccontare Grab e Biciplan</description>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>All’Olimpico oggi c’è Eros Ramazzotti, metro attive fino all’1,30 di notte</title>
       <link>https://romamobilita.it/primo-piano/domani-allolimpico-ce-eros-ramazzotti-come-raggiungere-lo-stadio-con-bus-e-tram/</link>
-      <description>Prolungato il servizio del metrò: le ultime corse saranno all'1.30</description>
+      <description>Venti i collegamenti tra bus e tram che servono l'area del Foro Italico</description>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -68,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/flotte-aziendali-si-fa-strada-la-mobilita-condivisa/</link>
       <description>Il tema, al centro del convegno 'Telematic Fleet Day' patrocinato da Rsm</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Progetto “100 parchi per Roma”: al via 16 nuovi interventi</title>
+      <link>https://romamobilita.it/primo-piano/progetto-100-parchi-per-roma-al-via-16-nuovi-interventi/</link>
+      <description>Entro la prossima primavera termina il piano di forestazione urbana con un milione di alberi</description>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Progetto “100 parchi per Roma”: al via 16 nuovi interventi</title>
@@ -148,15 +160,15 @@
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Semafori, in arrivo 38 nuovi impianti Photored. Ecco dove verranno installati</title>
-      <link>https://romamobilita.it/primo-piano/semafori-in-arrivo-38-nuovi-impianti-photored-ecco-dove-verranno-installati/</link>
-      <description>Andranno ad aggiungersi agli 11 già attivi nella Capitale</description>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Lavori tramvia Togliatti, modifiche alla viabilità e ai percorsi bus altezza viale Bardanzellu</title>
       <link>https://romamobilita.it/primo-piano/modifiche-per-la-viabilita-allincrocio-tra-viale-bardanzellu-e-viale-togliatti/</link>
       <description>Le linee 309, 319 e 450 sono deviate</description>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semafori, in arrivo 38 nuovi impianti Photored. Ecco dove verranno installati</title>
+      <link>https://romamobilita.it/primo-piano/semafori-in-arrivo-38-nuovi-impianti-photored-ecco-dove-verranno-installati/</link>
+      <description>Andranno ad aggiungersi agli 11 già attivi nella Capitale</description>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -212,18 +224,6 @@
       <link>https://romamobilita.it/primo-piano/black-point-avviati-i-lavori-allincrocio-pedonale-tra-piazzale-dunant-e-via-di-monteverde/</link>
       <description>Obiettivo più sicurezza</description>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessore Patanè: “La ferrovia Termini-Centocelle non rientrerà in servizio”</title>
-      <link>https://romamobilita.it/primo-piano/ferrovia-termini-centocelle-non-rientrera-in-servizio/</link>
-      <description>La linea sarà trasformata nella tramvia Termini-Tor Vergata</description>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Porta Metronia aperto il nuovo parco di via Ipponio</title>
-      <link>https://romamobilita.it/primo-piano/a-porta-metronia-aperto-il-nuovo-parco-di-via-ipponio/</link>
-      <description>Al posto dell'asfalto un percorso riqualificato all'insegna di alberi e aiuole</description>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
