@@ -8,9 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 17 Jun 2026 07:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:16:02 +0000</lastBuildDate>
     <item>
-      <title>Autoveicoli elettrici in Ztl, da oggi le richieste per il permesso</title>
+      <title>Concerti all’Olimpico, lo stadio si prepara per l’arrivo di Geolier</title>
+      <link>https://romamobilita.it/primo-piano/domani-allolimpico-ce-eros-ramazzotti-come-raggiungere-lo-stadio-con-bus-e-tram/</link>
+      <description>Il Foro Italico si può raggiungere con 20 linee del trasporto pubblico. Il venerdì, metro sino all'1.30</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sabato pomeriggio Roma Pride da piazza della Repubblica a Caracalla, la viabilità e il tpl</title>
+      <link>https://romamobilita.it/primo-piano/sabato-pomeriggio-roma-pride-da-piazza-della-repubblica-a-caracalla-la-viabilita-e-il-tpl/</link>
+      <description>Cambi di percorso o limitazioni per 34 linee del trasporto pubblico</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autoveicoli elettrici in Ztl, da ieri le richieste per il permesso</title>
       <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
       <description>Dal primo luglio in vigore le nuove regole: ecco cosa sapere</description>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
@@ -74,12 +86,6 @@
       <link>https://romamobilita.it/primo-piano/flotte-aziendali-si-fa-strada-la-mobilita-condivisa/</link>
       <description>Il tema, al centro del convegno 'Telematic Fleet Day' patrocinato da Rsm</description>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Progetto “100 parchi per Roma”: al via 16 nuovi interventi</title>
-      <link>https://romamobilita.it/primo-piano/progetto-100-parchi-per-roma-al-via-16-nuovi-interventi/</link>
-      <description>Entro la prossima primavera termina il piano di forestazione urbana con un milione di alberi</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Progetto “100 parchi per Roma”: al via 16 nuovi interventi</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/mobilita-sostenibile-a-valle-aurelia-nuova-ciclofficina-hub-per-gli-spostamenti-a-pedali/</link>
       <description>Iniziativa di Doctorbike sviluppata nel progetto europeo Move 21 con Rsm</description>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black point, avviati i lavori all’incrocio pedonale tra piazzale Dunant e via di Monteverde</title>
-      <link>https://romamobilita.it/primo-piano/black-point-avviati-i-lavori-allincrocio-pedonale-tra-piazzale-dunant-e-via-di-monteverde/</link>
-      <description>Obiettivo più sicurezza</description>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
