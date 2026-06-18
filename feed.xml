@@ -8,23 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 18 Jun 2026 09:53:08 +0000</lastBuildDate>
-    <item>
-      <title>“Comuni Ciclabili”, la crescita di Roma passa anche per il Grab. La Capitale si racconta a Velocity</title>
-      <link>https://romamobilita.it/primo-piano/roma-a-velocity-il-summit-mondiale-dedicato-alle-bici-in-corso-a-rimini/</link>
-      <description>La città ottiene per la settima volta il riconoscimento FIAB</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Jun 2026 12:51:59 +0000</lastBuildDate>
     <item>
       <title>Concerti all’Olimpico, lo stadio si prepara per l’arrivo di Geolier</title>
       <link>https://romamobilita.it/primo-piano/domani-allolimpico-ce-eros-ramazzotti-come-raggiungere-lo-stadio-con-bus-e-tram/</link>
       <description>Il Foro Italico si può raggiungere con 20 linee del trasporto pubblico. Il venerdì, metro sino all'1.30</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interventi sul verde, a giugno chiusure sulle principali arterie stradali per pulizie straordinarie</title>
+      <link>https://romamobilita.it/primo-piano/interventi-sul-verde-a-giugno-pulizie-straordinarie-e-chiusure-sulle-principali-arterie-stradali/</link>
+      <description>Oggi e lunedì lavori anche sulla Tangenziale</description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sabato pomeriggio Roma Pride da piazza della Repubblica a Caracalla, la viabilità e il tpl</title>
       <link>https://romamobilita.it/primo-piano/sabato-pomeriggio-roma-pride-da-piazza-della-repubblica-a-caracalla-la-viabilita-e-il-tpl/</link>
       <description>Cambi di percorso o limitazioni per 34 linee del trasporto pubblico</description>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Comuni Ciclabili”, la crescita di Roma passa anche per il Grab. La Capitale si racconta a Velocity</title>
+      <link>https://romamobilita.it/primo-piano/roma-a-velocity-il-summit-mondiale-dedicato-alle-bici-in-corso-a-rimini/</link>
+      <description>La città ottiene per la settima volta il riconoscimento FIAB</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -62,12 +68,6 @@
       <link>https://romamobilita.it/primo-piano/stazione-metro-circo-massimo-nuovo-look-ispirato-alla-promozione-della-missione-fao/</link>
       <description>Installazioni e contenuti informativi dedicati al quadro dei "FourBetters+1"</description>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interventi sul verde, a giugno chiusure sulle principali arterie stradali per pulizie straordinarie</title>
-      <link>https://romamobilita.it/primo-piano/interventi-sul-verde-a-giugno-pulizie-straordinarie-e-chiusure-sulle-principali-arterie-stradali/</link>
-      <description>Il 18 e il 22 lavori anche sulla Tangenziale</description>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>“Donne e mobilità”, nuovo momento di confronto tra città</title>
