@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 19 Jun 2026 18:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:13:57 +0000</lastBuildDate>
     <item>
       <title>Velocity, Patanè: “Roma può diventare un comune ciclabile di livello avanzato”</title>
       <link>https://romamobilita.it/primo-piano/velocity-patane-roma-puo-diventare-un-comune-ciclabile-di-livello-avanzato/</link>
@@ -80,12 +80,6 @@
       <link>https://romamobilita.it/primo-piano/donne-e-mobilita-giovedi-nuovo-momento-di-confronto-tra-citta/</link>
       <description>Webinar organizzato dall'Anci in collaborazione anche con Rsm</description>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponte dei Congressi, firmato il contratto con l’impresa aggiudicataria dell’intervento</title>
-      <link>https://romamobilita.it/primo-piano/ponte-dei-congressi-firmato-il-contratto-con-limpresa-aggiudicataria-dellintervento/</link>
-      <description>L'obiettivo di Anas è avviare i lavori di cantiere entro aprile 2027</description>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Flotte aziendali, si fa strada la mobilità condivisa</title>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/isola-farnese-riaperta-la-strada-di-accesso-al-borgo/</link>
       <description>L'ordinanza sindacale dispone la riapertura parziale, temporanea e condizionata</description>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilità sostenibile, a Valle Aurelia nuova ciclofficina/hub per gli spostamenti a pedali</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-sostenibile-a-valle-aurelia-nuova-ciclofficina-hub-per-gli-spostamenti-a-pedali/</link>
+      <description>Iniziativa di Doctorbike sviluppata nel progetto europeo Move 21 con Rsm</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
