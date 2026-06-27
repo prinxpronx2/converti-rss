@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 27 Jun 2026 13:42:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 15:15:32 +0000</lastBuildDate>
     <item>
       <title>Tiziano Ferro all’Olimpico, doppia data romana per il suo tour. Oggi linee metro sino all’1.30</title>
       <link>https://romamobilita.it/primo-piano/sabato-e-domenica-tiziano-ferro-allolimpico-come-raggiungere-il-foro-italico-con-il-tpl/</link>
@@ -82,6 +82,12 @@
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>“Comuni Ciclabili”, la crescita di Roma passa anche per il Grab. La Capitale si racconta a Velocity</title>
+      <link>https://romamobilita.it/primo-piano/roma-a-velocity-il-summit-mondiale-dedicato-alle-bici-in-corso-a-rimini/</link>
+      <description>La città ottiene per la settima volta il riconoscimento FIAB</description>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Veicoli elettrici, in Italia nel 2035 saranno 8 milioni. Tutti i numeri del convegno Motus-E</title>
       <link>https://romamobilita.it/primo-piano/veicoli-elettrici-in-italia-nel-2035-saranno-8-milioni-tutti-i-numeri-del-convegno-motus-e/</link>
       <description>Presentato il "Libro Bianco" sulla Mobilità elettrica</description>
@@ -142,15 +148,15 @@
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
-      <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
-      <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Piano Roma Notte, da luglio più vigili, bonus taxi e il servizio “Come back home”</title>
       <link>https://romamobilita.it/primo-piano/piano-roma-notte-da-luglio-piu-vigili-bonus-taxi-e-il-servizio-come-back-home/</link>
       <description>Dal giovedì al sabato. Potenziate le linee nMA, nMB, nMB1 e nMC</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
+      <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
+      <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Contrassegno disabili, le targhe vanno comunicate entro il 19 giugno</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
       <description>Sono due quelle associabili al permesso</description>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sicurezza stradale e differenze di genere, lezione al liceo Majorana</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-e-differenze-di-genere-lezione-al-liceo-majorana/</link>
-      <description>Nuovo appuntamento del percorso formativo di Rsm rivolto agli studenti romani</description>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
