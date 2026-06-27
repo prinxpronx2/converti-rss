@@ -8,12 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 27 Jun 2026 07:48:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:08:12 +0000</lastBuildDate>
+    <item>
+      <title>Tiziano Ferro all’Olimpico, doppia data romana per il suo tour. Oggi linee metro sino all’1.30</title>
+      <link>https://romamobilita.it/primo-piano/sabato-e-domenica-tiziano-ferro-allolimpico-come-raggiungere-il-foro-italico-con-il-tpl/</link>
+      <description>Leggi di più</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Taxi, oggi sciopero dalle 8 alle 22</title>
       <link>https://romamobilita.it/primo-piano/taxi-oggi-sciopero-dalle-8-alle-22/</link>
       <description>E questa sera dalle 20.30 quattro ore di agitazione sulla rete Atac di superficie</description>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salaria, dal 29 giugno al 18 luglio lavori sul cavalcavia danneggiato nel 2021</title>
+      <link>https://romamobilita.it/primo-piano/salaria-da-29-giugno-al-18-luglio-lavori-sul-cavalcavia-danneggiato-nel-2021/</link>
+      <description>Modifica di viabilità all'altezza della Motorizzazione Civile. Traffico deviato sulle complanari</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sabato sfilata in Centro per gli 80 anni della Vespa, chiusure e deviazioni</title>
@@ -25,12 +37,6 @@
       <title>Mobilità intelligente e connessa, prima sperimentazione a Roma</title>
       <link>https://romamobilita.it/primo-piano/mobilita-intelligente-e-connessa-prima-sperimentazione-a-roma/</link>
       <description>Teatro della prova l'autostrada Roma-Fiumicino e la Colombo</description>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oggi e domani Tiziano Ferro all’Olimpico, come raggiungere il Foro Italico con il tpl</title>
-      <link>https://romamobilita.it/primo-piano/sabato-e-domenica-tiziano-ferro-allolimpico-come-raggiungere-il-foro-italico-con-il-tpl/</link>
-      <description>Leggi di più</description>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -74,18 +80,6 @@
       <link>https://romamobilita.it/primo-piano/roma-a-velocity-il-summit-mondiale-dedicato-alle-bici-in-corso-a-rimini/</link>
       <description>La città ottiene per la settima volta il riconoscimento FIAB</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veicoli elettrici, in Italia nel 2035 saranno 8 milioni. Tutti i numeri del convegno Motus-E</title>
-      <link>https://romamobilita.it/primo-piano/veicoli-elettrici-in-italia-nel-2035-saranno-8-milioni-tutti-i-numeri-del-convegno-motus-e/</link>
-      <description>Presentato il "Libro Bianco" sulla Mobilità elettrica</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veicoli elettrici, in Italia nel 2035 saranno 8 milioni. Tutti i numeri del convegno Motus-E</title>
-      <link>https://romamobilita.it/primo-piano/veicoli-elettrici-in-italia-nel-2035-saranno-8-milioni-tutti-i-numeri-del-convegno-motus-e/</link>
-      <description>Presentato il "Libro Bianco" sulla Mobilità elettrica</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rete bus Casilina: più corse per 105 e 409</title>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-e-differenze-di-genere-lezione-al-liceo-majorana/</link>
       <description>Nuovo appuntamento del percorso formativo di Rsm rivolto agli studenti romani</description>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilità e parità di genere, Rsm racconta la sua esperienza</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-e-parita-di-genere-rsm-racconta-la-sua-esperienza/</link>
+      <description>In commissione comunale</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
