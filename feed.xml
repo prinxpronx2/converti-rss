@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 29 Jun 2026 13:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:44:47 +0000</lastBuildDate>
+    <item>
+      <title>Il trasporto pubblico a chiamata arriva in altri sette quartieri</title>
+      <link>https://romamobilita.it/primo-piano/il-trasporto-pubblico-a-chiamata-arriva-in-altri-sette-quartieri/</link>
+      <description>Si espande il servizio di ClicBus e Atac</description>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Salaria, fino al 18 luglio lavori sul cavalcavia danneggiato nel 2021</title>
       <link>https://romamobilita.it/primo-piano/salaria-da-29-giugno-al-18-luglio-lavori-sul-cavalcavia-danneggiato-nel-2021/</link>
@@ -142,15 +148,15 @@
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
-      <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
-      <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Piano Roma Notte, da luglio più vigili, bonus taxi e il servizio “Come back home”</title>
       <link>https://romamobilita.it/primo-piano/piano-roma-notte-da-luglio-piu-vigili-bonus-taxi-e-il-servizio-come-back-home/</link>
       <description>Dal giovedì al sabato. Potenziate le linee nMA, nMB, nMB1 e nMC</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
+      <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
+      <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-e-differenze-di-genere-lezione-al-liceo-majorana/</link>
       <description>Nuovo appuntamento del percorso formativo di Rsm rivolto agli studenti romani</description>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobilità e parità di genere, Rsm racconta la sua esperienza</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-e-parita-di-genere-rsm-racconta-la-sua-esperienza/</link>
-      <description>In commissione comunale</description>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
