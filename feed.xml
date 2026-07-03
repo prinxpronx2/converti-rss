@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 03 Jul 2026 14:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 16:06:24 +0000</lastBuildDate>
+    <item>
+      <title>Contrassegno disabili, dopo il 21 agosto in Ztl accesso possibile solo con la targa principale</title>
+      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
+      <description>Le informazioni utili sul "CUDE"</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Il 4 luglio concerto – raduno di Ultimo a Tor Vergata, come arrivare all’evento</title>
       <link>https://romamobilita.it/primo-piano/il-4-luglio-il-concerto-raduno-di-ultimo-a-tor-vergata-come-arrivare-allevento/</link>
@@ -32,12 +38,6 @@
       <link>https://romamobilita.it/primo-piano/il-trasporto-pubblico-a-chiamata-arriva-in-altri-sette-quartieri/</link>
       <description>Si espande il servizio di ClicBus e Atac. Nuove attivazioni dal 6 e poi dal 13 luglio</description>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Contrassegno disabili, tutto quello che c’è da sapere</title>
-      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
-      <description>Due le targhe associabili al permesso. Dopo il 21 agosto, solo una per entrare in Ztl</description>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Capolinea tram 19, Giunta approva il progetto esecutivo</title>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/tramvia-togliatti-da-mercoledi-nuova-fase-del-cantiere-e-chiusure/</link>
       <description>Nuova fase del cantiere</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interventi di manutenzione del verde sulle principali arterie cittadine, il programma</title>
+      <link>https://romamobilita.it/primo-piano/interventi-sul-verde-a-giugno-pulizie-straordinarie-e-chiusure/</link>
+      <description>Il 28 giugno lavori lungo la Panoramica</description>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Autoveicoli elettrici in Ztl, da ieri le richieste per il permesso</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/intervento-sullattraversamento-pedonale-tra-via-di-pietralata-e-via-dellacqua-marcia/</link>
       <description>Obiettivi più sicurezza e accessibilità</description>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La formazione di Roma Servizi per la Mobilità arriva all’Istituto Galilei</title>
-      <link>https://romamobilita.it/primo-piano/la-formazione-di-roma-servizi-per-la-mobilita-arriva-allistituto-galilei/</link>
-      <description>Dedicate ai ragazzi le esperienze degli ingegneri di RSM</description>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
