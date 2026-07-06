@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 06 Jul 2026 20:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:55:04 +0000</lastBuildDate>
     <item>
       <title>Domani la We Run Rome, le modifiche alla viabilità</title>
       <link>https://romamobilita.it/comunicato/domani-la-we-run-rome-le-modifiche-alla-viabilita/</link>
@@ -122,6 +122,13 @@
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Due cortei e una gara podistica. Il programma del fine settimana</title>
+      <link>https://romamobilita.it/comunicato/due-cortei-e-una-gara-podistica-il-programma-del-fine-settimana/</link>
+      <description>Domattina, dalle 8,30, nel quartiere Trieste, si svolgerà una corsa podistica. Il percorso della gara, con partenza e arrivo in corso Trieste, si snoderà lungo via Corsica, via Capodistria, via Nomentana (corsia complanare), vicolo della Fontana, via delle Alpi, piazza Caprera, via degli Appennini, piazza Trento, e via Malta. Deviate le linee di bus. Domani, dalle 15 alle 19, un corteo da piazza dei Cinquecento raggiungerà piazza di Porta San Giovanni, sfilando per via Cavour, piazza dell’Esquilino, via Liberiana, piazza di Santa Maria Maggiore, via Merulana. Deviate o limitate le linee del trasporto pubblico. Domani, dalle 15 alle 21, è in programma un corteo da piazza della Stazione Prenestina a via Francesco Compagna/via Urbano Cioccetti. La manifestazione attraverserà viale della Venezia Giulia, via Collatina, via di Grotta di Gregna, viale Sacco e Vanzetti, via Palmiro Togliatti, via Ettore Franceschini e viale Battista Bardanzellu. Possibili deviazioni o brevi stop per i bus. Ulteriori dettagli e aggiornamenti in tempo reale su romamobilita.it</description>
+      <guid isPermaLink="false">https://romamobilita.it/comunicato/due-cortei-e-una-gara-podistica-il-programma-del-fine-settimana/</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Sciopero generale nazionale, aperte metro A e B/B1, chiusa la C</title>
       <link>https://romamobilita.it/comunicato/sciopero-generale-nazionale-aperte-metro-a-e-b-b1-chiusa-la-c/</link>
       <description>È in corso lo sciopero generale nazionale indetto dal sindacato Usb. Questa la situazione sulla rete romana: metro A: prosegue servizio con possibile riduzione di corse metro B: prosegue servizio con possibile riduzione di corse metro C: chiusa superficie: possibili riduzioni di corse o sospensioni di servizio intera rete.</description>
@@ -211,13 +218,6 @@
       <description>Stasera, dalle 20, nell’area del Parco di Traiano, è in programma il “Rally di Roma Capitale 2026”. La Premiazione è invece prevista domenica in via della Conciliazione. Fino alle 7 di domani saranno chiuse al traffico via degli Annibaldi e via Nicola Salvi. Dalle 16.30 alle 22 di domenica sarà chiusa via della Traspontina. Per quanto riguarda il concerto di Ultimo, in programma domani a Tor Vergata, il piano mobilità nel dettaglio è consultabile su romamobilita.it</description>
       <guid isPermaLink="false">https://romamobilita.it/comunicato/rally-di-roma-capitale-chiusure-tra-stasera-e-domenica/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Due cortei e una gara podistica. Il programma del fine settimana</title>
-      <link>https://romamobilita.it/comunicato/due-cortei-e-una-gara-podistica-il-programma-del-fine-settimana/</link>
-      <description>Domattina, dalle 8,30, nel quartiere Trieste, si svolgerà una corsa podistica. Il percorso della gara, con partenza e arrivo in corso Trieste, si snoderà lungo via Corsica, via Capodistria, via Nomentana (corsia complanare), vicolo della Fontana, via delle Alpi, piazza Caprera, via degli Appennini, piazza Trento, e via Malta. Deviate le linee di bus. Domani, dalle 15 alle 19, un corteo da piazza dei Cinquecento raggiungerà piazza di Porta San Giovanni, sfilando per via Cavour, piazza dell’Esquilino, via Liberiana, piazza di Santa Maria Maggiore, via Merulana. Deviate o limitate le linee del trasporto pubblico. Domani, dalle 15 alle 21, è in programma un corteo da piazza della Stazione Prenestina a via Francesco Compagna/via Urbano Cioccetti. La manifestazione attraverserà viale della Venezia Giulia, via Collatina, via di Grotta di Gregna, viale Sacco e Vanzetti, via Palmiro Togliatti, via Ettore Franceschini e viale Battista Bardanzellu. Possibili deviazioni o brevi stop per i bus. Ulteriori dettagli e aggiornamenti in tempo reale su romamobilita.it</description>
-      <guid isPermaLink="false">https://romamobilita.it/comunicato/due-cortei-e-una-gara-podistica-il-programma-del-fine-settimana/</guid>
-      <pubDate>Mon, 06 Jul 2026 20:23:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
