@@ -8,18 +8,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 07 Jul 2026 12:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 15:26:02 +0000</lastBuildDate>
     <item>
-      <title>Il trasporto pubblico a chiamata arriva in altri sette quartieri</title>
+      <title>ClicBus, il trasporto pubblico a chiamata in altri sette quartieri</title>
       <link>https://romamobilita.it/primo-piano/il-trasporto-pubblico-a-chiamata-arriva-in-altri-sette-quartieri/</link>
-      <description>Si espande il servizio di ClicBus. Nuove attivazioni da oggi e poi dal 13 luglio</description>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Si espande il servizio con nuove attivazioni in questo mese di luglio</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Via Salaria, riaperto il tratto tra piazza di Priscilla e via di Ponte Salario</title>
       <link>https://romamobilita.it/primo-piano/via-salaria-riaperto-il-tratto-tra-piazza-di-priscilla-e-via-di-ponte-salario/</link>
       <description>Terminato il cantiere di messa in sicurezza della scarpata</description>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aida al Circo Massimo, sabato torna la “Linea Opera”</title>
+      <link>https://romamobilita.it/primo-piano/aida-al-circo-massimo-sabato-torna-la-linea-opera/</link>
+      <description>Bus dedicati dai municipi per rendere l'Opera accessibile a tutti i cittadini</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vallo ferroviario del Pigneto e trenino giallo: istituiti due tavoli di aggiornamento</title>
+      <link>https://romamobilita.it/primo-piano/vallo-ferroviario-del-pigneto-e-trenino-giallo-istituiti-due-tavoli-di-aggiornamento/</link>
+      <description>Si svolgeranno in modalità telematica nelle giornate del 9 e del 16 luglio</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Concerto Ultimo a Tor Vergata, trasportati dall’Atac oltre 175mila passeggeri</title>
@@ -68,12 +80,6 @@
       <link>https://romamobilita.it/primo-piano/sosta-nelle-strisce-blu-atac-con-i-pagamenti-digitali-via-i-grattini/</link>
       <description>Dal 30 giugno stop ai titoli cartacei per il parcheggio</description>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Togliatti, chiuso incrocio Togliatti/Sacco e Vanzetti/Franceschini</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-da-mercoledi-nuova-fase-del-cantiere-e-chiusure/</link>
-      <description>Nuova fase del cantiere</description>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La mobilità come servizio (MaaS) fa crescere gli spostamenti condivisi. Ma servono risorse</title>
@@ -148,15 +154,15 @@
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Piano Roma Notte, da luglio più vigili, bonus taxi e il servizio “Come back home”</title>
-      <link>https://romamobilita.it/primo-piano/piano-roma-notte-da-luglio-piu-vigili-bonus-taxi-e-il-servizio-come-back-home/</link>
-      <description>Dal giovedì al sabato. Potenziate le linee nMA, nMB, nMB1 e nMC</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
       <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
       <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piano Roma Notte, da luglio più vigili, bonus taxi e il servizio “Come back home”</title>
+      <link>https://romamobilita.it/primo-piano/piano-roma-notte-da-luglio-piu-vigili-bonus-taxi-e-il-servizio-come-back-home/</link>
+      <description>Dal giovedì al sabato. Potenziate le linee nMA, nMB, nMB1 e nMC</description>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Mobilità e parità di genere, Rsm racconta la sua esperienza</title>
       <link>https://romamobilita.it/primo-piano/mobilita-e-parita-di-genere-rsm-racconta-la-sua-esperienza/</link>
       <description>In commissione comunale</description>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incidenti e consapevolezza dei rischi: presentato il progetto “Mobilità Sicura”</title>
-      <link>https://romamobilita.it/primo-piano/incidenti-e-consapevolezza-dei-rischi-presentato-il-progetto-mobilita-sicura/</link>
-      <description>Coinvolte 10 Città Metropolitane e 20 Province. Il ruolo di Rsm</description>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
