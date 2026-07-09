@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 09 Jul 2026 13:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:12:45 +0000</lastBuildDate>
     <item>
       <title>Atac, approvato il bilancio 2025. Conti in utile per il terzo anno consecutivo</title>
       <link>https://romamobilita.it/primo-piano/atac-approvato-il-bilancio-2025-conti-in-utile-per-il-terzo-anno-consecutivo/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
       <description>Dal primo luglio in vigore le nuove regole</description>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salaria, fino al 18 luglio lavori sul cavalcavia danneggiato nel 2021</title>
+      <link>https://romamobilita.it/primo-piano/salaria-da-29-giugno-al-18-luglio-lavori-sul-cavalcavia-danneggiato-nel-2021/</link>
+      <description>Modifica di viabilità all'altezza della Motorizzazione Civile. Traffico deviato sulla laterale</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Salaria, fino al 18 luglio lavori sul cavalcavia danneggiato nel 2021</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
       <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Braccianese, avvio lavori per due nuove rotatorie</title>
-      <link>https://romamobilita.it/primo-piano/braccianese-avvio-lavori-per-due-nuove-rotatorie/</link>
-      <description>L'intervento interessa la viabilità nel territorio dei Municipi XIV e XV</description>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
