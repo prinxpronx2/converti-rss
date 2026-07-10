@@ -8,12 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:24:10 +0000</lastBuildDate>
+    <item>
+      <title>ClicBus, dal 13 luglio si completano le nuove attivazioni in programma</title>
+      <link>https://romamobilita.it/primo-piano/il-trasporto-pubblico-a-chiamata-arriva-in-altri-sette-quartieri/</link>
+      <description>La prima fase è scattata il 6 luglio. Da lunedì il servizio arriva in altre tre zone</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aida al Circo Massimo, domani torna la “Linea Opera”</title>
+      <link>https://romamobilita.it/primo-piano/aida-al-circo-massimo-sabato-torna-la-linea-opera/</link>
+      <description>Bus dedicati dai municipi per rendere l'Opera accessibile a tutti i cittadini</description>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Piano Roma Notte, potenziati i bus notturni. E a bordo salgono gli assistenti Atac</title>
       <link>https://romamobilita.it/primo-piano/piano-roma-notte-potenziati-i-bus-notturni-e-a-bordo-salgono-gli-assistenti-atac/</link>
       <description>Più corse sulle linee nMA, nMB, nMB1, nMC. Gli assistenti presenti anche in 10 stazioni metro</description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Atac, approvato il bilancio 2025. Conti in utile per il terzo anno consecutivo</title>
@@ -28,21 +40,9 @@
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ClicBus, il trasporto pubblico a chiamata in altri sette quartieri</title>
-      <link>https://romamobilita.it/primo-piano/il-trasporto-pubblico-a-chiamata-arriva-in-altri-sette-quartieri/</link>
-      <description>Si espande il servizio con nuove attivazioni in questo mese di luglio</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Via Salaria, riaperto il tratto tra piazza di Priscilla e via di Ponte Salario</title>
       <link>https://romamobilita.it/primo-piano/via-salaria-riaperto-il-tratto-tra-piazza-di-priscilla-e-via-di-ponte-salario/</link>
       <description>Terminato il cantiere di messa in sicurezza della scarpata</description>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aida al Circo Massimo, sabato torna la “Linea Opera”</title>
-      <link>https://romamobilita.it/primo-piano/aida-al-circo-massimo-sabato-torna-la-linea-opera/</link>
-      <description>Bus dedicati dai municipi per rendere l'Opera accessibile a tutti i cittadini</description>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -76,6 +76,18 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Incidenti, in Europa prevale la percentuale sulle strade urbane</title>
+      <link>https://romamobilita.it/primo-piano/incidenti-in-europa-prevale-la-percentuale-sulle-strade-urbane/</link>
+      <description>Lo studio della Fondazione Caracciolo analizza il periodo 2014-2024</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autoveicoli elettrici in Ztl, cosa è cambiato e come richiedere il permesso</title>
+      <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
+      <description>Dal primo luglio in vigore le nuove regole</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Autoveicoli elettrici in Ztl, cosa è cambiato e come richiedere il permesso</title>
       <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
       <description>Dal primo luglio in vigore le nuove regole</description>
@@ -103,12 +115,6 @@
       <title>La mobilità come servizio (MaaS) fa crescere gli spostamenti condivisi. Ma servono risorse</title>
       <link>https://romamobilita.it/primo-piano/la-mobilita-come-servizio-maas-fa-crescere-gli-spostamenti-condivisi-ma-servono-risorse/</link>
       <description>A Roma Tre presentati i risultati di una sperimentazione nazionale</description>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Togliatti, chiuso incrocio Togliatti/Sacco e Vanzetti/Franceschini</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-da-mercoledi-nuova-fase-del-cantiere-e-chiusure/</link>
-      <description>Nuova fase del cantiere</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/monitoraggio-della-sosta-nelle-strisce-blu-a-via-dei-cerchi-i-primi-sensori-sospas/</link>
       <description>La sostenibilità passa anche da un parcheggio più ordinato</description>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un futuro da polo culturale per l’ex-rimessa “Vittoria”</title>
-      <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
-      <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
