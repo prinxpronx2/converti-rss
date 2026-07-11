@@ -8,23 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 11 Jul 2026 19:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:22:47 +0000</lastBuildDate>
+    <item>
+      <title>Lungotevere Arnaldo da Brescia, inaugurato il parcheggio da 156 posti</title>
+      <link>https://romamobilita.it/primo-piano/lungotevere-arnaldo-da-brescia-inaugurato-il-parcheggio-da-156-posti/</link>
+      <description>Concluso il cantiere rimasto fermo per 18 anni</description>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piano Roma Notte, oggi potenziati i bus notturni. E a bordo salgono gli assistenti Atac</title>
+      <link>https://romamobilita.it/primo-piano/piano-roma-notte-potenziati-i-bus-notturni-e-a-bordo-salgono-gli-assistenti-atac/</link>
+      <description>Più corse sulle linee nMA, nMB, nMB1, nMC. Gli assistenti presenti anche in 10 stazioni metro</description>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ClicBus, dal 13 luglio si completano le nuove attivazioni in programma</title>
       <link>https://romamobilita.it/primo-piano/il-trasporto-pubblico-a-chiamata-arriva-in-altri-sette-quartieri/</link>
       <description>La prima fase è scattata il 6 luglio. Da lunedì il servizio arriva in altre tre zone</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aida al Circo Massimo, stasera torna la “Linea Opera”</title>
-      <link>https://romamobilita.it/primo-piano/aida-al-circo-massimo-sabato-torna-la-linea-opera/</link>
-      <description>Bus dedicati dai municipi per rendere l'Opera accessibile a tutti i cittadini</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piano Roma Notte, da oggi potenziati i bus notturni. E a bordo salgono gli assistenti Atac</title>
-      <link>https://romamobilita.it/primo-piano/piano-roma-notte-potenziati-i-bus-notturni-e-a-bordo-salgono-gli-assistenti-atac/</link>
-      <description>Più corse sulle linee nMA, nMB, nMB1, nMC. Gli assistenti presenti anche in 10 stazioni metro</description>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -62,18 +62,6 @@
       <link>https://romamobilita.it/primo-piano/vallo-ferroviario-del-pigneto-e-trenino-giallo-istituiti-due-tavoli-di-aggiornamento/</link>
       <description>Il 16 luglio alle 15 la seconda sessione in modalità telematica</description>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Concerto Ultimo a Tor Vergata, trasportati dall’Atac oltre 175mila passeggeri</title>
-      <link>https://romamobilita.it/primo-piano/concerto-ultimo-a-tor-vergata-trasportati-dallatac-oltre-175mila-passeggeri/</link>
-      <description>L'assessore: "Roma ha superato una prova organizzativa complessa"</description>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sicurezza stradale, Patané: “Primo semestre 2026 calo vittime del 25% ma strada è lunga”</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-patane-primo-semestre-2026-calo-vittime-del-25-ma-strada-e-lunga/</link>
-      <description>Nei black point riqualificati, tra il 2023 e il 2026 si registra un calo degli incidenti</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Contrassegno disabili, dopo il 21 agosto in Ztl accesso possibile solo con la targa principale</title>
@@ -224,6 +212,18 @@
       <link>https://romamobilita.it/primo-piano/black-point-concluso-lintervento-tra-via-ferdinando-di-savoia-e-via-maria-adelaide/</link>
       <description>Messo in sicurezza l'attraversamento pedonale</description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Monitoraggio della sosta nelle strisce blu, a via dei Cerchi i primi sensori SOSPAS</title>
+      <link>https://romamobilita.it/primo-piano/monitoraggio-della-sosta-nelle-strisce-blu-a-via-dei-cerchi-i-primi-sensori-sospas/</link>
+      <description>La sostenibilità passa anche da un parcheggio più ordinato</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un futuro da polo culturale per l’ex-rimessa “Vittoria”</title>
+      <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
+      <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
