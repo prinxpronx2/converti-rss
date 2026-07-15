@@ -8,12 +8,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 14 Jul 2026 23:59:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 03:20:50 +0000</lastBuildDate>
     <item>
-      <title>ClicBus, si completano le nuove attivazioni in programma nel mese di luglio</title>
+      <title>ClicBus, ora il trasporto pubblico a chiamata è attivo in otto zone della città</title>
       <link>https://romamobilita.it/primo-piano/il-trasporto-pubblico-a-chiamata-arriva-in-altri-sette-quartieri/</link>
-      <description>Il servizio arriva in altre tre zone. La prima fase è scattata il 6 luglio</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Con il mese di luglio si è ampliata la mappa del funzionamento</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bando su urbanismo tattico, le prospettive dopo la raccolta delle proposte</title>
+      <link>https://romamobilita.it/primo-piano/bando-su-urbanismo-tattico-le-prospettive-dopo-la-raccolta-delle-proposte/</link>
+      <description>Veloccia (Urbanistica): "Stiamo lavorando a una piattaforma di raccolta fondi"</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lungotevere Arnaldo da Brescia, inaugurato il parcheggio da 156 posti</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/monitoraggio-della-sosta-nelle-strisce-blu-a-via-dei-cerchi-i-primi-sensori-sospas/</link>
       <description>La sostenibilità passa anche da un parcheggio più ordinato</description>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un futuro da polo culturale per l’ex-rimessa “Vittoria”</title>
-      <link>https://romamobilita.it/primo-piano/un-futuro-da-polo-culturale-per-lex-rimessa-vittoria/</link>
-      <description>Approvata la memoria di Giunta per la destinazione dell'edificio in piazza Bainsizza</description>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
