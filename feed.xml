@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 16 Jul 2026 05:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:26:30 +0000</lastBuildDate>
     <item>
       <title>ClicBus, ora il trasporto pubblico a chiamata è attivo in otto zone della città</title>
       <link>https://romamobilita.it/primo-piano/il-trasporto-pubblico-a-chiamata-arriva-in-altri-sette-quartieri/</link>
@@ -62,6 +62,18 @@
       <link>https://romamobilita.it/primo-piano/quartieri-urbani-rioni-e-zone-funzionali-e-la-nuova-mappa-dei-quartieri-di-roma/</link>
       <description>Presentata in Campidoglio. Deliberazione ora sottoposta all'Assemblea Capitolina</description>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Via Salaria, riaperto il tratto tra piazza di Priscilla e via di Ponte Salario</title>
+      <link>https://romamobilita.it/primo-piano/via-salaria-riaperto-il-tratto-tra-piazza-di-priscilla-e-via-di-ponte-salario/</link>
+      <description>Terminato il cantiere di messa in sicurezza della scarpata</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vallo ferroviario del Pigneto e trenino giallo: istituiti i tavoli di aggiornamento</title>
+      <link>https://romamobilita.it/primo-piano/vallo-ferroviario-del-pigneto-e-trenino-giallo-istituiti-due-tavoli-di-aggiornamento/</link>
+      <description>Il 16 luglio alle 15 la seconda sessione in modalità telematica</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tramvia Togliatti, chiuso incrocio Togliatti/Sacco e Vanzetti/Franceschini</title>
@@ -212,18 +224,6 @@
       <link>https://romamobilita.it/primo-piano/ridisegnare-lo-spazio-urbano-con-la-mobilita-roma-racconta-la-sua-esperienza/</link>
       <description>All'urban center Metropolitano Rsm ha condiviso la sua esperienza col Grab</description>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Servizio di bus a chiamata a Massimina: nuovi mezzi e nuova App</title>
-      <link>https://romamobilita.it/primo-piano/servizio-di-bus-a-chiamata-a-massimina-nuovi-mezzi-e-nuova-app/</link>
-      <description>Nei prossimi mesi ClicBus arriverà anche in altre sette zone</description>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black point, concluso l’intervento tra via Ferdinando di Savoia e via Maria Adelaide</title>
-      <link>https://romamobilita.it/primo-piano/black-point-concluso-lintervento-tra-via-ferdinando-di-savoia-e-via-maria-adelaide/</link>
-      <description>Messo in sicurezza l'attraversamento pedonale</description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
