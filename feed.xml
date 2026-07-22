@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 22 Jul 2026 09:58:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:55:10 +0000</lastBuildDate>
     <item>
       <title>Salaria, riaperto al transito il tratto all’altezza della Motorizzazione</title>
       <link>https://romamobilita.it/primo-piano/salaria-riaperto-al-transito-il-tratto-allaltezza-della-motorizzazione/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/quartieri-urbani-rioni-e-zone-funzionali-e-la-nuova-mappa-dei-quartieri-di-roma/</link>
       <description>Presentata in Campidoglio. Deliberazione ora sottoposta all'Assemblea Capitolina</description>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tramvia Togliatti, chiuso incrocio Togliatti/Sacco e Vanzetti/Franceschini</title>
+      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-da-mercoledi-nuova-fase-del-cantiere-e-chiusure/</link>
+      <description>Nuova fase del cantiere</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Via Salaria, riaperto il tratto tra piazza di Priscilla e via di Ponte Salario</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/ridisegnare-lo-spazio-urbano-con-la-mobilita-roma-racconta-la-sua-esperienza/</link>
       <description>All'urban center Metropolitano Rsm ha condiviso la sua esperienza col Grab</description>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Servizio di bus a chiamata a Massimina: nuovi mezzi e nuova App</title>
-      <link>https://romamobilita.it/primo-piano/servizio-di-bus-a-chiamata-a-massimina-nuovi-mezzi-e-nuova-app/</link>
-      <description>Nei prossimi mesi ClicBus arriverà anche in altre sette zone</description>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
