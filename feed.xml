@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 27 Jul 2026 18:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 20:22:05 +0000</lastBuildDate>
     <item>
       <title>Ponte Matteotti/via Azuni: da giovedì cantiere sui binari e cambi di viabilità</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
@@ -28,15 +28,15 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gianicolo, riqualificata la viabilità nell’area dell’ospedale Bambino Gesù</title>
-      <link>https://romamobilita.it/primo-piano/gianicolo-riqualificata-la-viabilita-nellarea-dellospedale-bambino-gesu/</link>
-      <description>Più agevole l'accesso delle ambulanze al nosocomio pediatrico. Dissuasori contro sosta selvaggia sulla Passeggiata del Gianicolo</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Metro C, partono i cantieri per le stazioni Auditorium e Farnesina</title>
       <link>https://romamobilita.it/primo-piano/metro-c-partono-i-cantieri-per-le-stazioni-auditorium-e-farnesina/</link>
       <description>Le fermate della tratta T1 prolungheranno la linea verso il quadrante nord-ovest</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gianicolo, riqualificata la viabilità nell’area dell’ospedale Bambino Gesù</title>
+      <link>https://romamobilita.it/primo-piano/gianicolo-riqualificata-la-viabilita-nellarea-dellospedale-bambino-gesu/</link>
+      <description>Più agevole l'accesso delle ambulanze al nosocomio pediatrico. Dissuasori contro sosta selvaggia sulla Passeggiata del Gianicolo</description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -52,15 +52,15 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metro A, chiusa per lavori la stazione Lepanto</title>
-      <link>https://romamobilita.it/primo-piano/metro-a-da-sabato-al-via-lavori-nella-stazione-lepanto/</link>
-      <description>I treni transitano senza effettuare la fermata</description>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Viale Eritrea chiuso fino 13 agosto, stop circolazione Lucrino-Lago di Lesina</title>
       <link>https://romamobilita.it/primo-piano/viale-eritrea-dal-20-luglio-al-13-agosto-stop-circolazione-lucrino-lago-di-lesina/</link>
       <description>Per lavori di Acea Ato2 sulla rete fognaria. Deviate le linee bus 38, 80, 88, 235, nMB1</description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro A, chiusa per lavori la stazione Lepanto</title>
+      <link>https://romamobilita.it/primo-piano/metro-a-da-sabato-al-via-lavori-nella-stazione-lepanto/</link>
+      <description>I treni transitano senza effettuare la fermata</description>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -82,15 +82,21 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lungotevere Arnaldo da Brescia, inaugurato il parcheggio da 156 posti</title>
-      <link>https://romamobilita.it/primo-piano/lungotevere-arnaldo-da-brescia-inaugurato-il-parcheggio-da-156-posti/</link>
-      <description>Concluso il cantiere rimasto fermo per 18 anni</description>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Piano Roma Notte, potenziati i bus notturni. E a bordo assistenti Atac</title>
       <link>https://romamobilita.it/primo-piano/piano-roma-notte-potenziati-i-bus-notturni-e-a-bordo-salgono-gli-assistenti-atac/</link>
       <description>Più corse sulle linee nMA, nMB, nMB1, nMC. Gli assistenti presenti anche in 10 stazioni metro</description>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aida al Circo Massimo, stasera torna la “Linea Opera”</title>
+      <link>https://romamobilita.it/primo-piano/aida-al-circo-massimo-sabato-torna-la-linea-opera/</link>
+      <description>Bus dedicati dai municipi per rendere l'opera più accessibile. Marinali (Atac): "Romani sui mezzi pubblici anche nel week end per</description>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lungotevere Arnaldo da Brescia, inaugurato il parcheggio da 156 posti</title>
+      <link>https://romamobilita.it/primo-piano/lungotevere-arnaldo-da-brescia-inaugurato-il-parcheggio-da-156-posti/</link>
+      <description>Concluso il cantiere rimasto fermo per 18 anni</description>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -100,15 +106,15 @@
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Atac, approvato il bilancio 2025. Conti in utile per il terzo anno consecutivo</title>
-      <link>https://romamobilita.it/primo-piano/atac-approvato-il-bilancio-2025-conti-in-utile-per-il-terzo-anno-consecutivo/</link>
-      <description>Crescono ricavi, investimenti, servizi e passeggeri</description>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Quartieri urbani, rioni e zone funzionali, è la nuova mappa dei quartieri di Roma</title>
       <link>https://romamobilita.it/primo-piano/quartieri-urbani-rioni-e-zone-funzionali-e-la-nuova-mappa-dei-quartieri-di-roma/</link>
       <description>Presentata in Campidoglio. Deliberazione ora sottoposta all'Assemblea Capitolina</description>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atac, approvato il bilancio 2025. Conti in utile per il terzo anno consecutivo</title>
+      <link>https://romamobilita.it/primo-piano/atac-approvato-il-bilancio-2025-conti-in-utile-per-il-terzo-anno-consecutivo/</link>
+      <description>Crescono ricavi, investimenti, servizi e passeggeri</description>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -118,10 +124,28 @@
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Contrassegno disabili, dopo il 21 agosto in Ztl accesso possibile solo con la targa principale</title>
-      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
-      <description>Le informazioni utili sul "CUDE"</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Vallo ferroviario del Pigneto e trenino giallo: istituiti i tavoli di aggiornamento</title>
+      <link>https://romamobilita.it/primo-piano/vallo-ferroviario-del-pigneto-e-trenino-giallo-istituiti-due-tavoli-di-aggiornamento/</link>
+      <description>Il 16 luglio alle 15 la seconda sessione in modalità telematica</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Via Salaria, riaperto il tratto tra piazza di Priscilla e via di Ponte Salario</title>
+      <link>https://romamobilita.it/primo-piano/via-salaria-riaperto-il-tratto-tra-piazza-di-priscilla-e-via-di-ponte-salario/</link>
+      <description>Terminato il cantiere di messa in sicurezza della scarpata</description>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Concerto Ultimo a Tor Vergata, trasportati dall’Atac oltre 175mila passeggeri</title>
+      <link>https://romamobilita.it/primo-piano/concerto-ultimo-a-tor-vergata-trasportati-dallatac-oltre-175mila-passeggeri/</link>
+      <description>L'assessore: "Roma ha superato una prova organizzativa complessa"</description>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Concerto – raduno di Ultimo a Tor Vergata, come arrivare all’evento</title>
+      <link>https://romamobilita.it/primo-piano/il-4-luglio-il-concerto-raduno-di-ultimo-a-tor-vergata-come-arrivare-allevento/</link>
+      <description>Linee metro in funzione tutta la notte dopo il concerto. Resteranno aperte sino alle 23.30 di domani</description>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sicurezza stradale, Patané: “Primo semestre 2026 calo vittime del 25% ma strada è lunga”</title>
@@ -136,15 +160,15 @@
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Autoveicoli elettrici in Ztl, cosa è cambiato e come richiedere il permesso</title>
-      <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
-      <description>Dal primo luglio in vigore le nuove regole</description>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Capolinea tram 19, Giunta approva il progetto esecutivo</title>
       <link>https://romamobilita.it/primo-piano/capolinea-tram-19-giunta-approva-il-progetto-esecutivo/</link>
       <description>Il ritorno della linea in Prati è previsto per i primi mesi del 2027</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taxi, oggi sciopero fino alle 22. In serata protesta sulla rete di superficie Atac</title>
+      <link>https://romamobilita.it/primo-piano/taxi-oggi-sciopero-dalle-8-alle-22/</link>
+      <description>Regolari metro, bus privati e reti Cotral-Trenitalia</description>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -154,16 +178,40 @@
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Mobilità intelligente e connessa, prima sperimentazione a Roma</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-intelligente-e-connessa-prima-sperimentazione-a-roma/</link>
+      <description>Teatro della prova l'autostrada Roma-Fiumicino e la Colombo</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sabato sfilata in Centro per gli 80 anni della Vespa, chiusure e deviazioni</title>
+      <link>https://romamobilita.it/primo-piano/sabato-sfilata-in-centro-per-gli-80-anni-della-vespa-chiusure-e-deviazioni/</link>
+      <description>Previste modifiche per 31 linee del trasporto pubblico</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>La mobilità come servizio (MaaS) fa crescere gli spostamenti condivisi. Ma servono risorse</title>
       <link>https://romamobilita.it/primo-piano/la-mobilita-come-servizio-maas-fa-crescere-gli-spostamenti-condivisi-ma-servono-risorse/</link>
       <description>A Roma Tre presentati i risultati di una sperimentazione nazionale</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Interventi di manutenzione del verde sulle principali arterie cittadine, il programma</title>
-      <link>https://romamobilita.it/primo-piano/interventi-sul-verde-a-giugno-pulizie-straordinarie-e-chiusure/</link>
-      <description>Il 28 giugno lavori lungo la Panoramica</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <title>All’Olimpico “Gli Anni d’Oro” di Max Pezzali, metro attive fino all’1,30 di notte</title>
+      <link>https://romamobilita.it/primo-piano/allolimpico-arrivano-gli-anni-doro-di-max-pezzali-metro-attive-fino-all130/</link>
+      <description>Potenziato, inoltre, il servizio delle linee 69, 280, 446 e 910</description>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Concerto a piazza del Popolo, chiusure al traffico</title>
+      <link>https://romamobilita.it/primo-piano/da-domenica-a-mercoledi-concerti-a-piazza-del-popolo-chiusure-al-traffico/</link>
+      <description>Evento ad ingresso gratuito con più di 80 big della musica</description>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oggi concerto-evento al Circo Massimo, modifiche per viabilità e bus</title>
+      <link>https://romamobilita.it/primo-piano/lunedi-concerto-evento-al-circo-massimo-modifiche-per-viabilita-e-bus/</link>
+      <description>Sul palco anche Bocelli, Morandi, Antonacci, Venditti e Gigi D'Alessio</description>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Velocity, Patanè: “Roma può diventare un comune ciclabile di livello avanzato”</title>
@@ -172,58 +220,10 @@
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>“Comuni Ciclabili”, la crescita di Roma passa anche per il Grab. La Capitale si racconta a Velocity</title>
-      <link>https://romamobilita.it/primo-piano/roma-a-velocity-il-summit-mondiale-dedicato-alle-bici-in-corso-a-rimini/</link>
-      <description>La città ottiene per la settima volta il riconoscimento FIAB</description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Veicoli elettrici, in Italia nel 2035 saranno 8 milioni. Tutti i numeri del convegno Motus-E</title>
       <link>https://romamobilita.it/primo-piano/veicoli-elettrici-in-italia-nel-2035-saranno-8-milioni-tutti-i-numeri-del-convegno-motus-e/</link>
       <description>Presentato il "Libro Bianco" sulla Mobilità elettrica</description>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rete bus Casilina: più corse per 105 e 409</title>
-      <link>https://romamobilita.it/primo-piano/una-nuova-rete-per-via-casilina-piu-corse-piu-connessioni/</link>
-      <description>Dal 21 giugno, poi, la 104 sarà attiva anche nei festivi</description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lavori sulla ferrovia Roma-Nord, servizio modificato fino al 6 settembre</title>
-      <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
-      <description>I dettagli del piano Astral-Cotral</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spostamenti sostenibili, sempre più centrale la figura dei mobility manager</title>
-      <link>https://romamobilita.it/primo-piano/spostamenti-sostenibili-sempre-piu-centrale-la-figura-dei-mobility-manager/</link>
-      <description>La figura protagonista del convegno "Moby Dixit" in Campidoglio</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Donne e mobilità”, nuovo momento di confronto tra città</title>
-      <link>https://romamobilita.it/primo-piano/donne-e-mobilita-giovedi-nuovo-momento-di-confronto-tra-citta/</link>
-      <description>Webinar organizzato dall'Anci in collaborazione anche con Rsm</description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flotte aziendali, si fa strada la mobilità condivisa</title>
-      <link>https://romamobilita.it/primo-piano/flotte-aziendali-si-fa-strada-la-mobilita-condivisa/</link>
-      <description>Il tema, al centro del convegno 'Telematic Fleet Day' patrocinato da Rsm</description>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Progetto “100 parchi per Roma”: al via 16 nuovi interventi</title>
-      <link>https://romamobilita.it/primo-piano/progetto-100-parchi-per-roma-al-via-16-nuovi-interventi/</link>
-      <description>Entro la prossima primavera termina il piano di forestazione urbana con un milione di alberi</description>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
-      <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
-      <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
