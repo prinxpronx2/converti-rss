@@ -8,11 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:20:12 +0000</lastBuildDate>
     <item>
       <title>Cantiere Ponte della Storta, viabilità alternativa in via Mezzenile</title>
       <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
       <description>Transito vietato su via della Storta altezza Boccea. Modifiche per tre linee bus</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
+      <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre/</link>
+      <description>Lo ha annunciato il sindaco Gualtieri nel corso dell'Assemblea capitolina</description>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,15 +148,15 @@
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Capolinea tram 19, Giunta approva il progetto esecutivo</title>
-      <link>https://romamobilita.it/primo-piano/capolinea-tram-19-giunta-approva-il-progetto-esecutivo/</link>
-      <description>Il ritorno della linea in Prati è previsto per i primi mesi del 2027</description>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sosta nelle strisce blu, Atac: “Con i pagamenti digitali via i ‘grattini'”</title>
       <link>https://romamobilita.it/primo-piano/sosta-nelle-strisce-blu-atac-con-i-pagamenti-digitali-via-i-grattini/</link>
       <description>Dal 30 giugno stop ai titoli cartacei per il parcheggio</description>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capolinea tram 19, Giunta approva il progetto esecutivo</title>
+      <link>https://romamobilita.it/primo-piano/capolinea-tram-19-giunta-approva-il-progetto-esecutivo/</link>
+      <description>Il ritorno della linea in Prati è previsto per i primi mesi del 2027</description>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/progetto-100-parchi-per-roma-al-via-16-nuovi-interventi/</link>
       <description>Entro la prossima primavera termina il piano di forestazione urbana con un milione di alberi</description>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dall’Assemblea Capitolina via libera al nuovo regolamento scavi</title>
-      <link>https://romamobilita.it/primo-piano/dallassemblea-capitolina-via-libera-al-nuovo-regolamento-scavi/</link>
-      <description>Obiettivo: coordinare di più i lavori su strada e tutelare lo spazio pubblico</description>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
