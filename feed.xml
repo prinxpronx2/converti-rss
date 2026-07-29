@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 29 Jul 2026 14:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:46:57 +0000</lastBuildDate>
     <item>
       <title>Green Mobility Saturday</title>
       <link>https://romamobilita.it/sem-evento/green-mobility-saturday/</link>
@@ -22,7 +22,7 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Municipio III Bike to work</title>
+      <title>Bike to work</title>
       <link>https://romamobilita.it/sem-evento/municipio-iii-bike-to-work/</link>
       <description>Leggi di più</description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
@@ -37,7 +37,25 @@
       <title>Piazza dei Cinquecento, da oggi cantiere Anas e modifiche a capolinea e fermate bus</title>
       <link>https://romamobilita.it/primo-piano/piazza-dei-cinquecento-da-domani-cantiere-anas-e-modifiche-a-capolinea-e-fermate-bus/</link>
       <description>Previste tre fasi di lavori</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
+      <link>https://romamobilita.it/primo-piano/ad-agosto-pausa-estiva-per-le-ztl-notturne-regolarmente-attive-quelle-diurne/</link>
+      <description>Guida agli orari</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black point, completato l’intervento all’incrocio pedonale Casilina/Casale del Torraccio</title>
+      <link>https://romamobilita.it/primo-piano/black-point-completato-lintervento-allincrocio-pedonale-casilina-casale-del-torraccio/</link>
+      <description>Nel VI Municipio</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quadrante sud: dal 3 agosto novità sui collegamenti bus 763 e 789</title>
+      <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
+      <description>Ecco cosa sapere</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cantiere Ponte della Storta, viabilità alternativa in via Mezzenile</title>
@@ -58,15 +76,15 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gianicolo, riqualificata la viabilità nell’area dell’ospedale Bambino Gesù</title>
-      <link>https://romamobilita.it/primo-piano/gianicolo-riqualificata-la-viabilita-nellarea-dellospedale-bambino-gesu/</link>
-      <description>Più agevole l'accesso delle ambulanze al nosocomio pediatrico. Dissuasori contro sosta selvaggia sulla Passeggiata del Gianicolo</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Metro C, partono i cantieri per le stazioni Auditorium e Farnesina</title>
       <link>https://romamobilita.it/primo-piano/metro-c-partono-i-cantieri-per-le-stazioni-auditorium-e-farnesina/</link>
       <description>Le fermate della tratta T1 prolungheranno la linea verso il quadrante nord-ovest</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gianicolo, riqualificata la viabilità nell’area dell’ospedale Bambino Gesù</title>
+      <link>https://romamobilita.it/primo-piano/gianicolo-riqualificata-la-viabilita-nellarea-dellospedale-bambino-gesu/</link>
+      <description>Più agevole l'accesso delle ambulanze al nosocomio pediatrico. Dissuasori contro sosta selvaggia sulla Passeggiata del Gianicolo</description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -130,15 +148,15 @@
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Atac, approvato il bilancio 2025. Conti in utile per il terzo anno consecutivo</title>
-      <link>https://romamobilita.it/primo-piano/atac-approvato-il-bilancio-2025-conti-in-utile-per-il-terzo-anno-consecutivo/</link>
-      <description>Crescono ricavi, investimenti, servizi e passeggeri</description>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Quartieri urbani, rioni e zone funzionali, è la nuova mappa dei quartieri di Roma</title>
       <link>https://romamobilita.it/primo-piano/quartieri-urbani-rioni-e-zone-funzionali-e-la-nuova-mappa-dei-quartieri-di-roma/</link>
       <description>Presentata in Campidoglio. Deliberazione ora sottoposta all'Assemblea Capitolina</description>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Atac, approvato il bilancio 2025. Conti in utile per il terzo anno consecutivo</title>
+      <link>https://romamobilita.it/primo-piano/atac-approvato-il-bilancio-2025-conti-in-utile-per-il-terzo-anno-consecutivo/</link>
+      <description>Crescono ricavi, investimenti, servizi e passeggeri</description>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -148,15 +166,15 @@
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sicurezza stradale, Patané: “Primo semestre 2026 calo vittime del 25% ma strada è lunga”</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-patane-primo-semestre-2026-calo-vittime-del-25-ma-strada-e-lunga/</link>
-      <description>Nei black point riqualificati, tra il 2023 e il 2026 si registra un calo degli incidenti</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Contrassegno disabili, dopo il 21 agosto in Ztl accesso possibile solo con la targa principale</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
       <description>Le informazioni utili sul "CUDE"</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale, Patané: “Primo semestre 2026 calo vittime del 25% ma strada è lunga”</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-patane-primo-semestre-2026-calo-vittime-del-25-ma-strada-e-lunga/</link>
+      <description>Nei black point riqualificati, tra il 2023 e il 2026 si registra un calo degli incidenti</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -206,24 +224,6 @@
       <link>https://romamobilita.it/primo-piano/roma-a-velocity-il-summit-mondiale-dedicato-alle-bici-in-corso-a-rimini/</link>
       <description>La città ottiene per la settima volta il riconoscimento FIAB</description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veicoli elettrici, in Italia nel 2035 saranno 8 milioni. Tutti i numeri del convegno Motus-E</title>
-      <link>https://romamobilita.it/primo-piano/veicoli-elettrici-in-italia-nel-2035-saranno-8-milioni-tutti-i-numeri-del-convegno-motus-e/</link>
-      <description>Presentato il "Libro Bianco" sulla Mobilità elettrica</description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rete bus Casilina: più corse per 105 e 409</title>
-      <link>https://romamobilita.it/primo-piano/una-nuova-rete-per-via-casilina-piu-corse-piu-connessioni/</link>
-      <description>Dal 21 giugno, poi, la 104 sarà attiva anche nei festivi</description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lavori sulla ferrovia Roma-Nord, servizio modificato fino al 6 settembre</title>
-      <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
-      <description>I dettagli del piano Astral-Cotral</description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
