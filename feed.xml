@@ -8,7 +8,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:08:25 +0000</lastBuildDate>
+    <item>
+      <title>Green Mobility Saturday</title>
+      <link>https://romamobilita.it/sem-evento/green-mobility-saturday/</link>
+      <description>Leggi di più</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Costruiamo insieme il nostro territorio</title>
+      <link>https://romamobilita.it/sem-evento/costruiamo-insieme-il-nostro-territorio/</link>
+      <description>Leggi di più</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Municipio III Bike to work</title>
+      <link>https://romamobilita.it/sem-evento/municipio-iii-bike-to-work/</link>
+      <description>Leggi di più</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte Matteotti/via Azuni: da domani cantiere sui binari e cambi di viabilità</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
+      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Piazza dei Cinquecento, da oggi cantiere Anas e modifiche a capolinea e fermate bus</title>
       <link>https://romamobilita.it/primo-piano/piazza-dei-cinquecento-da-domani-cantiere-anas-e-modifiche-a-capolinea-e-fermate-bus/</link>
@@ -26,12 +50,6 @@
       <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre/</link>
       <description>Lo ha annunciato il sindaco Gualtieri nel corso dell'Assemblea capitolina</description>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponte Matteotti/via Azuni: da domani cantiere sui binari e cambi di viabilità</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
-      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro A, consegnato il progetto per Torrevecchia</title>
@@ -130,15 +148,15 @@
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Contrassegno disabili, dopo il 21 agosto in Ztl accesso possibile solo con la targa principale</title>
-      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
-      <description>Le informazioni utili sul "CUDE"</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sicurezza stradale, Patané: “Primo semestre 2026 calo vittime del 25% ma strada è lunga”</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-patane-primo-semestre-2026-calo-vittime-del-25-ma-strada-e-lunga/</link>
       <description>Nei black point riqualificati, tra il 2023 e il 2026 si registra un calo degli incidenti</description>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contrassegno disabili, dopo il 21 agosto in Ztl accesso possibile solo con la targa principale</title>
+      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
+      <description>Le informazioni utili sul "CUDE"</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -206,24 +224,6 @@
       <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
       <description>I dettagli del piano Astral-Cotral</description>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spostamenti sostenibili, sempre più centrale la figura dei mobility manager</title>
-      <link>https://romamobilita.it/primo-piano/spostamenti-sostenibili-sempre-piu-centrale-la-figura-dei-mobility-manager/</link>
-      <description>La figura protagonista del convegno "Moby Dixit" in Campidoglio</description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Donne e mobilità”, nuovo momento di confronto tra città</title>
-      <link>https://romamobilita.it/primo-piano/donne-e-mobilita-giovedi-nuovo-momento-di-confronto-tra-citta/</link>
-      <description>Webinar organizzato dall'Anci in collaborazione anche con Rsm</description>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flotte aziendali, si fa strada la mobilità condivisa</title>
-      <link>https://romamobilita.it/primo-piano/flotte-aziendali-si-fa-strada-la-mobilita-condivisa/</link>
-      <description>Il tema, al centro del convegno 'Telematic Fleet Day' patrocinato da Rsm</description>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
