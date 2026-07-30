@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Jul 2026 13:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 15:30:30 +0000</lastBuildDate>
+    <item>
+      <title>Evento sull’evoluzione del trasporto pubblico a Roma</title>
+      <link>https://romamobilita.it/sem-evento/evento-sullevoluzione-del-trasporto-pubblico-a-roma/</link>
+      <description>Leggi di più</description>
+      <pubDate>Thu, 09 Sep 2027 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilitiamoci</title>
+      <link>https://romamobilita.it/sem-evento/mobilitiamoci/</link>
+      <description>Leggi di più</description>
+      <pubDate>Fri, 09 Jul 2027 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Evento mobilità sostenibile e presentazione linee guida progetto ciclabile</title>
       <link>https://romamobilita.it/sem-evento/evento-mobilita-sostenibile-e-presentazione-linee-guida-progetto-ciclabile/</link>
@@ -34,6 +46,12 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ponte Matteotti/via Azuni: da oggi cantiere sui binari e cambi di viabilità</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
+      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Piazza dei Cinquecento, cantiere Anas e modifiche a capolinea e fermate bus</title>
       <link>https://romamobilita.it/primo-piano/piazza-dei-cinquecento-da-domani-cantiere-anas-e-modifiche-a-capolinea-e-fermate-bus/</link>
       <description>Previste tre fasi di lavori</description>
@@ -46,9 +64,9 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ponte Matteotti/via Azuni: da oggi cantiere sui binari e cambi di viabilità</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
-      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
+      <title>Quadrante sud: dal 3 agosto novità sui collegamenti bus 763 e 789</title>
+      <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
+      <description>Ecco cosa sapere</description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -68,24 +86,6 @@
       <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
       <description>Ecco cosa sapere</description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cantiere Ponte della Storta, viabilità alternativa in via Mezzenile</title>
-      <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
-      <description>Transito vietato su via della Storta altezza Boccea. Modifiche per tre linee bus</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
-      <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre/</link>
-      <description>Lo ha annunciato il sindaco Gualtieri nel corso dell'Assemblea capitolina</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cantiere Ponte della Storta, viabilità alternativa in via Mezzenile</title>
-      <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
-      <description>Transito vietato su via della Storta altezza Boccea. Modifiche per tre linee bus</description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
