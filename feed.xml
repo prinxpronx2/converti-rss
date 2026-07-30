@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 30 Jul 2026 15:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 17:26:14 +0000</lastBuildDate>
     <item>
       <title>Evento sull’evoluzione del trasporto pubblico a Roma</title>
       <link>https://romamobilita.it/sem-evento/evento-sullevoluzione-del-trasporto-pubblico-a-roma/</link>
@@ -62,6 +62,12 @@
       <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
       <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black point, completato l’intervento all’incrocio pedonale Casilina/Casale del Torraccio</title>
+      <link>https://romamobilita.it/primo-piano/black-point-completato-lintervento-allincrocio-pedonale-casilina-casale-del-torraccio/</link>
+      <description>Nel VI Municipio</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quadrante sud: dal 3 agosto novità sui collegamenti bus 763 e 789</title>
@@ -217,12 +223,6 @@
       <title>Capolinea tram 19, Giunta approva il progetto esecutivo</title>
       <link>https://romamobilita.it/primo-piano/capolinea-tram-19-giunta-approva-il-progetto-esecutivo/</link>
       <description>Il ritorno della linea in Prati è previsto per i primi mesi del 2027</description>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sosta nelle strisce blu, Atac: “Con i pagamenti digitali via i ‘grattini'”</title>
-      <link>https://romamobilita.it/primo-piano/sosta-nelle-strisce-blu-atac-con-i-pagamenti-digitali-via-i-grattini/</link>
-      <description>Dal 30 giugno stop ai titoli cartacei per il parcheggio</description>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
