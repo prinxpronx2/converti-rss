@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 13:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 15:36:55 +0000</lastBuildDate>
     <item>
       <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
@@ -82,6 +82,12 @@
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
+      <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre/</link>
+      <description>Lo ha annunciato il sindaco Gualtieri nel corso dell'Assemblea capitolina</description>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Metro A, consegnato il progetto per Torrevecchia</title>
       <link>https://romamobilita.it/primo-piano/metro-a-consegnato-il-progetto-per-torrevecchia/</link>
       <description>Leggi di più</description>
@@ -142,15 +148,15 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lungotevere Arnaldo da Brescia, inaugurato il parcheggio da 156 posti</title>
-      <link>https://romamobilita.it/primo-piano/lungotevere-arnaldo-da-brescia-inaugurato-il-parcheggio-da-156-posti/</link>
-      <description>Concluso il cantiere rimasto fermo per 18 anni</description>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Piano Roma Notte, potenziati i bus notturni. E a bordo assistenti Atac</title>
       <link>https://romamobilita.it/primo-piano/piano-roma-notte-potenziati-i-bus-notturni-e-a-bordo-salgono-gli-assistenti-atac/</link>
       <description>Più corse sulle linee nMA, nMB, nMB1, nMC. Gli assistenti presenti anche in 10 stazioni metro</description>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lungotevere Arnaldo da Brescia, inaugurato il parcheggio da 156 posti</title>
+      <link>https://romamobilita.it/primo-piano/lungotevere-arnaldo-da-brescia-inaugurato-il-parcheggio-da-156-posti/</link>
+      <description>Concluso il cantiere rimasto fermo per 18 anni</description>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/interventi-sul-verde-a-giugno-pulizie-straordinarie-e-chiusure/</link>
       <description>Il 28 giugno lavori lungo la Panoramica</description>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Velocity, Patanè: “Roma può diventare un comune ciclabile di livello avanzato”</title>
-      <link>https://romamobilita.it/primo-piano/velocity-patane-roma-puo-diventare-un-comune-ciclabile-di-livello-avanzato/</link>
-      <description>A Rimini si conclude il più importante evento internazionale dedicato alla mobilità a pedali</description>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
