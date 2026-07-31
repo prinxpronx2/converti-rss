@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 17:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 18:54:21 +0000</lastBuildDate>
     <item>
       <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
@@ -56,6 +56,12 @@
       <link>https://romamobilita.it/primo-piano/falsi-sms-sulle-multe-si-tratta-di-una-truffa-roma-capitale-invita-a-fare-attenzione/</link>
       <description>Una campagna che utilizza indebitamente il nome dell'Amministrazione</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quadrante sud: dal 3 agosto novità sui collegamenti bus 763 e 789</title>
+      <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
+      <description>Ecco cosa sapere</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
@@ -148,15 +154,15 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Piano Roma Notte, potenziati i bus notturni. E a bordo assistenti Atac</title>
-      <link>https://romamobilita.it/primo-piano/piano-roma-notte-potenziati-i-bus-notturni-e-a-bordo-salgono-gli-assistenti-atac/</link>
-      <description>Più corse sulle linee nMA, nMB, nMB1, nMC. Gli assistenti presenti anche in 10 stazioni metro</description>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Lungotevere Arnaldo da Brescia, inaugurato il parcheggio da 156 posti</title>
       <link>https://romamobilita.it/primo-piano/lungotevere-arnaldo-da-brescia-inaugurato-il-parcheggio-da-156-posti/</link>
       <description>Concluso il cantiere rimasto fermo per 18 anni</description>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piano Roma Notte, potenziati i bus notturni. E a bordo assistenti Atac</title>
+      <link>https://romamobilita.it/primo-piano/piano-roma-notte-potenziati-i-bus-notturni-e-a-bordo-salgono-gli-assistenti-atac/</link>
+      <description>Più corse sulle linee nMA, nMB, nMB1, nMC. Gli assistenti presenti anche in 10 stazioni metro</description>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/la-mobilita-come-servizio-maas-fa-crescere-gli-spostamenti-condivisi-ma-servono-risorse/</link>
       <description>A Roma Tre presentati i risultati di una sperimentazione nazionale</description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interventi di manutenzione del verde sulle principali arterie cittadine, il programma</title>
-      <link>https://romamobilita.it/primo-piano/interventi-sul-verde-a-giugno-pulizie-straordinarie-e-chiusure/</link>
-      <description>Il 28 giugno lavori lungo la Panoramica</description>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
