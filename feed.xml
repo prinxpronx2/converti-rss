@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 04:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:01:57 +0000</lastBuildDate>
     <item>
       <title>Evento sull’evoluzione del trasporto pubblico a Roma</title>
       <link>https://romamobilita.it/sem-evento/evento-sullevoluzione-del-trasporto-pubblico-a-roma/</link>
@@ -46,27 +46,33 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ponte Matteotti/via Azuni: da oggi cantiere sui binari e cambi di viabilità</title>
+      <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
       <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piazza dei Cinquecento, cantiere Anas e modifiche a capolinea e fermate bus</title>
       <link>https://romamobilita.it/primo-piano/piazza-dei-cinquecento-da-domani-cantiere-anas-e-modifiche-a-capolinea-e-fermate-bus/</link>
       <description>Previste tre fasi di lavori</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La Storta, demolito il vecchio ponte. Parte l’intervento per la nuova infrastruttura viaria</title>
+      <title>La Storta, demolito il vecchio ponte. Partito l’intervento per la nuova infrastruttura viaria</title>
       <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
       <description>Con i lavori, viabilità alternativa su via Mezzenile</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro A: i campioni dello sport in stazione e nel treno</title>
       <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
       <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Falsi sms sulle multe, è una truffa. Roma Capitale invita a fare attenzione</title>
+      <link>https://romamobilita.it/primo-piano/falsi-sms-sulle-multe-si-tratta-di-una-truffa-roma-capitale-invita-a-fare-attenzione/</link>
+      <description>Una campagna che utilizza indebitamente il nome dell'Amministrazione</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -74,6 +80,12 @@
       <link>https://romamobilita.it/primo-piano/falsi-sms-sulle-multe-si-tratta-di-una-truffa-roma-capitale-invita-a-fare-attenzione/</link>
       <description>Una campagna che utilizza indebitamente il nome dell'Amministrazione</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
+      <link>https://romamobilita.it/primo-piano/ad-agosto-pausa-estiva-per-le-ztl-notturne-regolarmente-attive-quelle-diurne/</link>
+      <description>Guida agli orari</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Black point, completato l’intervento all’incrocio pedonale Casilina/Casale del Torraccio</title>
@@ -212,18 +224,6 @@
       <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
       <description>Dal primo luglio in vigore le nuove regole</description>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capolinea tram 19, Giunta approva il progetto esecutivo</title>
-      <link>https://romamobilita.it/primo-piano/capolinea-tram-19-giunta-approva-il-progetto-esecutivo/</link>
-      <description>Il ritorno della linea in Prati è previsto per i primi mesi del 2027</description>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sosta nelle strisce blu, Atac: “Con i pagamenti digitali via i ‘grattini'”</title>
-      <link>https://romamobilita.it/primo-piano/sosta-nelle-strisce-blu-atac-con-i-pagamenti-digitali-via-i-grattini/</link>
-      <description>Dal 30 giugno stop ai titoli cartacei per il parcheggio</description>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
