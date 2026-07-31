@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 08:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:05:21 +0000</lastBuildDate>
+    <item>
+      <title>Color Day Parco Almagià</title>
+      <link>https://romamobilita.it/sem-evento/color-day-parco-almagia/</link>
+      <description>Leggi di più</description>
+      <pubDate>Sat, 09 Oct 2027 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Evento sull’evoluzione del trasporto pubblico a Roma</title>
       <link>https://romamobilita.it/sem-evento/evento-sullevoluzione-del-trasporto-pubblico-a-roma/</link>
@@ -20,6 +26,12 @@
       <link>https://romamobilita.it/sem-evento/mobilitiamoci/</link>
       <description>Leggi di più</description>
       <pubDate>Fri, 09 Jul 2027 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Color Day Bonafede</title>
+      <link>https://romamobilita.it/sem-evento/color-day-bonafede/</link>
+      <description>Leggi di più</description>
+      <pubDate>Wed, 09 Jun 2027 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Evento mobilità sostenibile e presentazione linee guida progetto ciclabile</title>
@@ -46,18 +58,6 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
-      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piazza dei Cinquecento, cantiere Anas e modifiche a capolinea e fermate bus</title>
-      <link>https://romamobilita.it/primo-piano/piazza-dei-cinquecento-da-domani-cantiere-anas-e-modifiche-a-capolinea-e-fermate-bus/</link>
-      <description>Previste tre fasi di lavori</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>La Storta, demolito il vecchio ponte. Partito l’intervento per la nuova infrastruttura viaria</title>
       <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
       <description>Con i lavori, viabilità alternativa su via Mezzenile</description>
@@ -70,10 +70,34 @@
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Falsi sms sulle multe, è una truffa. Roma Capitale invita a fare attenzione</title>
-      <link>https://romamobilita.it/primo-piano/falsi-sms-sulle-multe-si-tratta-di-una-truffa-roma-capitale-invita-a-fare-attenzione/</link>
-      <description>Una campagna che utilizza indebitamente il nome dell'Amministrazione</description>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Da lunedì 3 agosto navette bus al posto dei tram sulle linee 3, 5, 14 e 19</title>
+      <link>https://romamobilita.it/primo-piano/da-lunedi-3-agosto-navette-bus-al-posto-dei-tram-sulle-linee-3-5-14-e-19/</link>
+      <description>Per lavori su alcuni tratti della rete necessari all'immissione dei nuovi convogli Urbos</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
+      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piazza dei Cinquecento, cantiere Anas e modifiche a capolinea e fermate bus</title>
+      <link>https://romamobilita.it/primo-piano/piazza-dei-cinquecento-da-domani-cantiere-anas-e-modifiche-a-capolinea-e-fermate-bus/</link>
+      <description>Previste tre fasi di lavori</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tratto urbano dell’A24, lavori dal 2 al 28 agosto: chiusa la galleria Pittaluga verso il Gra</title>
+      <link>https://romamobilita.it/primo-piano/tratto-urbano-della24-lavori-dal-2-al-28-agosto-chiusa-la-galleria-pittaluga-verso-il-gra/</link>
+      <description>I percorsi alternativi</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Storta, demolito il vecchio ponte. Partito l’intervento per la nuova infrastruttura viaria</title>
+      <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
+      <description>Con i lavori, viabilità alternativa su via Mezzenile</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Falsi sms sulle multe, è una truffa. Roma Capitale invita a fare attenzione</title>
@@ -97,12 +121,6 @@
       <title>Quadrante sud: dal 3 agosto novità sui collegamenti bus 763 e 789</title>
       <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
       <description>Ecco cosa sapere</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
-      <link>https://romamobilita.it/primo-piano/ad-agosto-pausa-estiva-per-le-ztl-notturne-regolarmente-attive-quelle-diurne/</link>
-      <description>Guida agli orari</description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -206,24 +224,6 @@
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-le-targhe-vanno-comunicate-entro-il-19-giugno/</link>
       <description>Le informazioni utili sul "CUDE"</description>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sicurezza stradale, Patané: “Primo semestre 2026 calo vittime del 25% ma strada è lunga”</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-patane-primo-semestre-2026-calo-vittime-del-25-ma-strada-e-lunga/</link>
-      <description>Nei black point riqualificati, tra il 2023 e il 2026 si registra un calo degli incidenti</description>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incidenti, in Europa prevale la percentuale sulle strade urbane</title>
-      <link>https://romamobilita.it/primo-piano/incidenti-in-europa-prevale-la-percentuale-sulle-strade-urbane/</link>
-      <description>Lo studio della Fondazione Caracciolo analizza il periodo 2014-2024</description>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autoveicoli elettrici in Ztl, cosa è cambiato e come richiedere il permesso</title>
-      <link>https://romamobilita.it/primo-piano/elettrici-o-a-idrogeno-dal-primo-luglio-cambiano-le-regole-per-laccesso-nelle-ztl/</link>
-      <description>Dal primo luglio in vigore le nuove regole</description>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
