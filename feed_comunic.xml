@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 01:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:00:04 +0000</lastBuildDate>
     <item>
       <title>Corteo in Centro e Corsa di Miguel. Gli eventi del fine settimana</title>
       <link>https://romamobilita.it/comunicato/corteo-in-centro-e-corsa-di-miguel-gli-eventi-del-fine-settimana/</link>
@@ -57,13 +57,6 @@
       <description>Domani, per consentire interventi di potatura, dalle 7,30 alle 17, si renderà necessaria la disalimentazione elettrica della rete aerea in piazza Ungheria/ viale Rossini. Da inizio a fine servizio le linee 3L e 19L, provenienti rispettivamente dalla Stazione Trastevere e da piazza dei Gerani, limiteranno il percorso a piazza di Porta Maggiore. Domenica, dalle 17, un corteo sfilerà tra piazzale Ugo La Malfa e piazza Vittorio. La manifestazione si snoderà tra via del Circo Massimo, viale Aventino, Porta Capena, via di San Gregorio, via Labicana, via Merulana e via dello Statuto. Possibili brevi stop o deviazioni per il trasporto pubblico. Domenica, dalle 7,30 alle 12,30, è in programma una gara podistica a Talenti. Partenza e arrivo saranno in via di Casal Boccone mentre il percorso interesserà via Ugo Ojetti, via di Casal Boccone, via della Bufalotta, via Simongini, via Musil, viale Ezra Pound, via Fracchia, via Renato Fucini, via Corrado Alvaro. Deviate le linee di bus. Ulteriori dettagli e aggiornamenti in tempo reale su romamobilita.it</description>
       <guid isPermaLink="false">https://romamobilita.it/comunicato/potature-corteo-e-gara-podistica-gli-appuntamenti-del-fine-settimana/</guid>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Due cortei in Centro. Gli appuntamenti del fine settimana</title>
-      <link>https://romamobilita.it/comunicato/due-cortei-in-centro-gli-appuntamenti-del-fine-settimana/</link>
-      <description>Domani, dalle 14 alle 19, un corteo sfilerà da piazza della Repubblica a piazza di Porta San Giovanni percorrendo via Luigi Einaudi, piazza dei Cinquecento, via Cavour, piazza dell’Esquilino, via Liberiana, piazza di Santa Maria Maggiore, via Merulana. Possibili deviazioni o limitazioni per il trasporto pubblico. Domenica, dalle 14 alle 18, è in programma un corteo da piazzale Ugo La Malfa a piazzale Ostiense con percorso su via del Circo Massimo, viale Aventino, piazza Albania e viale della Piramide Cestia. Possibili deviazioni o limitazioni per il trasporto pubblico. Ulteriori dettagli e aggiornamenti in tempo reale su romamobilita.it</description>
-      <guid isPermaLink="false">https://romamobilita.it/comunicato/due-cortei-in-centro-gli-appuntamenti-del-fine-settimana/</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Stasera sciopero di 4 ore sulla metro C. Corse non garantite dalle 20,30</title>
@@ -218,6 +211,13 @@
       <description>Oggi, dalle 16 alle 17,30, un corteo partirà da piazza della Repubblica e raggiungerà piazza dell’Esquilino sfilando lungo viale Luigi Einaudi, largo di Villa Peretti, via Giovanni Amendola e via Cavour. Deviate le linee di bus. Aggiornamenti su romamobilita.it</description>
       <guid isPermaLink="false">https://romamobilita.it/comunicato/domani-pomeriggio-corteo-in-centro-bus-deviati-2/</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Due cortei in Centro. Gli appuntamenti del fine settimana</title>
+      <link>https://romamobilita.it/comunicato/due-cortei-in-centro-gli-appuntamenti-del-fine-settimana/</link>
+      <description>Domani, dalle 14 alle 19, un corteo sfilerà da piazza della Repubblica a piazza di Porta San Giovanni percorrendo via Luigi Einaudi, piazza dei Cinquecento, via Cavour, piazza dell’Esquilino, via Liberiana, piazza di Santa Maria Maggiore, via Merulana. Possibili deviazioni o limitazioni per il trasporto pubblico. Domenica, dalle 14 alle 18, è in programma un corteo da piazzale Ugo La Malfa a piazzale Ostiense con percorso su via del Circo Massimo, viale Aventino, piazza Albania e viale della Piramide Cestia. Possibili deviazioni o limitazioni per il trasporto pubblico. Ulteriori dettagli e aggiornamenti in tempo reale su romamobilita.it</description>
+      <guid isPermaLink="false">https://romamobilita.it/comunicato/due-cortei-in-centro-gli-appuntamenti-del-fine-settimana/</guid>
+      <pubDate>Fri, 31 Jul 2026 04:59:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
