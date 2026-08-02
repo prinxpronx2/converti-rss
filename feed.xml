@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 02 Aug 2026 12:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 14:07:53 +0000</lastBuildDate>
     <item>
       <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/falsi-sms-sulle-multe-si-tratta-di-una-truffa-roma-capitale-invita-a-fare-attenzione/</link>
       <description>Una campagna che utilizza indebitamente il nome dell'Amministrazione</description>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Black point, completato l’intervento all’incrocio pedonale Casilina/Casale del Torraccio</title>
+      <link>https://romamobilita.it/primo-piano/black-point-completato-lintervento-allincrocio-pedonale-casilina-casale-del-torraccio/</link>
+      <description>Nel VI Municipio</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Quadrante sud: dal 3 agosto novità sui collegamenti bus 763 e 789</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/sosta-nelle-strisce-blu-atac-con-i-pagamenti-digitali-via-i-grattini/</link>
       <description>Dal 30 giugno stop ai titoli cartacei per il parcheggio</description>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La mobilità come servizio (MaaS) fa crescere gli spostamenti condivisi. Ma servono risorse</title>
-      <link>https://romamobilita.it/primo-piano/la-mobilita-come-servizio-maas-fa-crescere-gli-spostamenti-condivisi-ma-servono-risorse/</link>
-      <description>A Roma Tre presentati i risultati di una sperimentazione nazionale</description>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
