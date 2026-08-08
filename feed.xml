@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 08 Aug 2026 12:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:44:11 +0000</lastBuildDate>
     <item>
       <title>Lavori sulla ferrovia Roma-Nord, dal 10 al 23 agosto chiude la tratta Flaminio-Montebello</title>
       <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/parcheggi-installati-2000-sensori-monitoraggio-sosta/</link>
       <description>Il completamento dell'intera rete è previsto entro la prima metà del 2027</description>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
+      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piazza dei Cinquecento, cantiere Anas e modifiche a capolinea e fermate bus</title>
@@ -142,15 +148,15 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Gianicolo, riqualificata la viabilità nell’area dell’ospedale Bambino Gesù</title>
-      <link>https://romamobilita.it/primo-piano/gianicolo-riqualificata-la-viabilita-nellarea-dellospedale-bambino-gesu/</link>
-      <description>Più agevole l'accesso delle ambulanze al nosocomio pediatrico. Dissuasori contro sosta selvaggia sulla Passeggiata del Gianicolo</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Metro C, partono i cantieri per le stazioni Auditorium e Farnesina</title>
       <link>https://romamobilita.it/primo-piano/metro-c-partono-i-cantieri-per-le-stazioni-auditorium-e-farnesina/</link>
       <description>Le fermate della tratta T1 prolungheranno la linea verso il quadrante nord-ovest</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gianicolo, riqualificata la viabilità nell’area dell’ospedale Bambino Gesù</title>
+      <link>https://romamobilita.it/primo-piano/gianicolo-riqualificata-la-viabilita-nellarea-dellospedale-bambino-gesu/</link>
+      <description>Più agevole l'accesso delle ambulanze al nosocomio pediatrico. Dissuasori contro sosta selvaggia sulla Passeggiata del Gianicolo</description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Atac, approvato il bilancio 2025. Conti in utile per il terzo anno consecutivo</title>
       <link>https://romamobilita.it/primo-piano/atac-approvato-il-bilancio-2025-conti-in-utile-per-il-terzo-anno-consecutivo/</link>
       <description>Crescono ricavi, investimenti, servizi e passeggeri</description>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quartieri urbani, rioni e zone funzionali, è la nuova mappa dei quartieri di Roma</title>
-      <link>https://romamobilita.it/primo-piano/quartieri-urbani-rioni-e-zone-funzionali-e-la-nuova-mappa-dei-quartieri-di-roma/</link>
-      <description>Presentata in Campidoglio. Deliberazione ora sottoposta all'Assemblea Capitolina</description>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
