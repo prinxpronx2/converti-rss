@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 09 Aug 2026 10:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:27:51 +0000</lastBuildDate>
     <item>
       <title>Lavori sulla ferrovia Roma-Nord, dal 10 al 23 agosto chiude la tratta Flaminio-Montebello</title>
       <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
@@ -56,6 +56,12 @@
       <link>https://romamobilita.it/primo-piano/strade-scolastiche-stanziati-380mila-euro-per-13-nuovi-interventi/</link>
       <description>Sono state finanziate nell'ambito dell'assestamento di bilancio</description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navette bus al posto dei tram sulle linee 3, 5, 14 e 19</title>
+      <link>https://romamobilita.it/primo-piano/da-lunedi-3-agosto-navette-bus-al-posto-dei-tram-sulle-linee-3-5-14-e-19/</link>
+      <description>Per lavori su alcuni tratti della rete necessari all'immissione dei nuovi convogli Urbos</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Taxi, superata soglia delle mille nuove licenze assegnate</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/piano-roma-notte-potenziati-i-bus-notturni-e-a-bordo-salgono-gli-assistenti-atac/</link>
       <description>Più corse sulle linee nMA, nMB, nMB1, nMC. Gli assistenti presenti anche in 10 stazioni metro</description>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roma Servizi per la Mobilità, approvato bilancio 2025: esercizio in utile per 649.066 euro</title>
-      <link>https://romamobilita.it/primo-piano/roma-servizi-per-la-mobilita-approvato-bilancio-2025-esercizio-in-utile-per-649-066-euro/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
