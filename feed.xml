@@ -8,10 +8,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:05:29 +0000</lastBuildDate>
+    <item>
+      <title>Lavori sulla ferrovia Roma-Nord, dal 10 al 23 agosto chiude la tratta Flaminio-Montebello</title>
+      <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
+      <description>Stop dei treni sulla tratta urbana, servizio sostituito con un collegamento bus</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro B, stanziati i fondi per la mitigazione acustica tra via Lero e via Dodecaneso</title>
+      <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
+      <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Piazza dei Cinquecento, cantiere Anas e modifiche a capolinea e fermate bus</title>
-      <link>https://romamobilita.it/primo-piano/piazza-dei-cinquecento-da-domani-cantiere-anas-e-modifiche-a-capolinea-e-fermate-bus/</link>
+      <link>https://romamobilita.it/primo-piano/piazza-dei-cinquecento-cantiere-anas-e-modifiche-a-capolinea-e-fermate-bus/</link>
       <description>Capolinea provvisorio tra via Cavour e viale De Nicola</description>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -20,12 +32,6 @@
       <link>https://romamobilita.it/primo-piano/stanziati-16-milioni-per-riqualificazione-e-la-pedonalizzazione-piazza-di-spagna-e-piazza-mignanelli/</link>
       <description>Nell'ambito dell'assestamento di bilancio</description>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lavori sulla ferrovia Roma-Nord, dal 10 al 23 agosto chiude la tratta Flaminio-Montebello</title>
-      <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
-      <description>Stop dei treni sulla tratta urbana, servizio sostituito con un collegamento bus</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tratto urbano dell’A24, fino al 28 agosto chiusa la galleria Pittaluga verso il Gra</title>
@@ -70,6 +76,12 @@
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
+      <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
+      <description>Ecco cosa sapere</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Eventi sportivi allo stadio Olimpico, definito il piano mobilità per la stagione 2026/2027</title>
       <link>https://romamobilita.it/primo-piano/eventi-sportivi-allo-stadio-olimpico-definito-il-piano-mobilita-per-la-stagione-2026-2027/</link>
       <description>Il via ufficiale il 16 agosto con la Coppa Italia</description>
@@ -97,12 +109,6 @@
       <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
       <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
       <description>Ecco cosa sapere</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eventi sportivi allo stadio Olimpico, definito il piano mobilità per la stagione 2026/2027</title>
-      <link>https://romamobilita.it/primo-piano/eventi-sportivi-allo-stadio-olimpico-definito-il-piano-mobilita-per-la-stagione-2026-2027/</link>
-      <description>Il via ufficiale il 16 agosto con la Coppa Italia</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,15 +148,15 @@
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
-      <link>https://romamobilita.it/primo-piano/ad-agosto-pausa-estiva-per-le-ztl-notturne-regolarmente-attive-quelle-diurne/</link>
-      <description>Guida agli orari</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Black point, completato l’intervento all’incrocio pedonale Casilina/Casale del Torraccio</title>
       <link>https://romamobilita.it/primo-piano/black-point-completato-lintervento-allincrocio-pedonale-casilina-casale-del-torraccio/</link>
       <description>Nel VI Municipio</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
+      <link>https://romamobilita.it/primo-piano/ad-agosto-pausa-estiva-per-le-ztl-notturne-regolarmente-attive-quelle-diurne/</link>
+      <description>Guida agli orari</description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/bando-su-urbanismo-tattico-le-prospettive-dopo-la-raccolta-delle-proposte/</link>
       <description>Veloccia (Urbanistica): "Stiamo lavorando a una piattaforma di raccolta fondi"</description>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lungotevere Arnaldo da Brescia, inaugurato il parcheggio da 156 posti</title>
-      <link>https://romamobilita.it/primo-piano/lungotevere-arnaldo-da-brescia-inaugurato-il-parcheggio-da-156-posti/</link>
-      <description>Concluso il cantiere rimasto fermo per 18 anni</description>
-      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
