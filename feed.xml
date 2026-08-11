@@ -8,11 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:26 +0000</lastBuildDate>
     <item>
       <title>Lavori sulla ferrovia Roma-Nord, dal 10 al 23 agosto chiude la tratta Flaminio-Montebello</title>
       <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
       <description>Stop dei treni sulla tratta urbana, servizio sostituito con un collegamento bus</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nuovi binari tram: da mercoledì Ponte Matteotti chiude in entrambi i sensi di marcia</title>
+      <link>https://romamobilita.it/primo-piano/nuovi-binari-tram-da-mercoledi-ponte-matteotti-chiude-in-entrambi-i-sensi-di-marcia/</link>
+      <description>Limitazioni anche su un tratto del lungotevere Arnaldo da Brescia mentre sarà ripristinato il doppio senso su via Azuni</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -103,12 +109,6 @@
       <title>Taxi, superata soglia delle mille nuove licenze assegnate</title>
       <link>https://romamobilita.it/primo-piano/taxi-superata-soglia-delle-mille-nuove-licenze-assegnate/</link>
       <description>Lo ha fatto sapere l'assessore alla Mobilità Eugenio Patanè</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
-      <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
-      <description>Ecco cosa sapere</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
