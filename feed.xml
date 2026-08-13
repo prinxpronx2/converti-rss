@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:35:21 +0000</lastBuildDate>
     <item>
       <title>Cantiere nuovi binari tram, chiuso al transito Ponte Matteotti</title>
       <link>https://romamobilita.it/primo-piano/nuovi-binari-tram-ponte-matteotti-chiuso-in-entrambi-i-sensi-di-marcia/</link>
@@ -82,6 +82,12 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Patanè: “Consegnata relazione tecnica finale nuovi treni Hitachi”</title>
+      <link>https://romamobilita.it/primo-piano/patane-consegnata-relazione-tecnica-finale-nuovi-treni-hitachi/</link>
+      <description>Leggi di più</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Sospeso sino al 5 settembre il noleggio dei monopattini Lime</title>
       <link>https://romamobilita.it/primo-piano/da-oggi-al-5-settembre-sospeso-il-noleggio-dei-monopattini-lime/</link>
       <description>Leggi di più</description>
@@ -130,6 +136,12 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Metro A: i campioni dello sport in stazione e nel treno</title>
+      <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
+      <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tram 19, iniziati i lavori per la realizzazione del capolinea provvisorio a viale delle Milizie</title>
       <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
       <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
@@ -151,12 +163,6 @@
       <title>La Storta, demolito il vecchio ponte. Partito l’intervento per la nuova infrastruttura viaria</title>
       <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
       <description>Con i lavori, viabilità alternativa su via Mezzenile</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro A: i campioni dello sport in stazione e nel treno</title>
-      <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
-      <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/viale-eritrea-dal-20-luglio-al-13-agosto-stop-circolazione-lucrino-lago-di-lesina/</link>
       <description>Per lavori di Acea Ato2 sulla rete fognaria. Deviate le linee bus 38, 80, 88, 235, nMB1</description>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In spiaggia con il bus, come raggiungere il mare di Ostia con il trasporto pubblico</title>
-      <link>https://romamobilita.it/primo-piano/in-spiaggia-con-il-bus-come-raggiungere-il-mare-di-ostia-con-il-trasporto-pubblico/</link>
-      <description>Leggi di più</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
