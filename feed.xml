@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 15 Aug 2026 05:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:35:57 +0000</lastBuildDate>
     <item>
       <title>Eventi sportivi allo stadio Olimpico, definito il piano mobilità per la stagione 2026/2027</title>
       <link>https://romamobilita.it/primo-piano/eventi-sportivi-allo-stadio-olimpico-definito-il-piano-mobilita-per-la-stagione-2026-2027/</link>
@@ -62,6 +62,12 @@
       <link>https://romamobilita.it/primo-piano/stanziati-16-milioni-per-riqualificazione-e-la-pedonalizzazione-piazza-di-spagna-e-piazza-mignanelli/</link>
       <description>Nell'ambito dell'assestamento di bilancio</description>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
+      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
+      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tratto urbano dell’A24, fino al 28 agosto chiusa la galleria Pittaluga verso il Gra</title>
@@ -130,6 +136,12 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Metro A: i campioni dello sport in stazione e nel treno</title>
+      <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
+      <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tram 19, iniziati i lavori per la realizzazione del capolinea provvisorio a viale delle Milizie</title>
       <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
       <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
@@ -151,12 +163,6 @@
       <title>La Storta, demolito il vecchio ponte. Partito l’intervento per la nuova infrastruttura viaria</title>
       <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
       <description>Con i lavori, viabilità alternativa su via Mezzenile</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro A: i campioni dello sport in stazione e nel treno</title>
-      <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
-      <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/viale-eritrea-dal-20-luglio-al-13-agosto-stop-circolazione-lucrino-lago-di-lesina/</link>
       <description>Per lavori di Acea Ato2 sulla rete fognaria. Deviate le linee bus 38, 80, 88, 235, nMB1</description>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In spiaggia con il bus, come raggiungere il mare di Ostia con il trasporto pubblico</title>
-      <link>https://romamobilita.it/primo-piano/in-spiaggia-con-il-bus-come-raggiungere-il-mare-di-ostia-con-il-trasporto-pubblico/</link>
-      <description>Leggi di più</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
