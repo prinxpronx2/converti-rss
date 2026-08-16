@@ -8,29 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 16 Aug 2026 05:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:38:11 +0000</lastBuildDate>
     <item>
-      <title>Ferragosto, la mobilità e il trasporto pubblico in città</title>
-      <link>https://romamobilita.it/primo-piano/ferragosto-la-mobilita-e-il-trasporto-pubblico-in-citta/</link>
-      <description>Normale orario festivo per i bus. Metro attive fino all'1,30 di notte. Spente le Ztl</description>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Lavori tratto urbano dell’A24, prosegue chiusura della galleria Pittaluga verso il Gra</title>
+      <link>https://romamobilita.it/primo-piano/tratto-urbano-della24-lavori-fino-al-28-agosto-chiusa-la-galleria-pittaluga-verso-il-gra/</link>
+      <description>Cantiere fino al 28 agosto, i percorsi alternativi. Di notte previste alcune chiusure anche in direzione Tangenziale</description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Eventi sportivi allo stadio Olimpico, definito il piano mobilità per la stagione 2026/2027</title>
+      <title>Stadio Olimpico, al via il piano mobilità per la stagione sportiva 2026/2027</title>
       <link>https://romamobilita.it/primo-piano/eventi-sportivi-allo-stadio-olimpico-definito-il-piano-mobilita-per-la-stagione-2026-2027/</link>
-      <description>Il via ufficiale domenica, 16 agosto, con la sfida di Coppa Italia tra Lazio e Mantova</description>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Si parte stasera con la sfida di Coppa Italia tra Lazio e Mantova</description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Municipio V: da martedì lavori su via Casilina altezza via Bufalini</title>
+      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
+      <description>Intervento sulla rete fognaria, previsto un cambio di viabilità</description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cantiere nuovi binari tram, chiuso al transito Ponte Matteotti</title>
       <link>https://romamobilita.it/primo-piano/nuovi-binari-tram-ponte-matteotti-chiuso-in-entrambi-i-sensi-di-marcia/</link>
       <description>Limitazioni anche su lungotevere Arnaldo da Brescia, mentre su via Azuni è tornato il doppio senso</description>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Municipio V: dal 18 agosto lavori su via Casilina altezza via Bufalini</title>
-      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
-      <description>Intervento sulla rete fognaria, previsto un cambio di viabilità</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,15 +70,15 @@
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tratto urbano dell’A24, fino al 28 agosto chiusa la galleria Pittaluga verso il Gra</title>
-      <link>https://romamobilita.it/primo-piano/tratto-urbano-della24-lavori-fino-al-28-agosto-chiusa-la-galleria-pittaluga-verso-il-gra/</link>
-      <description>I percorsi alternativi. Di notte previste limitazioni anche in direzione Tangenziale</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
       <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
+      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
+      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -130,7 +130,7 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tram 19, iniziati i lavori per la realizzazione del capolinea provvisorio a viale delle Milizie</title>
+      <title>Tram 19, in corso i lavori per la realizzazione del capolinea provvisorio a viale delle Milizie</title>
       <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
       <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
