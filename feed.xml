@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 17 Aug 2026 06:53:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:52:24 +0000</lastBuildDate>
+    <item>
+      <title>Contrassegno disabili, dopo il 21 agosto in Ztl accesso possibile solo con la targa principale</title>
+      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
+      <description>Le informazioni utili sul "CUDE"</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Stadio Olimpico, al via il piano mobilità per la stagione sportiva 2026/2027</title>
       <link>https://romamobilita.it/primo-piano/eventi-sportivi-allo-stadio-olimpico-definito-il-piano-mobilita-per-la-stagione-2026-2027/</link>
@@ -76,15 +82,15 @@
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
-      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
-      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
       <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
+      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
+      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -136,6 +142,12 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>La Storta, demolito il vecchio ponte. Partito l’intervento per la nuova infrastruttura viaria</title>
+      <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
+      <description>Con i lavori, viabilità alternativa su via Mezzenile</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Metro A: i campioni dello sport in stazione e nel treno</title>
       <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
       <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
@@ -157,12 +169,6 @@
       <title>Dal 16 al 22 settembre torna la Settimana Europea della Mobilità. Ecco come partecipare</title>
       <link>https://romamobilita.it/primo-piano/dal-16-al-22-settembre-torna-la-settimana-europea-della-mobilita-ecco-come-partecipare/</link>
       <description>Tutti possono proporre un progetto o un evento</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Storta, demolito il vecchio ponte. Partito l’intervento per la nuova infrastruttura viaria</title>
-      <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
-      <description>Con i lavori, viabilità alternativa su via Mezzenile</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/viale-eritrea-dal-20-luglio-al-13-agosto-stop-circolazione-lucrino-lago-di-lesina/</link>
       <description>Per lavori di Acea Ato2 sulla rete fognaria. Deviate le linee bus 38, 80, 88, 235, nMB1</description>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>In spiaggia con il bus, come raggiungere il mare di Ostia con il trasporto pubblico</title>
-      <link>https://romamobilita.it/primo-piano/in-spiaggia-con-il-bus-come-raggiungere-il-mare-di-ostia-con-il-trasporto-pubblico/</link>
-      <description>Leggi di più</description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
