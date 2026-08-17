@@ -8,23 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 17 Aug 2026 05:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:53:04 +0000</lastBuildDate>
+    <item>
+      <title>Stadio Olimpico, al via il piano mobilità per la stagione sportiva 2026/2027</title>
+      <link>https://romamobilita.it/primo-piano/eventi-sportivi-allo-stadio-olimpico-definito-il-piano-mobilita-per-la-stagione-2026-2027/</link>
+      <description>Prossimo appuntamento Roma-Fiorentina per la prima giornata di serie A</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Municipio V: da domani lavori su via Casilina altezza via Bufalini</title>
+      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
+      <description>Intervento sulla rete fognaria, previsto un cambio di viabilità</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro A, proseguono i lavori di riqualificazione della stazione Lepanto</title>
+      <link>https://romamobilita.it/primo-piano/metro-a-lavori-nella-stazione-lepanto/</link>
+      <description>La fermata resta chiusa fino al 30 agosto</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Lavori tratto urbano dell’A24, prosegue chiusura della galleria Pittaluga verso il Gra</title>
       <link>https://romamobilita.it/primo-piano/tratto-urbano-della24-lavori-fino-al-28-agosto-chiusa-la-galleria-pittaluga-verso-il-gra/</link>
       <description>Cantiere fino al 28 agosto, i percorsi alternativi. Di notte previste alcune chiusure anche in direzione Tangenziale</description>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stadio Olimpico, al via il piano mobilità per la stagione sportiva 2026/2027</title>
-      <link>https://romamobilita.it/primo-piano/eventi-sportivi-allo-stadio-olimpico-definito-il-piano-mobilita-per-la-stagione-2026-2027/</link>
-      <description>Si parte stasera con la sfida di Coppa Italia tra Lazio e Mantova</description>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Municipio V: da martedì lavori su via Casilina altezza via Bufalini</title>
-      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
-      <description>Intervento sulla rete fognaria, previsto un cambio di viabilità</description>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,15 +76,15 @@
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
-      <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
       <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
       <description>L'affidamento sarà in vigore dal mese di ottobre</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
+      <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -130,6 +136,12 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Metro A: i campioni dello sport in stazione e nel treno</title>
+      <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
+      <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tram 19, in corso i lavori per la realizzazione del capolinea provvisorio a viale delle Milizie</title>
       <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
       <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
@@ -151,12 +163,6 @@
       <title>La Storta, demolito il vecchio ponte. Partito l’intervento per la nuova infrastruttura viaria</title>
       <link>https://romamobilita.it/primo-piano/cantiere-ponte-della-storta-dal-27-luglio-viabilita-alternativa-in-via-mezzenile/</link>
       <description>Con i lavori, viabilità alternativa su via Mezzenile</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro A: i campioni dello sport in stazione e nel treno</title>
-      <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
-      <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -206,12 +212,6 @@
       <link>https://romamobilita.it/primo-piano/salaria-riaperto-al-transito-il-tratto-allaltezza-della-motorizzazione/</link>
       <description>Conclusa la fase più complessa dell'intervento di ripristino del cavalcavia danneggiato da un mezzo pesante</description>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro A, chiusa per lavori la stazione Lepanto</title>
-      <link>https://romamobilita.it/primo-piano/metro-a-da-sabato-al-via-lavori-nella-stazione-lepanto/</link>
-      <description>I treni transitano senza effettuare la fermata</description>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Viale Eritrea chiuso fino 13 agosto, stop circolazione Lucrino-Lago di Lesina</title>
