@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:41:03 +0000</lastBuildDate>
     <item>
       <title>Contrassegno disabili, dopo il 21 agosto in Ztl accesso possibile solo con la targa principale</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/atac-110-milioni-per-lacquisto-di-nuovi-bus-a-idrogeno/</link>
       <description>Cuore del progetto, finanziato dal Mit, sarà il polo green di Acilia</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro B, stanziati i fondi per la mitigazione acustica tra via Lero e via Dodecaneso</title>
+      <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
+      <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lavori sulla ferrovia Roma-Nord, chiusa la tratta  Flaminio-Montebello</title>
@@ -148,6 +154,12 @@
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
+      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Dal 16 al 22 settembre torna la Settimana Europea della Mobilità. Ecco come partecipare</title>
       <link>https://romamobilita.it/primo-piano/dal-16-al-22-settembre-torna-la-settimana-europea-della-mobilita-ecco-come-partecipare/</link>
       <description>Tutti possono proporre un progetto o un evento</description>
@@ -169,12 +181,6 @@
       <title>Tram 19, in corso i lavori per la realizzazione del capolinea provvisorio a viale delle Milizie</title>
       <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
       <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
-      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/linea-495l-a-valle-aurelia-da-domani-attiva-una-navetta-temporanea/</link>
       <description>E da agosto novità in vista sulla rete bus nel quadrante sud</description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salaria, riaperto al transito il tratto all’altezza della Motorizzazione</title>
-      <link>https://romamobilita.it/primo-piano/salaria-riaperto-al-transito-il-tratto-allaltezza-della-motorizzazione/</link>
-      <description>Conclusa la fase più complessa dell'intervento di ripristino del cavalcavia danneggiato da un mezzo pesante</description>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
