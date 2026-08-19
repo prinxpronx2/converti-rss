@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:50:27 +0000</lastBuildDate>
     <item>
       <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
       <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/atac-110-milioni-per-lacquisto-di-nuovi-bus-a-idrogeno/</link>
       <description>Cuore del progetto, finanziato dal Mit, sarà il polo green di Acilia</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lavori sulla ferrovia Roma-Nord, chiusa la tratta  Flaminio-Montebello</title>
+      <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
+      <description>Stop dei treni sulla tratta urbana fino al 23 agosto</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro B, stanziati i fondi per la mitigazione acustica tra via Lero e via Dodecaneso</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/metro-c-partono-i-cantieri-per-le-stazioni-auditorium-e-farnesina/</link>
       <description>Le fermate della tratta T1 prolungheranno la linea verso il quadrante nord-ovest</description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linea 495L, a Valle Aurelia è attiva la navetta temporanea</title>
-      <link>https://romamobilita.it/primo-piano/linea-495l-a-valle-aurelia-da-domani-attiva-una-navetta-temporanea/</link>
-      <description>E da agosto novità in vista sulla rete bus nel quadrante sud</description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
