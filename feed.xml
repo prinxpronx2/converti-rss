@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:47:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:44:48 +0000</lastBuildDate>
     <item>
       <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
       <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
@@ -82,6 +82,12 @@
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Atac, 110 milioni per l’acquisto di nuovi bus a idrogeno</title>
+      <link>https://romamobilita.it/primo-piano/atac-110-milioni-per-lacquisto-di-nuovi-bus-a-idrogeno/</link>
+      <description>Cuore del progetto, finanziato dal Mit, sarà il polo green di Acilia</description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Lavori sulla ferrovia Roma-Nord, chiusa la tratta  Flaminio-Montebello</title>
       <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
       <description>Stop dei treni sulla tratta urbana fino al 23 agosto</description>
@@ -136,6 +142,12 @@
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Taxi, superata soglia delle mille nuove licenze assegnate</title>
+      <link>https://romamobilita.it/primo-piano/taxi-superata-soglia-delle-mille-nuove-licenze-assegnate/</link>
+      <description>Lo ha fatto sapere l'assessore alla Mobilità Eugenio Patanè</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
       <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
       <description>Ecco cosa sapere</description>
@@ -145,12 +157,6 @@
       <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
       <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre-2/</link>
       <description>Firmata l'ordinanza che introduce una disciplina temporanea di accesso</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Taxi, superata soglia delle mille nuove licenze assegnate</title>
-      <link>https://romamobilita.it/primo-piano/taxi-superata-soglia-delle-mille-nuove-licenze-assegnate/</link>
-      <description>Lo ha fatto sapere l'assessore alla Mobilità Eugenio Patanè</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Gianicolo, riqualificata la viabilità nell’area dell’ospedale Bambino Gesù</title>
       <link>https://romamobilita.it/primo-piano/gianicolo-riqualificata-la-viabilita-nellarea-dellospedale-bambino-gesu/</link>
       <description>Più agevole l'accesso delle ambulanze al nosocomio pediatrico. Dissuasori contro sosta selvaggia sulla Passeggiata del Gianicolo</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro C, partono i cantieri per le stazioni Auditorium e Farnesina</title>
-      <link>https://romamobilita.it/primo-piano/metro-c-partono-i-cantieri-per-le-stazioni-auditorium-e-farnesina/</link>
-      <description>Le fermate della tratta T1 prolungheranno la linea verso il quadrante nord-ovest</description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
