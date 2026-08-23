@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 23 Aug 2026 08:28:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:58:54 +0000</lastBuildDate>
     <item>
       <title>Contrassegno disabili, da oggi accesso in Ztl solo con la targa principale</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/navette-bus-al-posto-dei-tram-sulle-linee-2-3-5-8-14-e-19/</link>
       <description>Un aggiornamento su lavori e modifiche</description>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avviati lavori di riqualificazione in via Bonnet, via Calandrelli e viale delle Mura Gianicolensi</title>
+      <link>https://romamobilita.it/primo-piano/patane-al-via-lavori-di-riqualificazione-in-via-bonnet-via-calandrelli-mura-gianicolense/</link>
+      <description>Finalizzati a migliorare la sicurezza stradale</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cantiere nuovi binari tram, chiuso al transito Ponte Matteotti</title>
@@ -142,6 +148,12 @@
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
+      <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre-2/</link>
+      <description>Firmata l'ordinanza che introduce una disciplina temporanea di accesso</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Taxi, superata soglia delle mille nuove licenze assegnate</title>
       <link>https://romamobilita.it/primo-piano/taxi-superata-soglia-delle-mille-nuove-licenze-assegnate/</link>
       <description>Lo ha fatto sapere l'assessore alla Mobilità Eugenio Patanè</description>
@@ -151,12 +163,6 @@
       <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
       <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
       <description>Ecco cosa sapere</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
-      <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre-2/</link>
-      <description>Firmata l'ordinanza che introduce una disciplina temporanea di accesso</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/metro-a-consegnato-il-progetto-per-torrevecchia/</link>
       <description>Leggi di più</description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gianicolo, riqualificata la viabilità nell’area dell’ospedale Bambino Gesù</title>
-      <link>https://romamobilita.it/primo-piano/gianicolo-riqualificata-la-viabilita-nellarea-dellospedale-bambino-gesu/</link>
-      <description>Più agevole l'accesso delle ambulanze al nosocomio pediatrico. Dissuasori contro sosta selvaggia sulla Passeggiata del Gianicolo</description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
