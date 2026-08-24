@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 24 Aug 2026 13:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:40:16 +0000</lastBuildDate>
     <item>
       <title>Stadio Olimpico, torna la Serie A di calcio. Il piano della mobilità</title>
       <link>https://romamobilita.it/primo-piano/eventi-sportivi-allo-stadio-olimpico-definito-il-piano-mobilita-per-la-stagione-2026-2027/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/navette-bus-al-posto-dei-tram-sulle-linee-2-3-5-8-14-e-19/</link>
       <description>Un aggiornamento su lavori e modifiche</description>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cantiere nuovi binari tram, chiuso al transito Ponte Matteotti</title>
+      <link>https://romamobilita.it/primo-piano/nuovi-binari-tram-ponte-matteotti-chiuso-in-entrambi-i-sensi-di-marcia/</link>
+      <description>Limitazioni anche su lungotevere Arnaldo da Brescia, mentre su via Azuni è tornato il doppio senso</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Avviati lavori di riqualificazione in via Bonnet, via Calandrelli e viale delle Mura Gianicolensi</title>
@@ -148,6 +154,12 @@
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
+      <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
+      <description>Ecco cosa sapere</description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
       <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre-2/</link>
       <description>Firmata l'ordinanza che introduce una disciplina temporanea di accesso</description>
@@ -157,12 +169,6 @@
       <title>Taxi, superata soglia delle mille nuove licenze assegnate</title>
       <link>https://romamobilita.it/primo-piano/taxi-superata-soglia-delle-mille-nuove-licenze-assegnate/</link>
       <description>Lo ha fatto sapere l'assessore alla Mobilità Eugenio Patanè</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
-      <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
-      <description>Ecco cosa sapere</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre/</link>
       <description>Lo ha annunciato il sindaco Gualtieri nel corso dell'Assemblea capitolina</description>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro A, consegnato il progetto per Torrevecchia</title>
-      <link>https://romamobilita.it/primo-piano/metro-a-consegnato-il-progetto-per-torrevecchia/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
