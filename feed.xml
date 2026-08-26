@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 26 Aug 2026 15:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:53:08 +0000</lastBuildDate>
+    <item>
+      <title>Tramvia Togliatti, riaperto incrocio Togliatti/Sacco e Vanzetti/Franceschini</title>
+      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-da-mercoledi-nuova-fase-del-cantiere-e-chiusure/</link>
+      <description>Nuova fase del cantiere</description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Settimana Europea della Mobilità, si parte il 16 settembre. Come partecipare all’iniziativa</title>
       <link>https://romamobilita.it/primo-piano/dal-16-al-22-settembre-torna-la-settimana-europea-della-mobilita-ecco-come-partecipare/</link>
@@ -70,15 +76,15 @@
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lavori tratto urbano dell’A24, prosegue chiusura della galleria Pittaluga verso il Gra</title>
-      <link>https://romamobilita.it/primo-piano/tratto-urbano-della24-lavori-fino-al-28-agosto-chiusa-la-galleria-pittaluga-verso-il-gra/</link>
-      <description>Cantiere fino al 28 agosto, i percorsi alternativi. Di notte previste alcune chiusure anche in direzione Tangenziale</description>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Manutenzioni e cantieri, navette bus al posto dei tram sulle linee 2, 3, 5, 8, 14 e 19</title>
       <link>https://romamobilita.it/primo-piano/navette-bus-al-posto-dei-tram-sulle-linee-2-3-5-8-14-e-19/</link>
       <description>Un aggiornamento su lavori e modifiche</description>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lavori tratto urbano dell’A24, prosegue chiusura della galleria Pittaluga verso il Gra</title>
+      <link>https://romamobilita.it/primo-piano/tratto-urbano-della24-lavori-fino-al-28-agosto-chiusa-la-galleria-pittaluga-verso-il-gra/</link>
+      <description>Cantiere fino al 28 agosto, i percorsi alternativi. Di notte previste alcune chiusure anche in direzione Tangenziale</description>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,15 +148,15 @@
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Salute, campagna a sostegno dei portatori di stomia con video informativi in metro e bus</title>
-      <link>https://romamobilita.it/primo-piano/salute-campagna-a-sostegno-dei-portatori-di-stomia-con-video-informativi-in-metro-e-bus/</link>
-      <description>Fino al 3 settembre con la collaborazione di Roma Mobilità e Atac</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Strade scolastiche, stanziati 380mila euro per 13 nuovi interventi</title>
       <link>https://romamobilita.it/primo-piano/strade-scolastiche-stanziati-380mila-euro-per-13-nuovi-interventi/</link>
       <description>Sono state finanziate nell'ambito dell'assestamento di bilancio</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salute, campagna a sostegno dei portatori di stomia con video informativi in metro e bus</title>
+      <link>https://romamobilita.it/primo-piano/salute-campagna-a-sostegno-dei-portatori-di-stomia-con-video-informativi-in-metro-e-bus/</link>
+      <description>Fino al 3 settembre con la collaborazione di Roma Mobilità e Atac</description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre/</link>
       <description>Lo ha annunciato il sindaco Gualtieri nel corso dell'Assemblea capitolina</description>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro A, consegnato il progetto per Torrevecchia</title>
-      <link>https://romamobilita.it/primo-piano/metro-a-consegnato-il-progetto-per-torrevecchia/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
