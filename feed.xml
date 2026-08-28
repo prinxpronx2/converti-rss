@@ -8,7 +8,25 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:06:24 +0000</lastBuildDate>
+    <item>
+      <title>Riaperto Ponte Matteotti, domani il ripristino dei percorsi bus</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-domani-il-ripristino-dei-percorsi-bus/</link>
+      <description>Il cantiere era attivo dal 30 luglio scorso</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilità, pubblicata manifestazione d’interesse per individuare partner guida autonoma livello 4</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-pubblicata-manifestazione-dinteresse-per-individuare-partner-guida-autonoma-livello-4/</link>
+      <description>L'avviso resta aperto fino al 31 dicembre 2026</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Torrevecchia, chiusure al traffico in via Castiglioni/via Vinci</title>
+      <link>https://romamobilita.it/primo-piano/torrevecchia-flaminia-colli-della-farnesida-da-domani-modifiche-di-viabilita-per-tre-cantieri/</link>
+      <description>Lavori anche nel sottopasso Euclide e in viale dei Colli della Farnesina</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Roma Taxi 2030, un piano d’azione che punta su tecnologia, intermodalità e sicurezza</title>
       <link>https://romamobilita.it/primo-piano/roma-taxi-2030-un-piano-dazione-che-punta-su-tecnologia-intermodalita-e-sicurezza/</link>
@@ -16,15 +34,9 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Torrevecchia, da domani mattina chiusure in via Castiglioni/via Vinci</title>
-      <link>https://romamobilita.it/primo-piano/torrevecchia-flaminia-colli-della-farnesida-da-domani-modifiche-di-viabilita-per-tre-cantieri/</link>
-      <description>Lavori anche nel sottopasso Euclide e in viale dei Colli della Farnesina</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Galleria Pittaluga, terminati i lavori. Apertura anticipata a questa notte</title>
+      <title>Galleria Pittaluga, terminati i lavori. Apertura anticipata</title>
       <link>https://romamobilita.it/primo-piano/galleria-pittaluga-terminati-i-lavori-apertura-anticipata-a-questa-notte/</link>
-      <description>Leggi di più</description>
+      <description>Ripristinata la normale viabilità</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -64,22 +76,16 @@
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
-      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
-      <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl Appia Antica, pre-esercizio dei varchi elettronici dal 19 settembre</title>
       <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
       <description>Al via il test prima dell'entrata a regime della Ztlt, la Zona a traffico limitato territoriale del fine settimana</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bus Rapid Transit, a Roma al via due progetti per il nuovo sistema di trasporto</title>
-      <link>https://romamobilita.it/primo-piano/bus-rapid-transit-a-roma-al-via-due-progetti-per-il-nuovo-sistema-di-trasporto/</link>
-      <description>A Ostia e nel Municipio XIII. Patané: "Soluzione moderna, efficiente, ecologica per quadranti strategici e ad alta densità abitativa".</description>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
+      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
+      <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bus Rapid Transit, a Roma al via due progetti per il nuovo sistema di trasporto</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
       <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
-      <link>https://romamobilita.it/primo-piano/ad-agosto-pausa-estiva-per-le-ztl-notturne-regolarmente-attive-quelle-diurne/</link>
-      <description>Guida agli orari</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
