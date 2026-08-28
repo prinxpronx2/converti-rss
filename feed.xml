@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 27 Aug 2026 23:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:49:18 +0000</lastBuildDate>
     <item>
       <title>Roma Taxi 2030, un piano d’azione che punta su tecnologia, intermodalità e sicurezza</title>
       <link>https://romamobilita.it/primo-piano/roma-taxi-2030-un-piano-dazione-che-punta-su-tecnologia-intermodalita-e-sicurezza/</link>
@@ -19,6 +19,18 @@
       <title>Torrevecchia, da domani mattina chiusure in via Castiglioni/via Vinci</title>
       <link>https://romamobilita.it/primo-piano/torrevecchia-flaminia-colli-della-farnesida-da-domani-modifiche-di-viabilita-per-tre-cantieri/</link>
       <description>Lavori anche nel sottopasso Euclide e in viale dei Colli della Farnesina</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Galleria Pittaluga, terminati i lavori. Apertura anticipata a questa notte</title>
+      <link>https://romamobilita.it/primo-piano/galleria-pittaluga-terminati-i-lavori-apertura-anticipata-a-questa-notte/</link>
+      <description>Leggi di più</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>E-bike e monopattini, dalla Giunta via libera a linee guida nuovo bando sharing</title>
+      <link>https://romamobilita.it/primo-piano/e-bike-e-monopattini-dalla-giunta-via-libera-a-linee-guida-nuovo-bando-sharing/</link>
+      <description>Le regole in vigore scadranno tra il 31 agosto e il 31 ottobre. Nelle linee guida anche l'integrazione con il</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,16 +82,10 @@
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metro A, proseguono i lavori di riqualificazione della stazione Lepanto</title>
-      <link>https://romamobilita.it/primo-piano/metro-a-lavori-nella-stazione-lepanto/</link>
-      <description>La fermata resta chiusa fino al 30 agosto</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patanè: “500mila Euro per progettazione ciclopedonale San Filippo Neri – Giustiniana”</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-patane-500mila-euro-per-progettazione-ciclopedonale-san-filippo-neri-giustiniana/</link>
-      <description>Saranno realizzati circa 5Km di nuova rete ciclabile</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Bus Rapid Transit, a Roma al via due progetti per il nuovo sistema di trasporto</title>
+      <link>https://romamobilita.it/primo-piano/bus-rapid-transit-a-roma-al-via-due-progetti-per-il-nuovo-sistema-di-trasporto/</link>
+      <description>A Ostia e nel Municipio XIII. Patané: "Soluzione moderna, efficiente, ecologica per quadranti strategici e ad alta densità abitativa".</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro A, proseguono i lavori di riqualificazione della stazione Lepanto</title>
@@ -217,12 +223,6 @@
       <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
       <link>https://romamobilita.it/primo-piano/ad-agosto-pausa-estiva-per-le-ztl-notturne-regolarmente-attive-quelle-diurne/</link>
       <description>Guida agli orari</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black point, completato l’intervento all’incrocio pedonale Casilina/Casale del Torraccio</title>
-      <link>https://romamobilita.it/primo-piano/black-point-completato-lintervento-allincrocio-pedonale-casilina-casale-del-torraccio/</link>
-      <description>Nel VI Municipio</description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
