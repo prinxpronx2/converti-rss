@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 29 Aug 2026 03:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:19:25 +0000</lastBuildDate>
     <item>
       <title>Riaperto Ponte Matteotti, domani il ripristino dei percorsi bus</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-domani-il-ripristino-dei-percorsi-bus/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/via-walter-tobagi-approvato-il-progetto-esecutivo-per-la-messa-in-sicurezza/</link>
       <description>Patané: "Nuova pista ciclabile, nuovi marciapiedi e messa in sicurezza degli incroci. Una vera e propria rigenerazione urbana". Avvio dei</description>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
+      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
+      <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ztl Appia Antica, pre-esercizio dei varchi elettronici dal 19 settembre</title>
@@ -142,15 +148,15 @@
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
-      <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
       <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
       <description>L'affidamento sarà in vigore dal mese di ottobre</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
+      <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Metro A: i campioni dello sport in stazione e nel treno</title>
       <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
       <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tram 19, in corso i lavori per la realizzazione del capolinea provvisorio a viale delle Milizie</title>
-      <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
-      <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
