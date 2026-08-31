@@ -8,17 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 31 Aug 2026 03:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:38:30 +0000</lastBuildDate>
     <item>
-      <title>A24/galleria Pittaluga, terminati i lavori. Il tunnel è di nuovo percorribile</title>
-      <link>https://romamobilita.it/primo-piano/galleria-pittaluga-terminati-i-lavori/</link>
-      <description>Ripristinata la normale viabilità nei due sensi di marcia</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Contrassegno disabili, ora accesso in Ztl solo con la targa principale</title>
+      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
+      <description>Con questo provvedimento nelle strade del Centro non circoleranno più circa 37.770 veicoli</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Via del Foro Italico e viale Newton, una notte di chiusure per taratura autovelox</title>
       <link>https://romamobilita.it/primo-piano/via-del-foro-italico-e-viale-newton-una-notte-di-chiusure-per-taratura-autovelox/</link>
-      <description>Dalle 21 alle 5. Il cronoprogramma in dettaglio</description>
+      <description>Dalle 21 alle 5. Stanotte deviazioni per la linea 69</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A24/galleria Pittaluga, terminati i lavori. Il tunnel è di nuovo percorribile</title>
+      <link>https://romamobilita.it/primo-piano/galleria-pittaluga-terminati-i-lavori/</link>
+      <description>Ripristinata la normale viabilità nei due sensi di marcia</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -48,7 +54,7 @@
     <item>
       <title>E-bike e monopattini, dalla Giunta via libera a linee guida nuovo bando sharing</title>
       <link>https://romamobilita.it/primo-piano/e-bike-e-monopattini-dalla-giunta-via-libera-a-linee-guida-nuovo-bando-sharing/</link>
-      <description>Le regole in vigore scadranno tra il 31 agosto e il 31 ottobre. Nelle linee guida anche l'integrazione con il</description>
+      <description>Nelle linee guida anche l'integrazione con il tpl e limiti massimi per gli operatori</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,10 +76,10 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Contrassegno disabili, ora accesso in Ztl solo con la targa principale</title>
-      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
-      <description>Con questo provvedimento nelle strade del Centro non circoleranno più circa 37.770 veicoli</description>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <title>Via Walter Tobagi, approvato il progetto esecutivo per la messa in sicurezza</title>
+      <link>https://romamobilita.it/primo-piano/via-walter-tobagi-approvato-il-progetto-esecutivo-per-la-messa-in-sicurezza/</link>
+      <description>Patané: "Nuova pista ciclabile, nuovi marciapiedi e messa in sicurezza degli incroci. Una vera e propria rigenerazione urbana". Avvio dei</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Via Walter Tobagi, approvato il progetto esecutivo per la messa in sicurezza</title>
@@ -142,15 +148,15 @@
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
-      <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
       <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
       <description>L'affidamento sarà in vigore dal mese di ottobre</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
+      <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
       <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ad agosto pausa estiva per le Ztl notturne. Regolarmente attive quelle diurne</title>
-      <link>https://romamobilita.it/primo-piano/ad-agosto-pausa-estiva-per-le-ztl-notturne-regolarmente-attive-quelle-diurne/</link>
-      <description>Guida agli orari</description>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
