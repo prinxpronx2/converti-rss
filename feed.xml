@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 01 Sep 2026 12:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:09:47 +0000</lastBuildDate>
     <item>
       <title>Contrassegno disabili, ora accesso in Ztl solo con la targa principale</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/dal-16-al-22-settembre-torna-la-settimana-europea-della-mobilita-ecco-come-partecipare/</link>
       <description>Tutti possono proporre un progetto o un evento</description>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ciclabili, marciapiedi, attraversamenti pedonali: a Tor Bella Monaca via ai cantieri nell’ambito del Piano Urbano Integrato</title>
+      <link>https://romamobilita.it/primo-piano/ciclabili-marciapiedi-attraversamenti-pedonali-a-tor-bella-monaca-via-ai-cantieri-del-piano-urbano-integrato/</link>
+      <description>Patané: "Il 7 settembre partiamo con la cantierizzazione, il 7 ottobre con i lavori”</description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ciclabili, marciapiedi, attraversamenti pedonali: a Tor Bella Monaca via ai cantieri nell’ambito del Piano Urbano Integrato</title>
@@ -148,15 +154,15 @@
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
-      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
-      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
       <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
+      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
+      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Metro A: i campioni dello sport in stazione e nel treno</title>
       <link>https://romamobilita.it/primo-piano/metro-a-i-campioni-dello-sport-in-stazione-e-nel-treno/</link>
       <description>“Tra sport e trasporti” mostra fotografica di Ferdinando Mezzelani, nei vagoni tra Battistini e Anagnina</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tram 19, in corso i lavori per la realizzazione del capolinea provvisorio a viale delle Milizie</title>
-      <link>https://romamobilita.it/primo-piano/tram-19-iniziati-i-lavori-per-la-realizzazione-del-capolinea-provvisorio-a-viale-delle-milizie/</link>
-      <description>Ad annunciarlo, l'assessore alla Mobilità Eugenio Patanè</description>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
