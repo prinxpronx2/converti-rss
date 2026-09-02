@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 01 Sep 2026 22:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:49:54 +0000</lastBuildDate>
+    <item>
+      <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
+      <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
+      <description>Da lunedì in servizio la 3L tram e termina la riduzione estiva del Tpl. Torna la Metrebus Under 19 agevolata</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl a Roma, 130mila permessi in meno</title>
+      <link>https://romamobilita.it/primo-piano/ztl-a-roma-130mila-permessi-in-meno/</link>
+      <description>Arriva il divieto 8-18 per i veicoli merci in Centro</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Viale Newton, stanotte chiusure per taratura autovelox</title>
       <link>https://romamobilita.it/primo-piano/via-del-foro-italico-e-viale-newton-una-notte-di-chiusure-per-taratura-autovelox/</link>
@@ -82,12 +94,6 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Settimana Europea della Mobilità, si parte il 16 settembre. Come partecipare all’iniziativa</title>
-      <link>https://romamobilita.it/primo-piano/dal-16-al-22-settembre-torna-la-settimana-europea-della-mobilita-ecco-come-partecipare/</link>
-      <description>Tutti possono proporre un progetto o un evento</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ciclabili, marciapiedi, attraversamenti pedonali: a Tor Bella Monaca via ai cantieri nell’ambito del Piano Urbano Integrato</title>
       <link>https://romamobilita.it/primo-piano/ciclabili-marciapiedi-attraversamenti-pedonali-a-tor-bella-monaca-via-ai-cantieri-del-piano-urbano-integrato/</link>
       <description>Patané: "Il 7 settembre partiamo con la cantierizzazione, il 7 ottobre con i lavori”</description>
@@ -142,15 +148,15 @@
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lavori sulla ferrovia Roma-Nord, stop tra Campi Sportivi e Grottarossa</title>
-      <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
-      <description>Stop dei treni sulla tratta urbana fino al 23 agosto</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Metro B, stanziati i fondi per la mitigazione acustica tra via Lero e via Dodecaneso</title>
       <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
       <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lavori sulla ferrovia Roma-Nord, stop tra Campi Sportivi e Grottarossa</title>
+      <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
+      <description>Stop dei treni sulla tratta urbana fino al 23 agosto</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/parcheggi-installati-2000-sensori-monitoraggio-sosta/</link>
       <description>Il completamento dell'intera rete è previsto entro la prima metà del 2027</description>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
-      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
