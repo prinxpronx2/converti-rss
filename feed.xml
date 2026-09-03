@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 03 Sep 2026 15:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:07:04 +0000</lastBuildDate>
     <item>
       <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
       <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/torrevecchia-flaminia-colli-della-farnesida-da-domani-modifiche-di-viabilita-per-tre-cantieri/</link>
       <description>Lavori anche nel sottopasso Euclide e in viale dei Colli della Farnesina</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>E-bike e monopattini, dalla Giunta via libera a linee guida nuovo bando sharing</title>
+      <link>https://romamobilita.it/primo-piano/e-bike-e-monopattini-dalla-giunta-via-libera-a-linee-guida-nuovo-bando-sharing/</link>
+      <description>Nelle linee guida anche l'integrazione con il tpl e limiti massimi per gli operatori</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Roma Taxi 2030, un piano d’azione che punta su tecnologia, intermodalità e sicurezza</title>
@@ -148,15 +154,15 @@
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metro B, stanziati i fondi per la mitigazione acustica tra via Lero e via Dodecaneso</title>
-      <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
-      <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Lavori sulla ferrovia Roma-Nord, stop tra Campi Sportivi e Grottarossa</title>
       <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
       <description>Stop dei treni sulla tratta urbana fino al 23 agosto</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro B, stanziati i fondi per la mitigazione acustica tra via Lero e via Dodecaneso</title>
+      <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
+      <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/parcheggi-installati-2000-sensori-monitoraggio-sosta/</link>
       <description>Il completamento dell'intera rete è previsto entro la prima metà del 2027</description>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponte Matteotti/via Azuni: cantiere per il rinnovo dei binari tranviari e cambi di viabilità</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-via-azuni-da-giovedi-cantiere-sui-binari-e-cambi-di-viabilita/</link>
-      <description>Intervento in due fasi. Il cronoprogramma dei lavori</description>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
