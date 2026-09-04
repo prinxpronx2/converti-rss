@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:18:27 +0000</lastBuildDate>
     <item>
       <title>Metro C, stazione Colosseo/Fori Imperiali: chiusura alle 20 da lunedì all’11 settembre</title>
       <link>https://romamobilita.it/primo-piano/linea-c-stazione-colosseo-fori-imperiali-chiusura-alle-20-da-lunedi-all11-settembre/</link>
@@ -68,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/galleria-pittaluga-terminati-i-lavori/</link>
       <description>Ripristinata la normale viabilità nei due sensi di marcia</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilità, pubblicata manifestazione d’interesse per individuare partner guida autonoma livello 4</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-pubblicata-manifestazione-dinteresse-per-individuare-partner-guida-autonoma-livello-4/</link>
+      <description>L'avviso resta aperto fino al 31 dicembre 2026</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Torrevecchia, chiusure al traffico in via Castiglioni/via Vinci</title>
@@ -217,12 +223,6 @@
       <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
       <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
       <description>Ecco cosa sapere</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
-      <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre-2/</link>
-      <description>Firmata l'ordinanza che introduce una disciplina temporanea di accesso</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
