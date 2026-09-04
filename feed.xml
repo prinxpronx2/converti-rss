@@ -8,11 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 04 Sep 2026 19:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:39:30 +0000</lastBuildDate>
     <item>
       <title>Metro C, stazione Colosseo/Fori Imperiali: chiusura alle 20 da lunedì all’11 settembre</title>
       <link>https://romamobilita.it/primo-piano/linea-c-stazione-colosseo-fori-imperiali-chiusura-alle-20-da-lunedi-all11-settembre/</link>
-      <description>Poi lo stop dalla sera del 18 al 20 settembre</description>
+      <description>Poi dalla sera del 18 al 20 settembre chiusura continuativa della fermata</description>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Via Aurelia Antica, da lunedì lavori notturni per un nuovo marciapiede</title>
+      <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
+      <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -22,9 +28,9 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Campidoglio dopo sentenza Tar: “Su merci in Centro necessaria regolamentazione”</title>
+      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
       <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
-      <description>Intanto dal 7 settembre rafforzata l'attività della Polizia Locale sulle limitazioni esistenti</description>
+      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -85,12 +91,6 @@
       <title>Riaperto Ponte Matteotti, ripristinati anche i percorsi delle linee bus</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-domani-il-ripristino-dei-percorsi-bus/</link>
       <description>Completati i lavori per il rinnovo dei binari tramviari tra il ponte e via Azuni</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobilità, pubblicata manifestazione d’interesse per individuare partner guida autonoma livello 4</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-pubblicata-manifestazione-dinteresse-per-individuare-partner-guida-autonoma-livello-4/</link>
-      <description>L'avviso resta aperto fino al 31 dicembre 2026</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
