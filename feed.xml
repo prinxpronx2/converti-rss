@@ -8,9 +8,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 05 Sep 2026 07:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:40:03 +0000</lastBuildDate>
     <item>
-      <title>Metro C, stazione Colosseo/Fori Imperiali: chiusura alle 20 da lunedì all’11 settembre</title>
+      <title>Metro C, stazione Colosseo/Fori Imperiali: chiusura alle 20 dal 7 all’11 settembre</title>
       <link>https://romamobilita.it/primo-piano/linea-c-stazione-colosseo-fori-imperiali-chiusura-alle-20-da-lunedi-all11-settembre/</link>
       <description>Poi dalla sera del 18 al 20 settembre chiusura continuativa della fermata</description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/galleria-pittaluga-terminati-i-lavori/</link>
       <description>Ripristinata la normale viabilità nei due sensi di marcia</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Riaperto Ponte Matteotti, ripristinati anche i percorsi delle linee bus</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-domani-il-ripristino-dei-percorsi-bus/</link>
+      <description>Completati i lavori per il rinnovo dei binari tramviari tra il ponte e via Azuni</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mobilità, pubblicata manifestazione d’interesse per individuare partner guida autonoma livello 4</title>
@@ -170,12 +176,6 @@
       <link>https://romamobilita.it/primo-piano/atac-110-milioni-per-lacquisto-di-nuovi-bus-a-idrogeno/</link>
       <description>Cuore del progetto, finanziato dal Mit, sarà il polo green di Acilia</description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ferrovia Roma-Nord, dal 7 settembre riapre tratta Acqua Acetosa-Saxa Rubra</title>
-      <link>https://romamobilita.it/primo-piano/lavori-sulla-ferrovia-roma-nord-servizio-modificato/</link>
-      <description>Bus sostitutivi dopo le 22</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro B, stanziati i fondi per la mitigazione acustica tra via Lero e via Dodecaneso</title>
