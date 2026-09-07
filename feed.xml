@@ -8,15 +8,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 07 Sep 2026 05:42:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:41:31 +0000</lastBuildDate>
     <item>
-      <title>Metro C, stazione Colosseo/Fori Imperiali: da domani all’11 settembre chiusura alle 20</title>
+      <title>Metro C, stazione Colosseo/Fori Imperiali: da stasera all’11 settembre chiusura alle 20</title>
       <link>https://romamobilita.it/primo-piano/linea-c-stazione-colosseo-fori-imperiali-chiusura-alle-20-da-lunedi-all11-settembre/</link>
       <description>Poi dalla sera del 18 al 20 settembre chiusura continuativa della fermata</description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Via Aurelia Antica, da domani lavori notturni per un nuovo marciapiede</title>
+      <title>Via Aurelia Antica, da stanotte lavori notturni per un nuovo marciapiede</title>
       <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
       <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
@@ -58,6 +58,12 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cantiere fermata Pigneto, circolazione regolare tra le stazioni Tiburtina e Ostiense</title>
+      <link>https://romamobilita.it/primo-piano/cantiere-fermata-pigneto-da-domani-circolazione-regolare-tra-le-stazioni-tiburtina-e-ostiense/</link>
+      <description>Rfi: "Conclusa una significativa fase dei lavori". Patané: "Pigneto, uno dei grandi nodi della mobilità romana"</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Contrassegno disabili, ora accesso in Ztl solo con la targa principale</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
       <description>Con questo provvedimento nelle strade del Centro non circoleranno più circa 37.770 veicoli</description>
@@ -76,15 +82,21 @@
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mobilità, pubblicata manifestazione d’interesse per individuare partner guida autonoma livello 4</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-pubblicata-manifestazione-dinteresse-per-individuare-partner-guida-autonoma-livello-4/</link>
-      <description>L'avviso resta aperto fino al 31 dicembre 2026</description>
+      <title>A24/galleria Pittaluga, terminati i lavori. Il tunnel è di nuovo percorribile</title>
+      <link>https://romamobilita.it/primo-piano/galleria-pittaluga-terminati-i-lavori/</link>
+      <description>Ripristinata la normale viabilità nei due sensi di marcia</description>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Riaperto Ponte Matteotti, ripristinati anche i percorsi delle linee bus</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-domani-il-ripristino-dei-percorsi-bus/</link>
+      <description>Completati i lavori per il rinnovo dei binari tramviari tra il ponte e via Azuni</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Torrevecchia, chiusure al traffico in via Castiglioni/via Vinci</title>
-      <link>https://romamobilita.it/primo-piano/torrevecchia-flaminia-colli-della-farnesida-da-domani-modifiche-di-viabilita-per-tre-cantieri/</link>
-      <description>Lavori anche nel sottopasso Euclide e in viale dei Colli della Farnesina</description>
+      <title>Mobilità, pubblicata manifestazione d’interesse per individuare partner guida autonoma livello 4</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-pubblicata-manifestazione-dinteresse-per-individuare-partner-guida-autonoma-livello-4/</link>
+      <description>L'avviso resta aperto fino al 31 dicembre 2026</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -154,12 +166,6 @@
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Manutenzioni e cantieri, navette bus al posto dei tram sulle linee 2, 3, 5, 8, 14 e 19</title>
-      <link>https://romamobilita.it/primo-piano/navette-bus-al-posto-dei-tram-sulle-linee-2-3-5-8-14-e-19/</link>
-      <description>Un aggiornamento su lavori e modifiche</description>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Avviati lavori di riqualificazione in via Bonnet, via Calandrelli e viale delle Mura Gianicolensi</title>
       <link>https://romamobilita.it/primo-piano/patane-al-via-lavori-di-riqualificazione-in-via-bonnet-via-calandrelli-mura-gianicolense/</link>
       <description>Finalizzati a migliorare la sicurezza stradale</description>
@@ -217,12 +223,6 @@
       <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
       <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
       <description>Ecco cosa sapere</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carico e scarico merci nella Ztl, nuove regole dal 7 settembre</title>
-      <link>https://romamobilita.it/primo-piano/carico-e-scarico-merci-nuove-regole-dal-7-settembre-2/</link>
-      <description>Firmata l'ordinanza che introduce una disciplina temporanea di accesso</description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
