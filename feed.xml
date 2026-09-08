@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 08 Sep 2026 06:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:34:42 +0000</lastBuildDate>
+    <item>
+      <title>Atac, sosta notturna a pagamento nei parcheggi di scambio</title>
+      <link>https://romamobilita.it/primo-piano/atac-sosta-notturna-a-pagamento-nei-parcheggi-di-scambio/</link>
+      <description>La tariffa dovrà essere pagata anche dai possessori di abbonamento Metrebus</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Al Circo Massimo arriva Jovanotti, il piano viabilità e trasporti</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-arriva-jovanotti-il-piano-viabilita-e-trasporti/</link>
@@ -76,15 +82,15 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cantiere fermata Pigneto, circolazione regolare tra le stazioni Tiburtina e Ostiense</title>
-      <link>https://romamobilita.it/primo-piano/cantiere-fermata-pigneto-da-domani-circolazione-regolare-tra-le-stazioni-tiburtina-e-ostiense/</link>
-      <description>Rfi: "Conclusa una significativa fase dei lavori". Patané: "Pigneto, uno dei grandi nodi della mobilità romana"</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Contrassegno disabili, ora accesso in Ztl solo con la targa principale</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
       <description>Con questo provvedimento nelle strade del Centro non circoleranno più circa 37.770 veicoli</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cantiere fermata Pigneto, circolazione regolare tra le stazioni Tiburtina e Ostiense</title>
+      <link>https://romamobilita.it/primo-piano/cantiere-fermata-pigneto-da-domani-circolazione-regolare-tra-le-stazioni-tiburtina-e-ostiense/</link>
+      <description>Rfi: "Conclusa una significativa fase dei lavori". Patané: "Pigneto, uno dei grandi nodi della mobilità romana"</description>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,15 +148,15 @@
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
-      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
-      <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
       <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
       <description>Ecco dove di trovano i tre punti di controllo</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
+      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
+      <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/strade-scolastiche-stanziati-380mila-euro-per-13-nuovi-interventi/</link>
       <description>Sono state finanziate nell'ambito dell'assestamento di bilancio</description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quadrante sud: novità sui collegamenti bus 763 e 789</title>
-      <link>https://romamobilita.it/primo-piano/quadrante-sud-dal-3-agosto-novita-sui-collegamenti-bus-763-e-789/</link>
-      <description>Ecco cosa sapere</description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
