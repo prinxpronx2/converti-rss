@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:54:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:29:47 +0000</lastBuildDate>
     <item>
       <title>Da domani tornano le linee scuola per gli spostamenti degli studenti</title>
       <link>https://romamobilita.it/primo-piano/da-giovedi-tornano-le-linee-scuola-per-gli-studenti-degli-studenti/</link>
@@ -82,12 +82,6 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Taratura autovelox, obiettivo prevenzione e sicurezza stradale</title>
-      <link>https://romamobilita.it/primo-piano/taratura-autovelox-obiettivo-prevenzione-e-sicurezza-stradale/</link>
-      <description>Patané: "Garanzia per i cittadini sul funzionamento degli apparati che rilevano la velocità"</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Contrassegno disabili, ora accesso in Ztl solo con la targa principale</title>
       <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
       <description>Con questo provvedimento nelle strade del Centro non circoleranno più circa 37.770 veicoli</description>
@@ -154,15 +148,15 @@
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
-      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
-      <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
       <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
       <description>Ecco dove di trovano i tre punti di controllo</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
+      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
+      <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/da-oggi-al-5-settembre-sospeso-il-noleggio-dei-monopattini-lime/</link>
       <description>Leggi di più</description>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strade scolastiche, stanziati 380mila euro per 13 nuovi interventi</title>
+      <link>https://romamobilita.it/primo-piano/strade-scolastiche-stanziati-380mila-euro-per-13-nuovi-interventi/</link>
+      <description>Sono state finanziate nell'ambito dell'assestamento di bilancio</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
