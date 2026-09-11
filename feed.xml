@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:56:16 +0000</lastBuildDate>
     <item>
       <title>Al Circo Massimo arriva Jovanotti, il piano viabilità e trasporti</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-arriva-jovanotti-il-piano-viabilita-e-trasporti/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/metro-c-la-stazione-colosseo-candidata-al-prix-versailles-2026/</link>
       <description>Premio mondiale di architettura e design. Patané "Sorpresa e orgoglio"</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taratura autovelox, obiettivo prevenzione e sicurezza stradale</title>
+      <link>https://romamobilita.it/primo-piano/taratura-autovelox-obiettivo-prevenzione-e-sicurezza-stradale/</link>
+      <description>Patané: "Garanzia per i cittadini sul funzionamento degli apparati che rilevano la velocità"</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Taratura autovelox, obiettivo prevenzione e sicurezza stradale</title>
@@ -148,15 +154,15 @@
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
-      <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
-      <description>Ecco dove di trovano i tre punti di controllo</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
       <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
       <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
+      <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
+      <description>Ecco dove di trovano i tre punti di controllo</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/da-oggi-al-5-settembre-sospeso-il-noleggio-dei-monopattini-lime/</link>
       <description>Leggi di più</description>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strade scolastiche, stanziati 380mila euro per 13 nuovi interventi</title>
-      <link>https://romamobilita.it/primo-piano/strade-scolastiche-stanziati-380mila-euro-per-13-nuovi-interventi/</link>
-      <description>Sono state finanziate nell'ambito dell'assestamento di bilancio</description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
