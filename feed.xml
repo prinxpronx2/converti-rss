@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:17:04 +0000</lastBuildDate>
     <item>
       <title>Al Circo Massimo arriva Jovanotti, il piano viabilità e trasporti</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-arriva-jovanotti-il-piano-viabilita-e-trasporti/</link>
@@ -62,6 +62,18 @@
       <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
       <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl a Roma, oltre 130mila permessi in meno</title>
+      <link>https://romamobilita.it/primo-piano/ztl-a-roma-130mila-permessi-in-meno/</link>
+      <description>Da luglio 72mila autorizzazioni di auto elettriche eliminate</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro C, la stazione Colosseo candidata al Prix Versailles 2026</title>
+      <link>https://romamobilita.it/primo-piano/metro-c-la-stazione-colosseo-candidata-al-prix-versailles-2026/</link>
+      <description>Premio mondiale di architettura e design. Patané "Sorpresa e orgoglio"</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
@@ -160,12 +172,6 @@
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
-      <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
-      <description>Ecco dove di trovano i tre punti di controllo</description>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Bus Rapid Transit, a Roma al via due progetti per il nuovo sistema di trasporto</title>
       <link>https://romamobilita.it/primo-piano/bus-rapid-transit-a-roma-al-via-due-progetti-per-il-nuovo-sistema-di-trasporto/</link>
       <description>A Ostia e nel Municipio XIII. Patané: "Soluzione moderna, efficiente, ecologica per quadranti strategici e ad alta densità abitativa".</description>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/patane-consegnata-relazione-tecnica-finale-nuovi-treni-hitachi/</link>
       <description>Leggi di più</description>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sospeso sino al 5 settembre il noleggio dei monopattini Lime</title>
-      <link>https://romamobilita.it/primo-piano/da-oggi-al-5-settembre-sospeso-il-noleggio-dei-monopattini-lime/</link>
-      <description>Leggi di più</description>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
