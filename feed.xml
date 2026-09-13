@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:41:03 +0000</lastBuildDate>
     <item>
       <title>Metro C e ritorno del tram 19: come cambierà la mobilità tra viale delle Milizie e via Barletta</title>
       <link>https://romamobilita.it/primo-piano/metro-c-e-ritorno-del-tram-19-come-cambiera-la-mobilita-tra-viale-delle-milizie-e-via-barletta/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
       <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
+      <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
+      <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ztl a Roma, oltre 130mila permessi in meno</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
       <description>L'affidamento sarà in vigore dal mese di ottobre</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patanè: “Consegnata relazione tecnica finale nuovi treni Hitachi”</title>
-      <link>https://romamobilita.it/primo-piano/patane-consegnata-relazione-tecnica-finale-nuovi-treni-hitachi/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
