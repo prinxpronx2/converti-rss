@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 13 Sep 2026 05:41:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:09:51 +0000</lastBuildDate>
+    <item>
+      <title>Camera ardente ed esequie Bonino, misure per la viabilità</title>
+      <link>https://romamobilita.it/primo-piano/camera-ardente-ed-esequie-bonino-misure-per-la-viabilita/</link>
+      <description>In vigore divieti di sosta in via della Consolazione</description>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Metro C e ritorno del tram 19: come cambierà la mobilità tra viale delle Milizie e via Barletta</title>
       <link>https://romamobilita.it/primo-piano/metro-c-e-ritorno-del-tram-19-come-cambiera-la-mobilita-tra-viale-delle-milizie-e-via-barletta/</link>
@@ -16,9 +22,9 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Al Circo Massimo arriva Jovanotti, il piano viabilità e trasporti</title>
+      <title>Al Circo Massimo oggi il secondo concerto di Jovanotti, piano viabilità e trasporti</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-arriva-jovanotti-il-piano-viabilita-e-trasporti/</link>
-      <description>Oggi e domani le ultime corse del metrò saranno all'1,30 di notte</description>
+      <description>Stasera ultime corse del metrò saranno all'1,30 di notte</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -40,7 +46,7 @@
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rete bus, dal 14 settembre più corse sulla 168. Nuovi itinerario e denominazione per la 52D</title>
+      <title>Rete bus, da domani più corse sulla 168. Nuovi itinerario e denominazione per la 52D</title>
       <link>https://romamobilita.it/primo-piano/rete-bus-dal-14-settembre-piu-corse-sulla-168-nuovi-itinerario-e-denominazione-per-la-52d/</link>
       <description>Arriva la 252. Tutte le novità in dettaglio</description>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
@@ -62,6 +68,12 @@
       <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
       <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
+      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
+      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
@@ -91,12 +103,6 @@
       <title>Metro C, la stazione Colosseo candidata al Prix Versailles 2026</title>
       <link>https://romamobilita.it/primo-piano/metro-c-la-stazione-colosseo-candidata-al-prix-versailles-2026/</link>
       <description>Premio mondiale di architettura e design. Patané "Sorpresa e orgoglio"</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
-      <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
-      <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
       <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
-      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
-      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
