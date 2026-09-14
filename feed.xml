@@ -8,13 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 14 Sep 2026 01:22:23 +0000</lastBuildDate>
-    <item>
-      <title>Al Circo Massimo oggi il secondo concerto di Jovanotti, piano viabilità e trasporti</title>
-      <link>https://romamobilita.it/primo-piano/al-circo-massimo-arriva-jovanotti-il-piano-viabilita-e-trasporti/</link>
-      <description>Stasera ultime corse del metrò saranno all'1,30 di notte</description>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 06:45:02 +0000</lastBuildDate>
     <item>
       <title>Novità rete bus: da domani attiva la 252 metro B-Grande Moschea e più corse sulla 168</title>
       <link>https://romamobilita.it/primo-piano/rete-bus-dal-14-settembre-piu-corse-sulla-168-nuovi-itinerario-e-denominazione-per-la-52d/</link>
@@ -76,15 +70,15 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
-      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
-      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
       <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
       <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
+      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
+      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +217,12 @@
       <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
       <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
+      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
+      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
