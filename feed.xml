@@ -8,9 +8,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:40:13 +0000</lastBuildDate>
     <item>
-      <title>Novità rete bus: da domani attiva la 252 metro B-Grande Moschea e più corse sulla 168</title>
+      <title>Sabato sera c’è Roma-Inter, il piano viabilità e trasporti</title>
+      <link>https://romamobilita.it/primo-piano/sabato-sera-ce-roma-inter-il-piano-viabilita-e-trasporti/</link>
+      <description>Ecco i bus che servono l'area del Foro Italico</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Camera ardente ed esequie Bonino, misure per la viabilità</title>
+      <link>https://romamobilita.it/primo-piano/camera-ardente-ed-esequie-bonino-misure-per-la-viabilita/</link>
+      <description>In vigore divieti di sosta in via della Consolazione</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
+      <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
+      <description>Ecco dove di trovano i tre punti di controllo</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Novità rete bus: da oggi attiva la 252 metro B-Grande Moschea e più corse sulla 168</title>
       <link>https://romamobilita.it/primo-piano/rete-bus-dal-14-settembre-piu-corse-sulla-168-nuovi-itinerario-e-denominazione-per-la-52d/</link>
       <description>Collegamento diretto per il luogo di culto e migliora l'offerta di trasporto lungo l'asse Tiburtina-Parioli-Flaminio</description>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
@@ -19,12 +37,6 @@
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
       <description>Coinvolti tutti i Municipi della città. Il via mercoledì 16 settembre</description>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Camera ardente ed esequie Bonino, misure per la viabilità</title>
-      <link>https://romamobilita.it/primo-piano/camera-ardente-ed-esequie-bonino-misure-per-la-viabilita/</link>
-      <description>In vigore divieti di sosta in via della Consolazione</description>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -37,12 +49,6 @@
       <title>Metro C, per lavori la stazione Colosseo/Fori Imperiali sarà chiusa il prossimo fine settimana</title>
       <link>https://romamobilita.it/primo-piano/linea-c-lavori-prossimo-fine-settimana-stazione-colosseo-fori-imperiali/</link>
       <description>Dalla sera del 18 e fino al 20 settembre</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
-      <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
-      <description>Ecco dove di trovano i tre punti di controllo</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,15 +76,15 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
-      <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
-      <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
       <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
       <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
+      <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
+      <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
       <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
       <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
-      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
-      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
