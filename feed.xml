@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:28:39 +0000</lastBuildDate>
     <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
@@ -19,6 +19,24 @@
       <title>Sabato sera c’è Roma-Inter, il piano viabilità e trasporti</title>
       <link>https://romamobilita.it/primo-piano/sabato-sera-ce-roma-inter-il-piano-viabilita-e-trasporti/</link>
       <description>Ecco i bus che servono l'area del Foro Italico</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilità sostenibile protagonista all’Eco Fest, il punto sulla transizione in Italia</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-sostenibile-protagonista-alleco-fest-il-punto-sulla-transizione-in-italia/</link>
+      <description>La sfida nelle parole dell'assessore alla Mobilità Eugenio Patanè</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
+      <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
+      <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tramvia Togliatti, chiuso incrocio altezza viale dei Romanisti</title>
+      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-chiuso-incrocio-togliatti-romanisti/</link>
+      <description>Nuova fase del cantiere che sta realizzando la linea tram Ponte Mammolo-Subaugusta</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -68,24 +86,6 @@
       <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
       <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via Aurelia Antica, lavori notturni per realizzare un nuovo marciapiede</title>
-      <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
-      <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
-      <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
-      <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
-      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
-      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
