@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:23:23 +0000</lastBuildDate>
     <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
@@ -31,6 +31,12 @@
       <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
       <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
       <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biciplan, domani la presentazione all’ex Mattatoio</title>
+      <link>https://romamobilita.it/primo-piano/biciplan-domani-la-presentazione-allex-mattatoio-2/</link>
+      <description>Presenti il sindaco Gualtieri e l'assessore alla Mobilità Patanè</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -130,12 +136,6 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cantiere fermata Pigneto, circolazione regolare tra le stazioni Tiburtina e Ostiense</title>
-      <link>https://romamobilita.it/primo-piano/cantiere-fermata-pigneto-da-domani-circolazione-regolare-tra-le-stazioni-tiburtina-e-ostiense/</link>
-      <description>Rfi: "Conclusa una significativa fase dei lavori". Patané: "Pigneto, uno dei grandi nodi della mobilità romana"</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>A24/galleria Pittaluga, terminati i lavori. Il tunnel è di nuovo percorribile</title>
       <link>https://romamobilita.it/primo-piano/galleria-pittaluga-terminati-i-lavori/</link>
       <description>Ripristinata la normale viabilità nei due sensi di marcia</description>
@@ -184,12 +184,6 @@
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Via Walter Tobagi, approvato il progetto esecutivo per la messa in sicurezza</title>
-      <link>https://romamobilita.it/primo-piano/via-walter-tobagi-approvato-il-progetto-esecutivo-per-la-messa-in-sicurezza/</link>
-      <description>Patané: "Nuova pista ciclabile, nuovi marciapiedi e messa in sicurezza degli incroci. Una vera e propria rigenerazione urbana". Avvio dei</description>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
       <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
       <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
       <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stanziati 1,6 milioni per riqualificazione e pedonalizzazione di piazza di Spagna e piazza Mignanelli</title>
+      <link>https://romamobilita.it/primo-piano/stanziati-16-milioni-per-riqualificazione-e-la-pedonalizzazione-piazza-di-spagna-e-piazza-mignanelli/</link>
+      <description>Nell'ambito dell'assestamento di bilancio</description>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
