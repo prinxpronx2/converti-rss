@@ -8,23 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:43:05 +0000</lastBuildDate>
     <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
-      <description>Coinvolti tutti i Municipi della città. Il via domani mercoledì 16 settembre</description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Coinvolti tutti i Municipi della città. Al via oggi mercoledì 16 settembre</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sabato sera c’è Roma-Inter, il piano viabilità e trasporti</title>
       <link>https://romamobilita.it/primo-piano/sabato-sera-ce-roma-inter-il-piano-viabilita-e-trasporti/</link>
       <description>Ecco i bus che servono l'area del Foro Italico</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
       <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
-      <description>Ecco dove di trovano i tre punti di controllo</description>
+      <description>Ecco dove si trovano i tre punti di controllo</description>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -34,13 +34,13 @@
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metro C e ritorno del tram 19: come cambierà la mobilità tra viale delle Milizie e via Barletta</title>
+      <title>Metro C e ritorno del tram 19, come cambierà la mobilità tra viale delle Milizie e via Barletta</title>
       <link>https://romamobilita.it/primo-piano/metro-c-e-ritorno-del-tram-19-come-cambiera-la-mobilita-tra-viale-delle-milizie-e-via-barletta/</link>
-      <description>Sopralluogo ai cantieri con l'assessore Patanè</description>
+      <description>Sopralluogo sui cantieri con l'assessore Patanè</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metro C, per lavori la stazione Colosseo/Fori Imperiali sarà chiusa il prossimo fine settimana</title>
+      <title>Metro C, per lavori la stazione Colosseo/Fori Imperiali sarà chiusa questo fine settimana</title>
       <link>https://romamobilita.it/primo-piano/linea-c-lavori-prossimo-fine-settimana-stazione-colosseo-fori-imperiali/</link>
       <description>Dalla sera del 18 e fino al 20 settembre</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
@@ -68,6 +68,24 @@
       <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
       <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Via Aurelia Antica, lavori notturni per realizzare un nuovo marciapiede</title>
+      <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
+      <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
+      <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
+      <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
+      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
+      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
@@ -206,24 +224,6 @@
       <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
       <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stanziati 1,6 milioni per riqualificazione e pedonalizzazione di piazza di Spagna e piazza Mignanelli</title>
-      <link>https://romamobilita.it/primo-piano/stanziati-16-milioni-per-riqualificazione-e-la-pedonalizzazione-piazza-di-spagna-e-piazza-mignanelli/</link>
-      <description>Nell'ambito dell'assestamento di bilancio</description>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sicurezza stradale, aggiudicata la gara da 49,9 milioni per nuovi semafori</title>
-      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-al-via-la-gara-da-499-milioni-per-nuovi-semafori/</link>
-      <description>La gara sarà suddivisa in due lotti e interesserà 1500 impianti</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Semafori, ecco le società che si occuperanno della manutenzione degli impianti</title>
-      <link>https://romamobilita.it/primo-piano/semafori-ecco-le-societa-che-si-occuperanno-della-manutenzione-degli-impianti/</link>
-      <description>L'affidamento sarà in vigore dal mese di ottobre</description>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
