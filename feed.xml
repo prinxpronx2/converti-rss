@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:28:57 +0000</lastBuildDate>
+    <item>
+      <title>Biciplan, in dieci anni a Roma oltre mille chilometri di ciclabili</title>
+      <link>https://romamobilita.it/primo-piano/biciplan-in-dieci-anni-a-roma-oltre-mille-chilometri-di-ciclabili/</link>
+      <description>Terminata la fase partecipativa per raccogliere le istanze del territorio sul piano di sviluppo della rete ciclabile</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
@@ -70,15 +76,15 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Anno scolastico 2026/2027, torna l’abbonamento Metrebus Under19 a 50 euro</title>
-      <link>https://romamobilita.it/primo-piano/anno-scolastico-2026-2027-torna-labbonamento-metrebus-under19-a-50-euro/</link>
-      <description>Riattivati i collegamenti bus dedicati agli istituti</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Sono tornate le linee scuola per gli spostamenti degli studenti</title>
       <link>https://romamobilita.it/primo-piano/tornate-le-linee-scuola-per-gli-studenti-degli-studenti/</link>
       <description>In servizio 53 collegamenti, con circa 250 corse dedicate. Database georeferenziato di Roma Servizi per la Mobilità</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anno scolastico 2026/2027, torna l’abbonamento Metrebus Under19 a 50 euro</title>
+      <link>https://romamobilita.it/primo-piano/anno-scolastico-2026-2027-torna-labbonamento-metrebus-under19-a-50-euro/</link>
+      <description>Riattivati i collegamenti bus dedicati agli istituti</description>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,15 +148,15 @@
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Riaperto Ponte Matteotti, ripristinati anche i percorsi delle linee bus</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-domani-il-ripristino-dei-percorsi-bus/</link>
-      <description>Completati i lavori per il rinnovo dei binari tramviari tra il ponte e via Azuni</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Mobilità, pubblicata manifestazione d’interesse per individuare partner guida autonoma livello 4</title>
       <link>https://romamobilita.it/primo-piano/mobilita-pubblicata-manifestazione-dinteresse-per-individuare-partner-guida-autonoma-livello-4/</link>
       <description>L'avviso resta aperto fino al 31 dicembre 2026</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Riaperto Ponte Matteotti, ripristinati anche i percorsi delle linee bus</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-domani-il-ripristino-dei-percorsi-bus/</link>
+      <description>Completati i lavori per il rinnovo dei binari tramviari tra il ponte e via Azuni</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
       <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stanziati 1,6 milioni per riqualificazione e pedonalizzazione di piazza di Spagna e piazza Mignanelli</title>
-      <link>https://romamobilita.it/primo-piano/stanziati-16-milioni-per-riqualificazione-e-la-pedonalizzazione-piazza-di-spagna-e-piazza-mignanelli/</link>
-      <description>Nell'ambito dell'assestamento di bilancio</description>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
