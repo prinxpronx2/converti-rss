@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:54:44 +0000</lastBuildDate>
     <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
@@ -68,6 +68,24 @@
       <link>https://romamobilita.it/primo-piano/metro-c-e-ritorno-del-tram-19-come-cambiera-la-mobilita-tra-viale-delle-milizie-e-via-barletta/</link>
       <description>Sopralluogo sui cantieri con l'assessore Patanè</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro C e ritorno del tram 19, come cambierà la mobilità tra viale delle Milizie e via Barletta</title>
+      <link>https://romamobilita.it/primo-piano/metro-c-e-ritorno-del-tram-19-come-cambiera-la-mobilita-tra-viale-delle-milizie-e-via-barletta/</link>
+      <description>Sopralluogo sui cantieri con l'assessore Patanè</description>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anno scolastico 2026/2027, torna l’abbonamento Metrebus Under19 a 50 euro</title>
+      <link>https://romamobilita.it/primo-piano/anno-scolastico-2026-2027-torna-labbonamento-metrebus-under19-a-50-euro/</link>
+      <description>Riattivati i collegamenti bus dedicati agli istituti</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sono tornate le linee scuola per gli spostamenti degli studenti</title>
+      <link>https://romamobilita.it/primo-piano/tornate-le-linee-scuola-per-gli-studenti-degli-studenti/</link>
+      <description>In servizio 53 collegamenti, con circa 250 corse dedicate. Database georeferenziato di Roma Servizi per la Mobilità</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anno scolastico 2026/2027, torna l’abbonamento Metrebus Under19 a 50 euro</title>
@@ -206,24 +224,6 @@
       <link>https://romamobilita.it/primo-piano/patane-al-via-lavori-di-riqualificazione-in-via-bonnet-via-calandrelli-mura-gianicolense/</link>
       <description>Finalizzati a migliorare la sicurezza stradale</description>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atac, 110 milioni per l’acquisto di nuovi bus a idrogeno</title>
-      <link>https://romamobilita.it/primo-piano/atac-110-milioni-per-lacquisto-di-nuovi-bus-a-idrogeno/</link>
-      <description>Cuore del progetto, finanziato dal Mit, sarà il polo green di Acilia</description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro B, stanziati i fondi per la mitigazione acustica tra via Lero e via Dodecaneso</title>
-      <link>https://romamobilita.it/primo-piano/metro-b-stanziati-fondi-mitigazione-acustica-tra-via-lero-e-via-dodecaneso/</link>
-      <description>L'intervento finanziato con 25mila euro nell'ambito dell'assestamento di bilancio</description>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stanziati 1,6 milioni per riqualificazione e pedonalizzazione di piazza di Spagna e piazza Mignanelli</title>
-      <link>https://romamobilita.it/primo-piano/stanziati-16-milioni-per-riqualificazione-e-la-pedonalizzazione-piazza-di-spagna-e-piazza-mignanelli/</link>
-      <description>Nell'ambito dell'assestamento di bilancio</description>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
