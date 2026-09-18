@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 18 Sep 2026 21:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:29:24 +0000</lastBuildDate>
     <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
@@ -19,6 +19,24 @@
       <title>Metro C, per lavori la stazione Colosseo/Fori Imperiali sarà chiusa questo fine settimana</title>
       <link>https://romamobilita.it/primo-piano/linea-c-lavori-prossimo-fine-settimana-stazione-colosseo-fori-imperiali/</link>
       <description>Dalle 20 di oggi e fino al 20 settembre</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
+      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
+      <description>Leggi di più</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parte domani la ZTL Appia Antica</title>
+      <link>https://romamobilita.it/primo-piano/parte-domani-la-ztl-appia-antica/</link>
+      <description>Leggi di più</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roma Corre in Bici, al via gli incentivi per chi si sposta in bicicletta in città</title>
+      <link>https://romamobilita.it/primo-piano/roma-corre-in-bici-al-via-gli-incentivi-per-chi-si-sposta-in-bicicletta-in-citta/</link>
+      <description>Per ogni km percorso, un incentivo di 0,30 centesimi. Patané: "Premiare comportamenti che contribuiscono a una mobilità più sostenibile"</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -68,24 +86,6 @@
       <link>https://romamobilita.it/primo-piano/metro-c-e-ritorno-del-tram-19-come-cambiera-la-mobilita-tra-viale-delle-milizie-e-via-barletta/</link>
       <description>Sopralluogo sui cantieri con l'assessore Patanè</description>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro C e ritorno del tram 19, come cambierà la mobilità tra viale delle Milizie e via Barletta</title>
-      <link>https://romamobilita.it/primo-piano/metro-c-e-ritorno-del-tram-19-come-cambiera-la-mobilita-tra-viale-delle-milizie-e-via-barletta/</link>
-      <description>Sopralluogo sui cantieri con l'assessore Patanè</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anno scolastico 2026/2027, torna l’abbonamento Metrebus Under19 a 50 euro</title>
-      <link>https://romamobilita.it/primo-piano/anno-scolastico-2026-2027-torna-labbonamento-metrebus-under19-a-50-euro/</link>
-      <description>Riattivati i collegamenti bus dedicati agli istituti</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sono tornate le linee scuola per gli spostamenti degli studenti</title>
-      <link>https://romamobilita.it/primo-piano/tornate-le-linee-scuola-per-gli-studenti-degli-studenti/</link>
-      <description>In servizio 53 collegamenti, con circa 250 corse dedicate. Database georeferenziato di Roma Servizi per la Mobilità</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Anno scolastico 2026/2027, torna l’abbonamento Metrebus Under19 a 50 euro</title>
