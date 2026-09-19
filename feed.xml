@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 19 Sep 2026 18:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:54:21 +0000</lastBuildDate>
+    <item>
+      <title>Al via “Linea C”, un viaggio urbano fra centro e periferia per far conoscere quartieri</title>
+      <link>https://romamobilita.it/primo-piano/al-via-linea-c-un-viaggio-urbano-fra-centro-e-periferia-per-far-conoscere-quartieri/</link>
+      <description>Previsti cinque incontri e passeggiate urbane</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Metro C, chiusa sino a domani per lavori la stazione Colosseo/Fori Imperiali</title>
       <link>https://romamobilita.it/primo-piano/linea-c-lavori-prossimo-fine-settimana-stazione-colosseo-fori-imperiali/</link>
@@ -16,7 +22,7 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Parte oggi la ZTL Appia Antica</title>
+      <title>Appia Antica, partita la Ztl nei week end</title>
       <link>https://romamobilita.it/primo-piano/parte-domani-la-ztl-appia-antica/</link>
       <description>Varchi accesi il sabato e la domenica dalle 7 alle 19</description>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
@@ -46,12 +52,6 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sabato sera c’è Roma-Inter, il piano viabilità e trasporti</title>
-      <link>https://romamobilita.it/primo-piano/sabato-sera-ce-roma-inter-il-piano-viabilita-e-trasporti/</link>
-      <description>Ecco i bus che servono l'area del Foro Italico</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Mobilità sostenibile protagonista all’Eco Fest, il punto sulla transizione in Italia</title>
       <link>https://romamobilita.it/primo-piano/mobilita-sostenibile-protagonista-alleco-fest-il-punto-sulla-transizione-in-italia/</link>
       <description>La sfida nelle parole dell'assessore alla Mobilità Eugenio Patanè</description>
@@ -74,12 +74,6 @@
       <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
       <description>Ecco dove si trovano i tre punti di controllo</description>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novità rete bus: attiva la 252 metro B-Grande Moschea e più corse sulla 168</title>
-      <link>https://romamobilita.it/primo-piano/rete-bus-dal-14-settembre-piu-corse-sulla-168-nuovi-itinerario-e-denominazione-per-la-52d/</link>
-      <description>Collegamento diretto per il luogo di culto e migliora l'offerta di trasporto lungo l'asse Tiburtina-Parioli-Flaminio</description>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Novità rete bus: attiva la 252 metro B-Grande Moschea e più corse sulla 168</title>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/mobilita-patane-500mila-euro-per-progettazione-ciclopedonale-san-filippo-neri-giustiniana/</link>
       <description>Saranno realizzati circa 5Km di nuova rete ciclabile</description>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avviati lavori di riqualificazione in via Bonnet, via Calandrelli e viale delle Mura Gianicolensi</title>
+      <link>https://romamobilita.it/primo-piano/patane-al-via-lavori-di-riqualificazione-in-via-bonnet-via-calandrelli-mura-gianicolense/</link>
+      <description>Finalizzati a migliorare la sicurezza stradale</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
