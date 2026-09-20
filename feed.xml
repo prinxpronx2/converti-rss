@@ -8,9 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 20 Sep 2026 17:59:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:42:30 +0000</lastBuildDate>
     <item>
-      <title>Al via “Linea C”, un viaggio urbano fra centro e periferia per far conoscere quartieri</title>
+      <title>Il campione e la zanzara, quando la bicicletta diventa un palcoscenico</title>
+      <link>https://romamobilita.it/primo-piano/il-campione-e-la-zanzara-quando-la-bicicletta-diventa-un-palcoscenico/</link>
+      <description>Iniziativa promossa nell'ambito della Settimana europea della Mobilità</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Linea 8, da domani tram di nuovo in servizio lungo l’intero percorso</title>
+      <link>https://romamobilita.it/primo-piano/linea-8-da-domani-tram-attivi-lungo-lintero-percorso-casaletto-piazza-venezia/</link>
+      <description>Fino a venerdì però navette serali per lavori in via della Piramide Cestia</description>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al via “Linea C”, un viaggio urbano fra centro e periferia per far conoscere i quartieri</title>
       <link>https://romamobilita.it/primo-piano/al-via-linea-c-un-viaggio-urbano-fra-centro-e-periferia-per-far-conoscere-quartieri/</link>
       <description>Previsti cinque incontri e passeggiate urbane</description>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
@@ -68,24 +80,6 @@
       <link>https://romamobilita.it/primo-piano/tramvia-togliatti-chiuso-incrocio-togliatti-romanisti/</link>
       <description>Nuova fase del cantiere che sta realizzando la linea tram Ponte Mammolo-Subaugusta</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
-      <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
-      <description>Ecco dove si trovano i tre punti di controllo</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl Appia Antica, dal 19 settembre varchi elettronici attivi nei week end</title>
-      <link>https://romamobilita.it/primo-piano/ztl-appia-antica-pre-esercizio-dei-varchi-elettronici-dal-19-settembre/</link>
-      <description>Ecco dove si trovano i tre punti di controllo</description>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novità rete bus: attiva la 252 metro B-Grande Moschea e più corse sulla 168</title>
-      <link>https://romamobilita.it/primo-piano/rete-bus-dal-14-settembre-piu-corse-sulla-168-nuovi-itinerario-e-denominazione-per-la-52d/</link>
-      <description>Collegamento diretto per il luogo di culto e migliora l'offerta di trasporto lungo l'asse Tiburtina-Parioli-Flaminio</description>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Novità rete bus: attiva la 252 metro B-Grande Moschea e più corse sulla 168</title>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/bus-rapid-transit-a-roma-al-via-due-progetti-per-il-nuovo-sistema-di-trasporto/</link>
       <description>A Ostia e nel Municipio XIII. Patané: "Soluzione moderna, efficiente, ecologica per quadranti strategici e ad alta densità abitativa".</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patanè: “500mila Euro per progettazione ciclopedonale San Filippo Neri – Giustiniana”</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-patane-500mila-euro-per-progettazione-ciclopedonale-san-filippo-neri-giustiniana/</link>
+      <description>Saranno realizzati circa 5Km di nuova rete ciclabile</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
