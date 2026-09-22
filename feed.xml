@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 22 Sep 2026 17:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:22:41 +0000</lastBuildDate>
     <item>
       <title>Linea 8, tram di nuovo in servizio lungo l’intero percorso</title>
       <link>https://romamobilita.it/primo-piano/linea-8-da-domani-tram-attivi-lungo-lintero-percorso-casaletto-piazza-venezia/</link>
@@ -62,12 +62,6 @@
       <link>https://romamobilita.it/primo-piano/biciplan-in-dieci-anni-a-roma-oltre-mille-chilometri-di-ciclabili/</link>
       <description>Terminata la fase partecipativa per raccogliere le istanze del territorio sul piano di sviluppo della rete ciclabile</description>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Togliatti, chiuso incrocio altezza viale dei Romanisti</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-chiuso-incrocio-togliatti-romanisti/</link>
-      <description>Nuova fase del cantiere che sta realizzando la linea tram Ponte Mammolo-Subaugusta</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mobilità sostenibile protagonista all’Eco Fest, il punto sulla transizione in Italia</title>
@@ -142,12 +136,6 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metro C, la stazione Colosseo candidata al Prix Versailles 2026</title>
-      <link>https://romamobilita.it/primo-piano/metro-c-la-stazione-colosseo-candidata-al-prix-versailles-2026/</link>
-      <description>Premio mondiale di architettura e design. Patané "Sorpresa e orgoglio"</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
       <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
       <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
@@ -157,6 +145,12 @@
       <title>Ztl a Roma, oltre 130mila permessi in meno</title>
       <link>https://romamobilita.it/primo-piano/ztl-a-roma-130mila-permessi-in-meno/</link>
       <description>Da luglio 72mila autorizzazioni di auto elettriche eliminate</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro C, la stazione Colosseo candidata al Prix Versailles 2026</title>
+      <link>https://romamobilita.it/primo-piano/metro-c-la-stazione-colosseo-candidata-al-prix-versailles-2026/</link>
+      <description>Premio mondiale di architettura e design. Patané "Sorpresa e orgoglio"</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -208,12 +202,6 @@
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Settimana Europea della Mobilità, si parte il 16 settembre. Come partecipare all’iniziativa</title>
-      <link>https://romamobilita.it/primo-piano/dal-16-al-22-settembre-torna-la-settimana-europea-della-mobilita-ecco-come-partecipare/</link>
-      <description>Tutti possono proporre un progetto o un evento</description>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ciclabili, marciapiedi, attraversamenti pedonali: a Tor Bella Monaca via ai cantieri nell’ambito del Piano Urbano Integrato</title>
       <link>https://romamobilita.it/primo-piano/ciclabili-marciapiedi-attraversamenti-pedonali-a-tor-bella-monaca-via-ai-cantieri-del-piano-urbano-integrato/</link>
       <description>Patané: "Il 7 settembre partiamo con la cantierizzazione, il 7 ottobre con i lavori”</description>
@@ -224,6 +212,18 @@
       <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
       <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bus Rapid Transit, a Roma al via due progetti per il nuovo sistema di trasporto</title>
+      <link>https://romamobilita.it/primo-piano/bus-rapid-transit-a-roma-al-via-due-progetti-per-il-nuovo-sistema-di-trasporto/</link>
+      <description>A Ostia e nel Municipio XIII. Patané: "Soluzione moderna, efficiente, ecologica per quadranti strategici e ad alta densità abitativa".</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Patanè: “500mila Euro per progettazione ciclopedonale San Filippo Neri – Giustiniana”</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-patane-500mila-euro-per-progettazione-ciclopedonale-san-filippo-neri-giustiniana/</link>
+      <description>Saranno realizzati circa 5Km di nuova rete ciclabile</description>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
