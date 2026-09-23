@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:54:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:43:30 +0000</lastBuildDate>
+    <item>
+      <title>Al Mattatoio la mostra fotografica “Roma che cambia, la città possibile”</title>
+      <link>https://romamobilita.it/primo-piano/al-mattatoio-la-mostra-fotografica-roma-che-cambia-la-citta-possibile/</link>
+      <description>Inaugurata nel corso della Sem resterà aperta fino al 30 ottobre</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Salaria, riaperto il cavalcavia ad altezza Motorizzazione</title>
       <link>https://romamobilita.it/primo-piano/salaria-riaperto-il-cavalcavia-ad-altezza-motorizzazione/</link>
@@ -70,15 +76,15 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
-      <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
-      <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tramvia Togliatti, chiuso incrocio altezza viale dei Romanisti</title>
       <link>https://romamobilita.it/primo-piano/tramvia-togliatti-chiuso-incrocio-togliatti-romanisti/</link>
       <description>Nuova fase del cantiere che sta realizzando la linea tram Ponte Mammolo-Subaugusta</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
+      <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
+      <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -136,6 +142,12 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Metro C, la stazione Colosseo candidata al Prix Versailles 2026</title>
+      <link>https://romamobilita.it/primo-piano/metro-c-la-stazione-colosseo-candidata-al-prix-versailles-2026/</link>
+      <description>Premio mondiale di architettura e design. Patané "Sorpresa e orgoglio"</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
       <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
       <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
@@ -145,12 +157,6 @@
       <title>Ztl a Roma, oltre 130mila permessi in meno</title>
       <link>https://romamobilita.it/primo-piano/ztl-a-roma-130mila-permessi-in-meno/</link>
       <description>Da luglio 72mila autorizzazioni di auto elettriche eliminate</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro C, la stazione Colosseo candidata al Prix Versailles 2026</title>
-      <link>https://romamobilita.it/primo-piano/metro-c-la-stazione-colosseo-candidata-al-prix-versailles-2026/</link>
-      <description>Premio mondiale di architettura e design. Patané "Sorpresa e orgoglio"</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/bus-rapid-transit-a-roma-al-via-due-progetti-per-il-nuovo-sistema-di-trasporto/</link>
       <description>A Ostia e nel Municipio XIII. Patané: "Soluzione moderna, efficiente, ecologica per quadranti strategici e ad alta densità abitativa".</description>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Patanè: “500mila Euro per progettazione ciclopedonale San Filippo Neri – Giustiniana”</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-patane-500mila-euro-per-progettazione-ciclopedonale-san-filippo-neri-giustiniana/</link>
-      <description>Saranno realizzati circa 5Km di nuova rete ciclabile</description>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
