@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 26 Sep 2026 19:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 22:05:06 +0000</lastBuildDate>
     <item>
       <title>Ztl Centro Storico, Patanè: “Risultati concreti contro la congestione”</title>
       <link>https://romamobilita.it/primo-piano/ztl-centro-storico-patane-risultati-concreti-contro-la-congestione/</link>
@@ -44,12 +44,6 @@
       <link>https://romamobilita.it/primo-piano/salaria-riaperto-il-cavalcavia-ad-altezza-motorizzazione/</link>
       <description>Terminati i lavori di ripristino</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Il campione e la zanzara, quando la bicicletta diventa un palcoscenico</title>
-      <link>https://romamobilita.it/primo-piano/il-campione-e-la-zanzara-quando-la-bicicletta-diventa-un-palcoscenico/</link>
-      <description>Iniziativa promossa nell'ambito della Settimana europea della Mobilità</description>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Al via “Linea C”, un viaggio urbano fra centro e periferia per far conoscere i quartieri</title>
@@ -154,12 +148,6 @@
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
-      <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
-      <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl a Roma, oltre 130mila permessi in meno</title>
       <link>https://romamobilita.it/primo-piano/ztl-a-roma-130mila-permessi-in-meno/</link>
       <description>Da luglio 72mila autorizzazioni di auto elettriche eliminate</description>
@@ -169,6 +157,12 @@
       <title>Metro C, la stazione Colosseo candidata al Prix Versailles 2026</title>
       <link>https://romamobilita.it/primo-piano/metro-c-la-stazione-colosseo-candidata-al-prix-versailles-2026/</link>
       <description>Premio mondiale di architettura e design. Patané "Sorpresa e orgoglio"</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
+      <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
+      <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/ciclabili-marciapiedi-attraversamenti-pedonali-a-tor-bella-monaca-via-ai-cantieri-del-piano-urbano-integrato/</link>
       <description>Patané: "Il 7 settembre partiamo con la cantierizzazione, il 7 ottobre con i lavori”</description>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Municipio V, lavori in corso su via Casilina altezza via Bufalini</title>
+      <link>https://romamobilita.it/primo-piano/municipio-v-dal-18-agosto-lavori-su-via-casilina-altezza-via-bufalini/</link>
+      <description>Intervento sulla rete fognaria. Chiusa la corsia direzione Centro nel tratto Bufalini-Zenodossio</description>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
