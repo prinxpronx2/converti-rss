@@ -8,11 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:53:41 +0000</lastBuildDate>
     <item>
       <title>Forum dell’Acqua all’Eur, le modifiche alla viabilità</title>
       <link>https://romamobilita.it/primo-piano/forum-dellacqua-alleur-le-modifiche-alla-viabilita/</link>
-      <description>L'evento è in programma fino a venerdì preso il centro congressi La Nuvola</description>
+      <description>L'evento è in programma fino a venerdì presso il centro congressi La Nuvola</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Arrivato il primo dei 121 nuovi tram, al via i collaudi</title>
+      <link>https://romamobilita.it/primo-piano/arrivato-il-primo-dei-121-nuovi-tram-al-via-i-collaudi/</link>
+      <description>Fino a venerdì, dalle 9 alle 18, sarà chiusa la corsia tranviaria di viale Carlo Felice.</description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,15 +76,15 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
-      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
-      <description>Coinvolti tutti i Municipi della città</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
       <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
       <description>Leggi di più</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
+      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
+      <description>Coinvolti tutti i Municipi della città</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -142,15 +148,15 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
-      <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
-      <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
       <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
       <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
+      <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
+      <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/tramvia-togliatti-da-mercoledi-nuova-fase-del-cantiere-e-chiusure/</link>
       <description>Nuova fase del cantiere</description>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ciclabili, marciapiedi, attraversamenti pedonali: a Tor Bella Monaca via ai cantieri nell’ambito del Piano Urbano Integrato</title>
-      <link>https://romamobilita.it/primo-piano/ciclabili-marciapiedi-attraversamenti-pedonali-a-tor-bella-monaca-via-ai-cantieri-del-piano-urbano-integrato/</link>
-      <description>Patané: "Il 7 settembre partiamo con la cantierizzazione, il 7 ottobre con i lavori”</description>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
