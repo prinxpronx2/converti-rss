@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 30 Sep 2026 10:38:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:40:05 +0000</lastBuildDate>
+    <item>
+      <title>Mobilità, al via bando per incentivi a navette aziendali</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-al-via-bando-per-incentivi-a-navette-aziendali/</link>
+      <description>Obiettivo, sostenere l’attivazione di nuovi servizi di trasporto collettivo o potenziare quelli esistenti</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Torna “Appia Day – Nata per unire”, due giorni di festa per la Regina Viarum</title>
       <link>https://romamobilita.it/primo-piano/torna-appia-day-nata-per-unire-due-giorni-di-festa-per-la-regina-viarum/</link>
@@ -76,15 +82,15 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
-      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
       <description>Coinvolti tutti i Municipi della città</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
+      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
+      <description>Leggi di più</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -148,15 +154,15 @@
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
-      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
-      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
       <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
       <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
+      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
+      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/e-bike-e-monopattini-dalla-giunta-via-libera-a-linee-guida-nuovo-bando-sharing/</link>
       <description>Nelle linee guida anche l'integrazione con il tpl e limiti massimi per gli operatori</description>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Togliatti, riaperto incrocio Togliatti/Sacco e Vanzetti/Franceschini</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-da-mercoledi-nuova-fase-del-cantiere-e-chiusure/</link>
-      <description>Nuova fase del cantiere</description>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
