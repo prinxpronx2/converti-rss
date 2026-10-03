@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 03 Oct 2026 00:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:35:11 +0000</lastBuildDate>
     <item>
       <title>Tra cortei ed eventi socio-culturali ecco la mobilità del fine settimana</title>
       <link>https://romamobilita.it/primo-piano/tra-cortei-ed-eventi-socio-culturali-ecco-la-mobilita-del-fine-settimana/</link>
@@ -52,12 +52,6 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Forum dell’Acqua all’Eur, le modifiche alla viabilità</title>
-      <link>https://romamobilita.it/primo-piano/forum-dellacqua-alleur-le-modifiche-alla-viabilita/</link>
-      <description>L'evento è in programma fino a venerdì presso il centro congressi La Nuvola</description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl Centro Storico, Patanè: “Risultati concreti contro la congestione”</title>
       <link>https://romamobilita.it/primo-piano/ztl-centro-storico-patane-risultati-concreti-contro-la-congestione/</link>
       <description>"Ingressi quotidiani drasticamente ridotti"</description>
@@ -80,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/al-mattatoio-la-mostra-fotografica-roma-che-cambia-la-citta-possibile/</link>
       <description>Inaugurata nel corso della Sem resterà aperta fino al 30 ottobre</description>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salaria, riaperto il cavalcavia ad altezza Motorizzazione</title>
+      <link>https://romamobilita.it/primo-piano/salaria-riaperto-il-cavalcavia-ad-altezza-motorizzazione/</link>
+      <description>Terminati i lavori di ripristino</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Al via “Linea C”, un viaggio urbano fra centro e periferia per far conoscere i quartieri</title>
