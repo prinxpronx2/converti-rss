@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 04 Oct 2026 12:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:18:32 +0000</lastBuildDate>
     <item>
       <title>Corso Francia, Patané: “In corso il posizionamento dei primi autovelox”</title>
       <link>https://romamobilita.it/primo-piano/corso-francia-patane-in-corso-il-posizionamento-dei-primi-autovelox/</link>
@@ -82,18 +82,6 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Al via “Linea C”, un viaggio urbano fra centro e periferia per far conoscere i quartieri</title>
-      <link>https://romamobilita.it/primo-piano/al-via-linea-c-un-viaggio-urbano-fra-centro-e-periferia-per-far-conoscere-quartieri/</link>
-      <description>Previsti cinque incontri e passeggiate urbane</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Appia Antica, partita la Ztl nei week end</title>
-      <link>https://romamobilita.it/primo-piano/partita-la-ztl-appia-antica/</link>
-      <description>Telecamere accese il sabato e la domenica dalle 7 alle 19</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Roma Corre in Bici, al via gli incentivi per chi si sposta in bicicletta in città</title>
       <link>https://romamobilita.it/primo-piano/roma-corre-in-bici-al-via-gli-incentivi-per-chi-si-sposta-in-bicicletta-in-citta/</link>
       <description>Per ogni km percorso, incentivo di 0,30 centesimi. Patané: "Premiare comportamenti che contribuiscono a una mobilità più sostenibile"</description>
@@ -148,15 +136,15 @@
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sono tornate le linee scuola per gli spostamenti degli studenti</title>
-      <link>https://romamobilita.it/primo-piano/tornate-le-linee-scuola-per-gli-studenti-degli-studenti/</link>
-      <description>In servizio 53 collegamenti, con circa 250 corse dedicate. Database georeferenziato di Roma Servizi per la Mobilità</description>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Anno scolastico 2026/2027, torna l’abbonamento Metrebus Under19 a 50 euro</title>
       <link>https://romamobilita.it/primo-piano/anno-scolastico-2026-2027-torna-labbonamento-metrebus-under19-a-50-euro/</link>
       <description>Riattivati i collegamenti bus dedicati agli istituti</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sono tornate le linee scuola per gli spostamenti degli studenti</title>
+      <link>https://romamobilita.it/primo-piano/tornate-le-linee-scuola-per-gli-studenti-degli-studenti/</link>
+      <description>In servizio 53 collegamenti, con circa 250 corse dedicate. Database georeferenziato di Roma Servizi per la Mobilità</description>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,6 +212,18 @@
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-domani-il-ripristino-dei-percorsi-bus/</link>
       <description>Completati i lavori per il rinnovo dei binari tramviari tra il ponte e via Azuni</description>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilità, pubblicata manifestazione d’interesse per individuare partner guida autonoma livello 4</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-pubblicata-manifestazione-dinteresse-per-individuare-partner-guida-autonoma-livello-4/</link>
+      <description>L'avviso resta aperto fino al 31 dicembre 2026</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roma Taxi 2030, un piano d’azione che punta su tecnologia, intermodalità e sicurezza</title>
+      <link>https://romamobilita.it/primo-piano/roma-taxi-2030-un-piano-dazione-che-punta-su-tecnologia-intermodalita-e-sicurezza/</link>
+      <description>L'iniziativa spiegata dall'assessore alla Mobilità Patanè</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
