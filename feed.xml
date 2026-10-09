@@ -8,9 +8,9 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 09 Oct 2026 02:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:27:02 +0000</lastBuildDate>
     <item>
-      <title>Allerta maltempo anche a Roma sino a domani</title>
+      <title>Allerta maltempo anche a Roma sino a stasera</title>
       <link>https://romamobilita.it/primo-piano/allerta-maltempo-anche-a-roma-sino-a-domani/</link>
       <description>Previsti temporali in città</description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
@@ -62,6 +62,12 @@
       <link>https://romamobilita.it/primo-piano/mobilita-al-via-bando-per-incentivi-a-navette-aziendali/</link>
       <description>Obiettivo, sostenere l’attivazione di nuovi servizi di trasporto collettivo o potenziare quelli esistenti</description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pubblicato il nuovo bando sharing, agevolazioni tariffarie per abbonati Metrebus e decoro urbano</title>
+      <link>https://romamobilita.it/primo-piano/pubblicato-il-nuovo-bando-sharing-agevolazioni-tariffarie-per-abbonati-metrebus-e-decoro-urbano/</link>
+      <description>Leggi di più</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ztl Centro Storico, Patanè: “Risultati concreti contro la congestione”</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/taratura-autovelox-obiettivo-prevenzione-e-sicurezza-stradale/</link>
       <description>Patané: "Garanzia per i cittadini sul funzionamento degli apparati che rilevano la velocità"</description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Contrassegno disabili, ora accesso in Ztl solo con la targa principale</title>
-      <link>https://romamobilita.it/primo-piano/contrassegno-disabili-targhe-e-regole/</link>
-      <description>Con questo provvedimento nelle strade del Centro non circoleranno più circa 37.770 veicoli</description>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
