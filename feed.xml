@@ -8,24 +8,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:53:07 +0000</lastBuildDate>
     <item>
       <title>Eur, la viabilità nelle giornate del “Cybertech Europe” alla Nuvola</title>
       <link>https://romamobilita.it/primo-piano/eur-il-13-e-14-ottobre-la-nuvola-ospita-il-cybertech-europe-la-viabilita/</link>
       <description>Divieti di sosta (da stanotte) e possibili chiusure</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>“Linea Cinema”, da domani torna il collegamento gratuito con l’Auditorium</title>
+      <title>“Linea Cinema”, da oggi collegamento gratuito con l’Auditorium</title>
       <link>https://romamobilita.it/primo-piano/dal-13-ottobre-torna-la-linea-cinema-collegamento-gratuito-tra-via-veneto-e-lauditorium/</link>
-      <description>Previste anche promozioni per chi sceglierà la mobilità in sharing</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Per la Festa del Cinema previste promozioni per chi sceglierà la mobilità in sharing</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Conferenza europea a Roma, la viabilità dal 14 al 16 ottobre</title>
+      <title>Conferenza europea a Roma, la viabilità da domani al 16 ottobre</title>
       <link>https://romamobilita.it/primo-piano/conferenza-europea-a-roma-la-viabilita-dal-14-al-16-ottobre/</link>
       <description>Si riuniscono a Roma i Presidenti dei Parlamenti nazionali</description>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roma-Real Madrid, metro fino all’1,30 e navetta bus Ottaviano-piazzale Maresciallo Giardino</title>
+      <link>https://romamobilita.it/primo-piano/patane-pronto-piano-mobilita-per-roma-real-madrid-metropolitane-aperte-fino-alle-130-e-navette-dedicate/</link>
+      <description>Leggi di più</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Il progetto Flexiamoci arriva all’istituto Federico Caffè</title>
@@ -56,6 +62,18 @@
       <link>https://romamobilita.it/primo-piano/corso-francia-patane-in-corso-il-posizionamento-dei-primi-autovelox/</link>
       <description>L'attivazione dopo il via libera del Mit</description>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terminate le prove tecniche per i nuovi tram, servizio regolare per la linea 3L</title>
+      <link>https://romamobilita.it/primo-piano/iniziati-collaudi-nuovi-tram/</link>
+      <description>Aperta, dalle 9 alle 18, la corsia tranviaria di viale Carlo Felice</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sosta notturna a pagamento in tre parcheggi di scambio</title>
+      <link>https://romamobilita.it/primo-piano/sosta-notturna-a-pagamento-in-tre-parcheggi-di-scambio/</link>
+      <description>Lasciare l’auto in sosta nel corso della notte costa 80 centesimi l’ora</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
@@ -130,15 +148,15 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
-      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
-      <description>Coinvolti tutti i Municipi della città</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
       <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
       <description>Leggi di più</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
+      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
+      <description>Coinvolti tutti i Municipi della città</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -148,15 +166,15 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tramvia Togliatti, chiuso incrocio altezza viale dei Romanisti</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-chiuso-incrocio-togliatti-romanisti/</link>
-      <description>Nuova fase del cantiere che sta realizzando la linea tram Ponte Mammolo-Subaugusta</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
       <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
       <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tramvia Togliatti, chiuso incrocio altezza viale dei Romanisti</title>
+      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-chiuso-incrocio-togliatti-romanisti/</link>
+      <description>Nuova fase del cantiere che sta realizzando la linea tram Ponte Mammolo-Subaugusta</description>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -206,24 +224,6 @@
       <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
       <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
-      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
-      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
-      <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
-      <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl a Roma, oltre 130mila permessi in meno</title>
-      <link>https://romamobilita.it/primo-piano/ztl-a-roma-130mila-permessi-in-meno/</link>
-      <description>Da luglio 72mila autorizzazioni di auto elettriche eliminate</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
