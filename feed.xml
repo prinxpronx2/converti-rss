@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:37:02 +0000</lastBuildDate>
+    <item>
+      <title>Domenica la mezza maratona: modifiche per il trasporto pubblico</title>
+      <link>https://romamobilita.it/primo-piano/domenica-in-programma-la-mezza-maratona-modifiche-per-54-linee/</link>
+      <description>Interessate 54 linee, di queste 7 saranno sospese</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sabato corteo in Centro, linee deviate</title>
+      <link>https://romamobilita.it/primo-piano/sabato-corteo-in-centro-linee-deviate/</link>
+      <description>Da piazza della Repubblica a piazza del Popolo</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tranvia Termini-Tor Vergata, Patanè: “Cantieri per l’estate 2027”</title>
       <link>https://romamobilita.it/primo-piano/tranvia-termini-tor-vergata-patane-cantieri-per-lestate-2027/</link>
@@ -22,15 +34,9 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Conferenza europea a Roma, la viabilità da oggi a venerdì</title>
+      <title>Conferenza europea a Roma, la viabilità fino a domani</title>
       <link>https://romamobilita.it/primo-piano/conferenza-europea-a-roma-la-viabilita-dal-14-al-16-ottobre/</link>
       <description>Si riuniscono a Roma i Presidenti dei Parlamenti nazionali</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roma-Real Madrid, metro fino all’1,30 e navetta bus Ottaviano-piazza Bainsizza</title>
-      <link>https://romamobilita.it/primo-piano/patane-pronto-piano-mobilita-per-roma-real-madrid-metropolitane-aperte-fino-alle-130-e-navette-dedicate/</link>
-      <description>Potenziati anche i servizi di sharing mobility</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -76,12 +82,6 @@
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
-      <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
-      <description>Il punto sul progetto CArMe</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Terminate le prove tecniche per i nuovi tram, servizio regolare per la linea 3L</title>
       <link>https://romamobilita.it/primo-piano/iniziati-collaudi-nuovi-tram/</link>
       <description>Aperta, dalle 9 alle 18, la corsia tranviaria di viale Carlo Felice</description>
@@ -91,12 +91,6 @@
       <title>Sosta notturna a pagamento in tre parcheggi di scambio</title>
       <link>https://romamobilita.it/primo-piano/sosta-notturna-a-pagamento-in-tre-parcheggi-di-scambio/</link>
       <description>Lasciare l’auto in sosta nel corso della notte costa 80 centesimi l’ora</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
-      <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
-      <description>Il punto sul progetto CArMe</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -154,15 +148,15 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
-      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
-      <description>Coinvolti tutti i Municipi della città</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
       <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
       <description>Leggi di più</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
+      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
+      <description>Coinvolti tutti i Municipi della città</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,6 +218,12 @@
       <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
       <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
+      <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
+      <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
