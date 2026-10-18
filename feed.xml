@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 18 Oct 2026 08:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:42:51 +0000</lastBuildDate>
     <item>
       <title>Oggi la Mezza Maratona: modifiche per il trasporto pubblico</title>
       <link>https://romamobilita.it/primo-piano/domenica-in-programma-la-mezza-maratona-modifiche-per-54-linee/</link>
@@ -76,18 +76,6 @@
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Terminate le prove tecniche per i nuovi tram, servizio regolare per la linea 3L</title>
-      <link>https://romamobilita.it/primo-piano/iniziati-collaudi-nuovi-tram/</link>
-      <description>Aperta, dalle 9 alle 18, la corsia tranviaria di viale Carlo Felice</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sosta notturna a pagamento in tre parcheggi di scambio</title>
-      <link>https://romamobilita.it/primo-piano/sosta-notturna-a-pagamento-in-tre-parcheggi-di-scambio/</link>
-      <description>Lasciare l’auto in sosta nel corso della notte costa 80 centesimi l’ora</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
       <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
       <description>Il punto sul progetto CArMe</description>
@@ -148,15 +136,15 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
-      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
       <description>Coinvolti tutti i Municipi della città</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
+      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
+      <description>Leggi di più</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -224,6 +212,18 @@
       <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
       <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ztl merci, Campidoglio: “Sospesi effetti ordinanza fino a esito Tar”</title>
+      <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
+      <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
+      <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
+      <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
