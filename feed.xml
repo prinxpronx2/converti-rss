@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 19 Oct 2026 07:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:52:01 +0000</lastBuildDate>
     <item>
       <title>Osteria Nuova, completata la rotatoria tra via Braccianese e via Anguillarese</title>
       <link>https://romamobilita.it/primo-piano/osteria-nuova-completata-la-nuova-rotatoria-tra-via-braccianese-e-via-anguillarese/</link>
@@ -62,6 +62,12 @@
       <link>https://romamobilita.it/primo-piano/corso-francia-patane-in-corso-il-posizionamento-dei-primi-autovelox/</link>
       <description>L'attivazione dopo il via libera del Mit</description>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sosta notturna a pagamento in tre parcheggi di scambio</title>
+      <link>https://romamobilita.it/primo-piano/sosta-notturna-a-pagamento-in-tre-parcheggi-di-scambio/</link>
+      <description>Lasciare l’auto in sosta nel corso della notte costa 80 centesimi l’ora</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/campidoglio-dopo-sentenza-tar-su-merci-in-centro-necessaria-regolamentazione/</link>
       <description>Sino alla decisione del Tribunale Amministrativo del Lazio restano in vigore i precedenti divieti</description>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tram, bus scolastici e nuove linee: ecco il piano della mobilità per il rientro in città</title>
-      <link>https://romamobilita.it/primo-piano/tram-bus-scolastici-e-nuove-linee-ecco-il-piano-della-mobilita-per-il-rientro-in-citta/</link>
-      <description>Termina la riduzione estiva del Tpl e da oggi in servizio la 3L tram. Torna la Metrebus agevolata Under-19</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
