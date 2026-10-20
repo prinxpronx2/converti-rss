@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 20 Oct 2026 09:09:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:25:22 +0000</lastBuildDate>
     <item>
       <title>Rete tram: lo stato del servizio tra ripristini, manutenzioni e nuove opere</title>
       <link>https://romamobilita.it/primo-piano/rete-tram-lo-stato-del-servizio-tra-ripristini-manutenzioni-e-nuove-opere/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/corso-francia-patane-in-corso-il-posizionamento-dei-primi-autovelox/</link>
       <description>L'attivazione dopo il via libera del Mit</description>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
+      <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
+      <description>Il punto sul progetto CArMe</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Terminate le prove tecniche per i nuovi tram, servizio regolare per la linea 3L</title>
@@ -148,15 +154,15 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
-      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
       <description>Coinvolti tutti i Municipi della città</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
+      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
+      <description>Leggi di più</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
       <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro A e Metro C, investimento da 29 milioni di euro per impianti di traslazione e sistemi tecnologici</title>
-      <link>https://romamobilita.it/primo-piano/metro-investimento-da-29-milioni-per-metro-a-e-metro-c/</link>
-      <description>Patané: "Priorità a manutenzione, sicurezza ed efficienza tecnologica"</description>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
