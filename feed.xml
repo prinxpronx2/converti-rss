@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:36:19 +0000</lastBuildDate>
+    <item>
+      <title>Trasporto scolastico 2026/27, iscrizioni possibili dal 27 ottobre</title>
+      <link>https://romamobilita.it/primo-piano/trasporto-scolastico-2026-27-iscrizioni-possibili-dal-27-ottobre/</link>
+      <description>Domande solo on line</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte Matteotti, da sabato lavori sui binari. Chiusa la carreggiata in direzione Prati</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-da-sabato-lavori-sui-binari-chiusa-la-carreggiata-in-direzione-prati/</link>
+      <description>Circolazione a doppio senso sull'altra carreggiata. Linee tpl da via Azuni deviate sul Ponte Risorgimento</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rete tram: lo stato del servizio tra ripristini, manutenzioni e nuove opere</title>
       <link>https://romamobilita.it/primo-piano/rete-tram-lo-stato-del-servizio-tra-ripristini-manutenzioni-e-nuove-opere/</link>
@@ -94,12 +106,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
-      <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
-      <description>Il punto sul progetto CArMe</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Mobilità, al via bando per incentivi a navette aziendali</title>
       <link>https://romamobilita.it/primo-piano/mobilita-al-via-bando-per-incentivi-a-navette-aziendali/</link>
       <description>Obiettivo, sostenere l’attivazione di nuovi servizi di trasporto collettivo o potenziare quelli esistenti</description>
@@ -136,6 +142,12 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Roma Corre in Bici, al via gli incentivi per chi si sposta in bicicletta in città</title>
+      <link>https://romamobilita.it/primo-piano/roma-corre-in-bici-al-via-gli-incentivi-per-chi-si-sposta-in-bicicletta-in-citta/</link>
+      <description>Per ogni km percorso, incentivo di 0,30 centesimi. Patané: "Premiare comportamenti che contribuiscono a una mobilità più sostenibile"</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Al via “Linea C”, un viaggio urbano fra centro e periferia per far conoscere i quartieri</title>
       <link>https://romamobilita.it/primo-piano/al-via-linea-c-un-viaggio-urbano-fra-centro-e-periferia-per-far-conoscere-quartieri/</link>
       <description>Previsti cinque incontri e passeggiate urbane</description>
@@ -145,12 +157,6 @@
       <title>Appia Antica, operativa la Ztl nei week end</title>
       <link>https://romamobilita.it/primo-piano/operativa-la-ztl-appia-antica/</link>
       <description>Telecamere accese il sabato e la domenica dalle 7 alle 19</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roma Corre in Bici, al via gli incentivi per chi si sposta in bicicletta in città</title>
-      <link>https://romamobilita.it/primo-piano/roma-corre-in-bici-al-via-gli-incentivi-per-chi-si-sposta-in-bicicletta-in-citta/</link>
-      <description>Per ogni km percorso, incentivo di 0,30 centesimi. Patané: "Premiare comportamenti che contribuiscono a una mobilità più sostenibile"</description>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/patane-in-5-anni-roma-raddoppia-i-bus-a-basse-emissioni/</link>
       <description>I dati del rapporto Istat</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Via Aurelia Antica, lavori notturni per realizzare un nuovo marciapiede</title>
-      <link>https://romamobilita.it/primo-piano/via-aurelia-antica-da-lunedi-lavori-notturni-per-un-nuovo-marciapiede/</link>
-      <description>Tra via delle Fornaci e via di San Pancrazio. Senso unico alternato tra le 20 e le 7</description>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
