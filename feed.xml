@@ -8,12 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 25 Oct 2026 05:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:49:09 +0000</lastBuildDate>
     <item>
-      <title>Manifestazioni, domani due cortei in Centro: il piano mobilità</title>
+      <title>Manifestazioni, due cortei in Centro: il piano mobilità</title>
       <link>https://romamobilita.it/primo-piano/manifestazioni-di-piazza-cortei-nel-weekend-il-piano-mobilita/</link>
       <description>Gli orari, i percorsi e le linee bus interessate</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Linea Cinema”, ultimo giorno del collegamento gratuito con l’Auditorium</title>
+      <link>https://romamobilita.it/primo-piano/dal-13-ottobre-torna-la-linea-cinema-collegamento-gratuito-tra-via-veneto-e-lauditorium/</link>
+      <description>Per la Festa del Cinema previste promozioni per chi sceglierà la mobilità in sharing</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte Matteotti, lavori sui binari. Chiusa la carreggiata in direzione Prati</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-da-sabato-lavori-sui-binari-chiusa-la-carreggiata-in-direzione-prati/</link>
+      <description>Linee tpl da via Azuni deviate sul Ponte Risorgimento</description>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tramvia Togliatti, entro dicembre finiranno i lavori della prima tratta</title>
@@ -28,13 +40,7 @@
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ponte Matteotti, da oggi lavori sui binari. Chiusa la carreggiata in direzione Prati</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-da-sabato-lavori-sui-binari-chiusa-la-carreggiata-in-direzione-prati/</link>
-      <description>Linee tpl da via Azuni deviate sul Ponte Risorgimento</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Julia 3.0, nuova versione. Ora servizi anche in chat dai certificati alle segnalazioni</title>
+      <title>Julia 3.0, nuova versione. Dai certificati alle segnalazioni, ora servizi anche in chat</title>
       <link>https://romamobilita.it/primo-piano/julia-3-0-servizi-in-chat-dai-certificati-alle-segnalazioni/</link>
       <description>Si evolve l'IA di Roma Capitale, da assistente digitale a strumento per svolgere operazioni. Al debutto anche la nuova App</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
@@ -67,12 +73,6 @@
       <title>Tranvia Termini-Tor Vergata, Patanè: “Cantieri per l’estate 2027”</title>
       <link>https://romamobilita.it/primo-piano/tranvia-termini-tor-vergata-patane-cantieri-per-lestate-2027/</link>
       <description>Il punto in commissione Mobilità</description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Linea Cinema”, sino al 25 ottobre collegamento gratuito con l’Auditorium</title>
-      <link>https://romamobilita.it/primo-piano/dal-13-ottobre-torna-la-linea-cinema-collegamento-gratuito-tra-via-veneto-e-lauditorium/</link>
-      <description>Per la Festa del Cinema previste promozioni per chi sceglierà la mobilità in sharing</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
