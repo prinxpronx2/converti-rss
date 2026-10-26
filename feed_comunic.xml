@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 26 Oct 2026 01:32:04 +0000</lastBuildDate>
-    <item>
-      <title>Due cortei e una gara podistica. Il programma del fine settimana</title>
-      <link>https://romamobilita.it/comunicato/due-cortei-e-una-gara-podistica-il-programma-del-fine-settimana/</link>
-      <description>Domattina, dalle 8,30, nel quartiere Trieste, si svolgerà una corsa podistica. Il percorso della gara, con partenza e arrivo in corso Trieste, si snoderà lungo via Corsica, via Capodistria, via Nomentana (corsia complanare), vicolo della Fontana, via delle Alpi, piazza Caprera, via degli Appennini, piazza Trento, e via Malta. Deviate le linee di bus. Domani, dalle 15 alle 19, un corteo da piazza dei Cinquecento raggiungerà piazza di Porta San Giovanni, sfilando per via Cavour, piazza dell’Esquilino, via Liberiana, piazza di Santa Maria Maggiore, via Merulana. Deviate o limitate le linee del trasporto pubblico. Domani, dalle 15 alle 21, è in programma un corteo da piazza della Stazione Prenestina a via Francesco Compagna/via Urbano Cioccetti. La manifestazione attraverserà viale della Venezia Giulia, via Collatina, via di Grotta di Gregna, viale Sacco e Vanzetti, via Palmiro Togliatti, via Ettore Franceschini e viale Battista Bardanzellu. Possibili deviazioni o brevi stop per i bus. Ulteriori dettagli e aggiornamenti in tempo reale su romamobilita.it</description>
-      <guid isPermaLink="false">https://romamobilita.it/comunicato/due-cortei-e-una-gara-podistica-il-programma-del-fine-settimana/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Oct 2026 07:27:59 +0000</lastBuildDate>
     <item>
       <title>Sciopero generale nazionale, aperte metro A e B/B1, chiusa la C</title>
       <link>https://romamobilita.it/comunicato/sciopero-generale-nazionale-aperte-metro-a-e-b-b1-chiusa-la-c/</link>
@@ -218,6 +211,13 @@
       <description>Lunedi’ 19 ottobre rischio stop per alcune linee periferiche della Capitale a causa dello sciopero di 4 ore, dalle 8,30 alle 12,30, proclamato dal sindacato Usb. L’agitazione interessera’ esclusivamente i collegamenti 08, 011, 013, 017, 018, 022, 024, 025, 027, 028, 030, 031, 032, 033, 035, 036, 037, 038, 039, 066, 078, 081, 088, 146, 226, 546, 701, 710, 711, 771, 777, 778, 787, 808, 889, 892, 907, 908, 912, 982, 985, 992, 993, 998, 999, 036L, 495L, 907L, C1, C19. Saranno regolarmente in servizio le linee gestite dall’Atac.</description>
       <guid isPermaLink="false">https://romamobilita.it/comunicato/bus-periferici-il-19-ottobre-sciopero-di-4-ore-su-alcune-linee/</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venerdi 30 ottobre sciopero generale nazionale indetto dall’Usb. Trasporto pubblico a rischio</title>
+      <link>https://romamobilita.it/comunicato/venerdi-30-ottobre-sciopero-generale-nazionale-indetto-dallusb-trasporto-pubblico-a-rischio/</link>
+      <description>Venerdì 30 ottobre trasporto pubblico a rischio per lo sciopero generale nazionale di 24 ore proclamato dal sindacato Usb. A Roma l’agitazione coinvolgerà i collegamenti gestiti dall’Atac e quelli degli operatori privati. Il servizio sarà comunque regolare fino alle 8,30 e dalle 17 alle 20.</description>
+      <guid isPermaLink="false">https://romamobilita.it/comunicato/venerdi-30-ottobre-sciopero-generale-nazionale-indetto-dallusb-trasporto-pubblico-a-rischio/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
