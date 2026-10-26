@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:27:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:29:08 +0000</lastBuildDate>
     <item>
       <title>Ztl Fascia Verde, prorogate le limitazioni esistenti per il 2026/2027</title>
       <link>https://romamobilita.it/primo-piano/ztl-fascia-verde-prorogate-le-limitazioni-esistenti-per-il-2026-2027/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/tranvia-termini-tor-vergata-patane-cantieri-per-lestate-2027/</link>
       <description>Il punto in commissione Mobilità</description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>All’Amerigo Vespucci terzo appuntamento con “Flexiamoci”</title>
+      <link>https://romamobilita.it/primo-piano/allamerigo-vespucci-terzo-appuntamento-con-flexiamoci/</link>
+      <description>Prosegue la campagna Rsm per diffondere la sicurezza stradale nelle scuole</description>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>“Roma corre in bici”, più si pedala più si guadagna. Molte adesioni nelle prime settimane</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/rete-bus-dal-14-settembre-piu-corse-sulla-168-nuovi-itinerario-e-denominazione-per-la-52d/</link>
       <description>Collegamento diretto per il luogo di culto e migliora l'offerta di trasporto lungo l'asse Tiburtina-Parioli-Flaminio</description>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metro C e ritorno del tram 19, come cambierà la mobilità tra viale delle Milizie e via Barletta</title>
-      <link>https://romamobilita.it/primo-piano/metro-c-e-ritorno-del-tram-19-come-cambiera-la-mobilita-tra-viale-delle-milizie-e-via-barletta/</link>
-      <description>Sopralluogo sui cantieri con l'assessore Patanè</description>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
