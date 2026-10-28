@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 28 Oct 2026 13:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:59:17 +0000</lastBuildDate>
     <item>
       <title>Al Circo Massimo il Villaggio della Difesa, modifiche alla viabilità</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-il-villaggio-della-difesa-modifiche-alla-viabilita/</link>
@@ -52,6 +52,12 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ponte Matteotti, lavori sui binari. Chiusa la carreggiata in direzione Prati</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-da-sabato-lavori-sui-binari-chiusa-la-carreggiata-in-direzione-prati/</link>
+      <description>Linee tpl da via Azuni deviate sul Ponte Risorgimento</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ztl Fascia Verde, prorogate le limitazioni esistenti per il 2026/2027</title>
       <link>https://romamobilita.it/primo-piano/ztl-fascia-verde-prorogate-le-limitazioni-esistenti-per-il-2026-2027/</link>
       <description>Nei limiti di legge i livelli degli inquinanti atmosferici</description>
@@ -74,6 +80,24 @@
       <link>https://romamobilita.it/primo-piano/julia-3-0-servizi-in-chat-dai-certificati-alle-segnalazioni/</link>
       <description>Si evolve l'IA di Roma Capitale, da assistente digitale a strumento per svolgere operazioni. Al debutto la nuova App</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tramvia Togliatti, entro dicembre si concludono i lavori della tratta Ponte Mammolo-Quarticciolo</title>
+      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-entro-dicembre-finiranno-i-lavori-della-prima-tratta/</link>
+      <description>Il punto sui cantieri nel corso della commissione capitolina Trasporti</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Julia 3.0, nuova versione. Dai certificati alle segnalazioni, ora servizi anche in chat</title>
+      <link>https://romamobilita.it/primo-piano/julia-3-0-servizi-in-chat-dai-certificati-alle-segnalazioni/</link>
+      <description>Si evolve l'IA di Roma Capitale, da assistente digitale a strumento per svolgere operazioni. Al debutto la nuova App</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Testaccio la mostra fotografica di una città che non c’è più</title>
+      <link>https://romamobilita.it/primo-piano/a-testaccio-la-mostra-fotografica-di-una-citta-che-non-ce-piu/</link>
+      <description>Visitabile negli spazi dell'ex Mattatoio fino al 30 ottobre</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Salaria, partiti i lavori per svincolo e impianto semaforico all’altezza di via Marciana Marina</title>
@@ -200,30 +224,6 @@
       <link>https://romamobilita.it/primo-piano/roma-corre-in-bici-al-via-gli-incentivi-per-chi-si-sposta-in-bicicletta-in-citta/</link>
       <description>Per ogni km percorso, incentivo di 0,30 centesimi. Patané: "Premiare comportamenti che contribuiscono a una mobilità più sostenibile"</description>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
-      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
-      <description>Coinvolti tutti i Municipi della città</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
-      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
-      <description>Leggi di più</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biciplan, in dieci anni a Roma oltre mille chilometri di ciclabili</title>
-      <link>https://romamobilita.it/primo-piano/biciplan-in-dieci-anni-a-roma-oltre-mille-chilometri-di-ciclabili/</link>
-      <description>Terminata la fase partecipativa per raccogliere le istanze del territorio sul piano di sviluppo della rete ciclabile</description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
-      <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
-      <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
