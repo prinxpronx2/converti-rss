@@ -8,17 +8,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:38:37 +0000</lastBuildDate>
     <item>
       <title>Al Circo Massimo il Villaggio della Difesa, modifiche alla viabilità</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-il-villaggio-della-difesa-modifiche-alla-viabilita/</link>
-      <description>Fino al 4 novembre divieti di sosta e chiusure al transito</description>
+      <description>Giovedì e venerdì le prove e la cerimonia di inaugurazione</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sciopero 30 ottobre, scatta precettazione per i trasporti. Ma Usb conferma l’agitazione</title>
+      <title>Domenica all’Olimpico si gioca Lazio-Cagliari, il piano viabilità e trasporti</title>
+      <link>https://romamobilita.it/primo-piano/domenica-allolimpico-si-gioca-lazio-cagliari-il-piano-viabilita-e-trasporti/</link>
+      <description>Sono diciannove i collegamenti bus che servono l'area del Foro Italico</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domenica mattina c’è la Corsa dei Santi, le misure di viabilità</title>
+      <link>https://romamobilita.it/primo-piano/domenica-mattina-ce-la-corsa-dei-santi-le-misure-di-viabilita/</link>
+      <description>Cinquemila gli atleti iscritti alla gara. Partenza e arrivo in piazza Pio XII</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Strade scolastiche, in partenza altri sei interventi in quattro Municipi</title>
+      <link>https://romamobilita.it/primo-piano/strade-scolastiche-in-partenza-altri-sei-interventi-in-quattro-municipi/</link>
+      <description>Progetto di Roma Capitale e Rsm</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Manifestazioni in città, ecco le proteste in programma venerdì</title>
+      <link>https://romamobilita.it/primo-piano/manifestazioni-in-citta-ecco-le-proteste-in-programma-venerdi/</link>
+      <description>Possibili chiusure al traffico e deviazioni per le linee del trasporto pubblico</description>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rinviato lo sciopero del 30 ottobre, servizio regolare su intera rete</title>
       <link>https://romamobilita.it/primo-piano/scioperi-il-30-ottobre-agitazione-nazionale-indetta-da-usb-trasporto-pubblico-a-rischio/</link>
-      <description>I dettagli sulla protesta</description>
+      <description>Regolari anche le reti Cotral e quelle degli operatori privati</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -64,24 +88,6 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ponte Matteotti, lavori sui binari. Chiusa la carreggiata in direzione Prati</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-da-sabato-lavori-sui-binari-chiusa-la-carreggiata-in-direzione-prati/</link>
-      <description>Linee tpl da via Azuni deviate sul Ponte Risorgimento</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Togliatti, entro dicembre si concludono i lavori della tratta Ponte Mammolo-Quarticciolo</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-entro-dicembre-finiranno-i-lavori-della-prima-tratta/</link>
-      <description>Il punto sui cantieri nel corso della commissione capitolina Trasporti</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Julia 3.0, nuova versione. Dai certificati alle segnalazioni, ora servizi anche in chat</title>
-      <link>https://romamobilita.it/primo-piano/julia-3-0-servizi-in-chat-dai-certificati-alle-segnalazioni/</link>
-      <description>Si evolve l'IA di Roma Capitale, da assistente digitale a strumento per svolgere operazioni. Al debutto la nuova App</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tramvia Togliatti, entro dicembre si concludono i lavori della tratta Ponte Mammolo-Quarticciolo</title>
       <link>https://romamobilita.it/primo-piano/tramvia-togliatti-entro-dicembre-finiranno-i-lavori-della-prima-tratta/</link>
       <description>Il punto sui cantieri nel corso della commissione capitolina Trasporti</description>
@@ -103,12 +109,6 @@
       <title>Salaria, partiti i lavori per svincolo e impianto semaforico all’altezza di via Marciana Marina</title>
       <link>https://romamobilita.it/primo-piano/salaria-partiti-i-lavori-per-svincolo-e-impianto-semaforico-allaltezza-di-via-marciana-marina/</link>
       <description>L'obiettivo è snellire i flussi traffico e migliorare la sicurezza stradale</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Testaccio la mostra fotografica di una città che non c’è più</title>
-      <link>https://romamobilita.it/primo-piano/a-testaccio-la-mostra-fotografica-di-una-citta-che-non-ce-piu/</link>
-      <description>Visitabile negli spazi dell'ex Mattatoio fino al 30 ottobre</description>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
