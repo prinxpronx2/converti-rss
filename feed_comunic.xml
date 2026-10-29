@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:39:36 +0000</lastBuildDate>
-    <item>
-      <title>Sciopero generale nazionale, aperte metro A e B/B1, chiusa la C</title>
-      <link>https://romamobilita.it/comunicato/sciopero-generale-nazionale-aperte-metro-a-e-b-b1-chiusa-la-c/</link>
-      <description>È in corso lo sciopero generale nazionale indetto dal sindacato Usb. Questa la situazione sulla rete romana: metro A: prosegue servizio con possibile riduzione di corse metro B: prosegue servizio con possibile riduzione di corse metro C: chiusa superficie: possibili riduzioni di corse o sospensioni di servizio intera rete.</description>
-      <guid isPermaLink="false">https://romamobilita.it/comunicato/sciopero-generale-nazionale-aperte-metro-a-e-b-b1-chiusa-la-c/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 09:26:17 +0000</lastBuildDate>
     <item>
       <title>Sciopero generale nazionale, adesione personale Atac al 23,5%</title>
       <link>https://romamobilita.it/comunicato/sciopero-generale-nazionale-adesione-personale-atac-al-235/</link>
@@ -218,6 +211,13 @@
       <description>Venerdì 30 ottobre trasporto pubblico a rischio per lo sciopero generale nazionale di 24 ore proclamato dal sindacato Usb. A Roma l’agitazione coinvolgerà i collegamenti gestiti dall’Atac e quelli degli operatori privati. Il servizio sarà comunque regolare fino alle 8,30 e dalle 17 alle 20.</description>
       <guid isPermaLink="false">https://romamobilita.it/comunicato/venerdi-30-ottobre-sciopero-generale-nazionale-indetto-dallusb-trasporto-pubblico-a-rischio/</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sciopero generale differito ad altra data. Venerdì 30 servizio regolare nei trasporti</title>
+      <link>https://romamobilita.it/comunicato/sciopero-generale-differito-ad-altra-data-venerdi-30-servizio-regolare-nei-trasporti/</link>
+      <description>Venerdì 30 ottobre 2026 il trasporto pubblico sarà regolarmente in servizio. In seguito all’ordinanza del ministero delle Infrastrutture e Trasporti lo sciopero generale nazionale di 24 ore è stato differito ad altra data.</description>
+      <guid isPermaLink="false">https://romamobilita.it/comunicato/sciopero-generale-differito-ad-altra-data-venerdi-30-servizio-regolare-nei-trasporti/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
