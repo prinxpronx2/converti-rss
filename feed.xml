@@ -8,23 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:51:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 23:28:29 +0000</lastBuildDate>
     <item>
       <title>Al Circo Massimo, il Villaggio della Difesa: modifiche alla viabilità</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-il-villaggio-della-difesa-modifiche-alla-viabilita/</link>
       <description>Divieti di transito in via dei Cerchi e via del Circo Massimo</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manifestazioni in città, ecco le proteste in programma oggi</title>
-      <link>https://romamobilita.it/primo-piano/manifestazioni-in-citta-ecco-le-proteste-in-programma-venerdi/</link>
-      <description>Possibili chiusure al traffico e deviazioni per le linee del trasporto pubblico</description>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trasporti, a Roma oggi servizio regolare su intera rete</title>
-      <link>https://romamobilita.it/primo-piano/sciopero-del-30-ottobre-rinviato-servizio-regolare/</link>
-      <description>Regolari le reti di Atac e degli operatori privati. Servizio regolare anche per Cotral</description>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -48,7 +36,7 @@
     <item>
       <title>Domenica mattina c’è la Corsa dei Santi, le misure di viabilità</title>
       <link>https://romamobilita.it/primo-piano/domenica-mattina-ce-la-corsa-dei-santi-le-misure-di-viabilita/</link>
-      <description>Cinquemila gli atleti iscritti alla gara. Partenza e arrivo in piazza Pio XII</description>
+      <description>Cinquemila gli atleti iscritti alla gara. Partenza e arrivo in piazza Papa Pio XII</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -62,12 +50,6 @@
       <link>https://romamobilita.it/primo-piano/commemorazione-defunti-rete-bus-per-i-cimiteri-intensificato-fino-al-2-novembre/</link>
       <description>Ecco il calendario in dettaglio</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-tra-febbraio-e-marzo-lapertura-del-parcheggio-interrato-cornelia/</link>
-      <description>Stamane il sopralluogo dell'assessore ai Trasporti Eugenio Patanè</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Atac, pubblicate due gare per rafforzare il decoro nelle metropolitane</title>
@@ -85,6 +67,12 @@
       <title>Inaugurato il nuovo itinerario ciclopedonale “Viadotto dei Presidenti”</title>
       <link>https://romamobilita.it/primo-piano/inaugurato-il-nuovo-itinerario-ciclopedonale-viadotto-dei-presidenti/</link>
       <description>Un tracciato di 2,7 km che recupera una vecchia infrastruttura abbandonata</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-tra-febbraio-e-marzo-lapertura-del-parcheggio-interrato-cornelia/</link>
+      <description>Stamane il sopralluogo dell'assessore ai Trasporti Eugenio Patanè</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -134,12 +122,6 @@
       <link>https://romamobilita.it/primo-piano/numeri-di-grande-rilievo-per-liniziativa-promossa-da-roma-capitale-roma-corre-in-bici/</link>
       <description>Leggi di più</description>
       <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Il progetto Flexiamoci arriva all’istituto Federico Caffè</title>
-      <link>https://romamobilita.it/primo-piano/il-progetto-flexiamoci-arriva-allistituto-federico-caffe/</link>
-      <description>Prosegue l'iniziativa di Rsm sulla sicurezza stradale</description>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sostenere le reti ciclabili, in città è arrivata la “Bicistaffetta”</title>
@@ -196,12 +178,6 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Al Mattatoio la mostra fotografica “Roma che cambia, la città possibile”</title>
-      <link>https://romamobilita.it/primo-piano/al-mattatoio-la-mostra-fotografica-roma-che-cambia-la-citta-possibile/</link>
-      <description>Inaugurata nel corso della Sem resterà aperta fino al 30 ottobre</description>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Salaria, riaperto il cavalcavia ad altezza Motorizzazione</title>
       <link>https://romamobilita.it/primo-piano/salaria-riaperto-il-cavalcavia-ad-altezza-motorizzazione/</link>
       <description>Terminati i lavori di ripristino</description>
@@ -224,6 +200,30 @@
       <link>https://romamobilita.it/primo-piano/roma-corre-in-bici-al-via-gli-incentivi-per-chi-si-sposta-in-bicicletta-in-citta/</link>
       <description>Per ogni km percorso, incentivo di 0,30 centesimi. Patané: "Premiare comportamenti che contribuiscono a una mobilità più sostenibile"</description>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
+      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
+      <description>Coinvolti tutti i Municipi della città</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
+      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
+      <description>Leggi di più</description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Biciplan, in dieci anni a Roma oltre mille chilometri di ciclabili</title>
+      <link>https://romamobilita.it/primo-piano/biciplan-in-dieci-anni-a-roma-oltre-mille-chilometri-di-ciclabili/</link>
+      <description>Terminata la fase partecipativa per raccogliere le istanze del territorio sul piano di sviluppo della rete ciclabile</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
+      <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
+      <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
