@@ -8,23 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:18:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:15:26 +0000</lastBuildDate>
     <item>
       <title>Al Circo Massimo, il Villaggio della Difesa: modifiche alla viabilità</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-il-villaggio-della-difesa-modifiche-alla-viabilita/</link>
-      <description>Oggi e domani le prove e la cerimonia di inaugurazione</description>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Divieti di transito in via dei Cerchi e via del Circo Massimo</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Manifestazioni in città, ecco le proteste in programma domani</title>
+      <title>Manifestazioni in città, ecco le proteste in programma oggi</title>
       <link>https://romamobilita.it/primo-piano/manifestazioni-in-citta-ecco-le-proteste-in-programma-venerdi/</link>
       <description>Possibili chiusure al traffico e deviazioni per le linee del trasporto pubblico</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trasporti, a Roma oggi servizio regolare su intera rete</title>
+      <link>https://romamobilita.it/primo-piano/scioperi-il-30-ottobre-agitazione-nazionale-indetta-da-usb-trasporto-pubblico-a-rischio/</link>
+      <description>Regolari le reti di Atac e degli operatori privati. Servizio regolare anche per Cotral</description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Progetto “black point”, vanno avanti gli interventi di messa in sicurezza degli incroci stradali più pericolosi</title>
+      <link>https://romamobilita.it/primo-piano/progetto-black-point-vanno-avanti-gli-interventi-di-messa-in-sicurezza-degli-incroci-stradali-piu-pericolosi/</link>
+      <description>La mappa degli ultimi lavori realizzati</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Trasporti, rinviato lo sciopero di domani. A Roma servizio regolare su intera rete</title>
-      <link>https://romamobilita.it/primo-piano/scioperi-il-30-ottobre-agitazione-nazionale-indetta-da-usb-trasporto-pubblico-a-rischio/</link>
-      <description>Regolari le reti di Atac e degli operatori privati. Servizio regolare anche per Cotral</description>
+      <title>Ztl Fascia Verde, prorogate le limitazioni esistenti per il 2026/2027</title>
+      <link>https://romamobilita.it/primo-piano/ztl-fascia-verde-prorogate-le-limitazioni-esistenti-per-il-2026-2027/</link>
+      <description>Pubblicata l'ordinanza con divieti e deroghe</description>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -76,21 +88,9 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-tra-febbraio-e-marzo-lapertura-del-parcheggio-interrato-cornelia/</link>
-      <description>Stamane il sopralluogo dell'assessore ai Trasporti Eugenio Patanè</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ponte Matteotti, lavori sui binari. Chiusa la carreggiata in direzione Prati</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-da-sabato-lavori-sui-binari-chiusa-la-carreggiata-in-direzione-prati/</link>
       <description>Linee tpl da via Azuni deviate sul Ponte Risorgimento</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl Fascia Verde, prorogate le limitazioni esistenti per il 2026/2027</title>
-      <link>https://romamobilita.it/primo-piano/ztl-fascia-verde-prorogate-le-limitazioni-esistenti-per-il-2026-2027/</link>
-      <description>Nei limiti di legge i livelli degli inquinanti atmosferici</description>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
