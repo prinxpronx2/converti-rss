@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:51:13 +0000</lastBuildDate>
     <item>
       <title>Al Circo Massimo, il Villaggio della Difesa: modifiche alla viabilità</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-il-villaggio-della-difesa-modifiche-alla-viabilita/</link>
@@ -104,12 +104,6 @@
       <link>https://romamobilita.it/primo-piano/julia-3-0-servizi-in-chat-dai-certificati-alle-segnalazioni/</link>
       <description>Si evolve l'IA di Roma Capitale, da assistente digitale a strumento per svolgere operazioni. Al debutto la nuova App</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Testaccio la mostra fotografica di una città che non c’è più</title>
-      <link>https://romamobilita.it/primo-piano/a-testaccio-la-mostra-fotografica-di-una-citta-che-non-ce-piu/</link>
-      <description>Visitabile negli spazi dell'ex Mattatoio fino al 30 ottobre</description>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Salaria, partiti i lavori per svincolo e impianto semaforico all’altezza di via Marciana Marina</title>
@@ -223,6 +217,12 @@
       <title>Appia Antica, operativa la Ztl nei week end</title>
       <link>https://romamobilita.it/primo-piano/operativa-la-ztl-appia-antica/</link>
       <description>Telecamere accese il sabato e la domenica dalle 7 alle 19</description>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roma Corre in Bici, al via gli incentivi per chi si sposta in bicicletta in città</title>
+      <link>https://romamobilita.it/primo-piano/roma-corre-in-bici-al-via-gli-incentivi-per-chi-si-sposta-in-bicicletta-in-citta/</link>
+      <description>Per ogni km percorso, incentivo di 0,30 centesimi. Patané: "Premiare comportamenti che contribuiscono a una mobilità più sostenibile"</description>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
