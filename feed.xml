@@ -8,7 +8,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 31 Oct 2026 09:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:27:41 +0000</lastBuildDate>
+    <item>
+      <title>A Vigna Pia realizzata una strada scolastica con pavimentazioni e vernici mangia smog</title>
+      <link>https://romamobilita.it/primo-piano/a-vigna-pia-realizzata-una-strada-scolastica-con-pavimentazioni-e-vernici-mangia-smog/</link>
+      <description>Nell'XI Municipio progetto pilota per migliorare la qualità dell'aria</description>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Al Circo Massimo, il Villaggio della Difesa: modifiche alla viabilità</title>
       <link>https://romamobilita.it/primo-piano/al-circo-massimo-il-villaggio-della-difesa-modifiche-alla-viabilita/</link>
@@ -28,13 +34,13 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Domenica all’Olimpico si gioca Lazio-Cagliari, il piano viabilità e trasporti</title>
+      <title>Domani all’Olimpico si gioca Lazio-Cagliari, il piano viabilità e trasporti</title>
       <link>https://romamobilita.it/primo-piano/domenica-allolimpico-si-gioca-lazio-cagliari-il-piano-viabilita-e-trasporti/</link>
       <description>Sono diciannove i collegamenti bus che servono l'area del Foro Italico</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Domenica mattina c’è la Corsa dei Santi, le misure di viabilità</title>
+      <title>Domani mattina c’è la Corsa dei Santi, le misure di viabilità</title>
       <link>https://romamobilita.it/primo-piano/domenica-mattina-ce-la-corsa-dei-santi-le-misure-di-viabilita/</link>
       <description>Cinquemila gli atleti iscritti alla gara. Partenza e arrivo in piazza Papa Pio XII</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
@@ -136,6 +142,12 @@
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Sosta notturna a pagamento in tre parcheggi di scambio</title>
+      <link>https://romamobilita.it/primo-piano/sosta-notturna-a-pagamento-in-tre-parcheggi-di-scambio/</link>
+      <description>Lasciare l’auto in sosta nel corso della notte costa 80 centesimi l’ora</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
       <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
       <description>Il punto sul progetto CArMe</description>
@@ -145,12 +157,6 @@
       <title>Terminate le prove tecniche per i nuovi tram, servizio regolare per la linea 3L</title>
       <link>https://romamobilita.it/primo-piano/iniziati-collaudi-nuovi-tram/</link>
       <description>Aperta, dalle 9 alle 18, la corsia tranviaria di viale Carlo Felice</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sosta notturna a pagamento in tre parcheggi di scambio</title>
-      <link>https://romamobilita.it/primo-piano/sosta-notturna-a-pagamento-in-tre-parcheggi-di-scambio/</link>
-      <description>Lasciare l’auto in sosta nel corso della notte costa 80 centesimi l’ora</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/biciplan-in-dieci-anni-a-roma-oltre-mille-chilometri-di-ciclabili/</link>
       <description>Terminata la fase partecipativa per raccogliere le istanze del territorio sul piano di sviluppo della rete ciclabile</description>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
-      <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
-      <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
