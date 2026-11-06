@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 06 Nov 2026 03:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:19:55 +0000</lastBuildDate>
     <item>
       <title>Cantieri in città, una mappa delle deviazioni in corso</title>
       <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
@@ -62,6 +62,12 @@
       <link>https://romamobilita.it/primo-piano/strade-scolastiche-in-partenza-altri-sei-interventi-in-quattro-municipi/</link>
       <description>Progetto di Roma Capitale e Rsm</description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inaugurato il nuovo itinerario ciclopedonale “Viadotto dei Presidenti”</title>
+      <link>https://romamobilita.it/primo-piano/inaugurato-il-nuovo-itinerario-ciclopedonale-viadotto-dei-presidenti/</link>
+      <description>Un tracciato di 2,7 km che recupera una vecchia infrastruttura abbandonata</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
@@ -148,6 +154,12 @@
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
+      <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
+      <description>Il punto sul progetto CArMe</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Terminate le prove tecniche per i nuovi tram, servizio regolare per la linea 3L</title>
       <link>https://romamobilita.it/primo-piano/iniziati-collaudi-nuovi-tram/</link>
       <description>Aperta, dalle 9 alle 18, la corsia tranviaria di viale Carlo Felice</description>
@@ -157,12 +169,6 @@
       <title>Sosta notturna a pagamento in tre parcheggi di scambio</title>
       <link>https://romamobilita.it/primo-piano/sosta-notturna-a-pagamento-in-tre-parcheggi-di-scambio/</link>
       <description>Lasciare l’auto in sosta nel corso della notte costa 80 centesimi l’ora</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
-      <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
-      <description>Il punto sul progetto CArMe</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
       <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
       <description>Coinvolti tutti i Municipi della città</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>“Flexiamoci”, ripartita l’iniziativa di formazione nelle scuole</title>
-      <link>https://romamobilita.it/primo-piano/flexiamoci-ripartita-liniziativa-di-formazione-nelle-scuole/</link>
-      <description>Leggi di più</description>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
