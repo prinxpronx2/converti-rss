@@ -8,17 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:22:30 +0000</lastBuildDate>
     <item>
-      <title>Verso la dematerializzazione del biglietto, da Atac nuove card ricaricabili per viaggiare</title>
+      <title>Digitalizzazione dei biglietti, da Atac nuove card ricaricabili per viaggiare</title>
       <link>https://romamobilita.it/primo-piano/verso-la-dematerializzazione-del-biglietto-da-atac-nuove-card-ricaricabili-per-viaggiare/</link>
-      <description>Disponibili nelle biglietterie di Lepanto, Ottaviano e Conca d'Oro</description>
+      <description>Disponibili nelle biglietterie di Lepanto, Ottaviano e Conca D'Oro</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Al Social Summit Football di Torino, Rsm racconta l’esperienza “Road to Zero”</title>
+      <link>https://romamobilita.it/primo-piano/al-social-summit-football-di-torino-rsm-racconta-lesperienza-road-to-zero/</link>
+      <description>Il progetto ha debuttato nel 2024 in occasione della finale di Coppa Italia</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte Matteotti, lavori sui binari. Chiusa la carreggiata in direzione Prati</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-da-sabato-lavori-sui-binari-chiusa-la-carreggiata-in-direzione-prati/</link>
+      <description>Linee tpl da via Azuni deviate sul Ponte Risorgimento</description>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Domeniche ecologiche, la prima sarà il 15 novembre</title>
       <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-sara-il-15-novembre/</link>
-      <description>Ecco il calendario delle giornate senz'auto approvato dalla Giunta</description>
+      <description>Cinque giornate previste tra novembre e il prossimo mese di marzo</description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,18 +82,6 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Inaugurato il nuovo itinerario ciclopedonale “Viadotto dei Presidenti”</title>
-      <link>https://romamobilita.it/primo-piano/inaugurato-il-nuovo-itinerario-ciclopedonale-viadotto-dei-presidenti/</link>
-      <description>Un tracciato di 2,7 km che recupera una vecchia infrastruttura abbandonata</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-tra-febbraio-e-marzo-lapertura-del-parcheggio-interrato-cornelia/</link>
-      <description>Stamane il sopralluogo dell'assessore ai Trasporti Eugenio Patanè</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Atac, pubblicate due gare per rafforzare il decoro nelle metropolitane</title>
       <link>https://romamobilita.it/primo-piano/atac-pubblicate-due-gare-per-rafforzare-il-decoro-nelle-metropolitane/</link>
       <description>Obiettivo preservare il patrimonio pubblico</description>
@@ -94,10 +94,16 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ponte Matteotti, lavori sui binari. Chiusa la carreggiata in direzione Prati</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-da-sabato-lavori-sui-binari-chiusa-la-carreggiata-in-direzione-prati/</link>
-      <description>Linee tpl da via Azuni deviate sul Ponte Risorgimento</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Inaugurato il nuovo itinerario ciclopedonale “Viadotto dei Presidenti”</title>
+      <link>https://romamobilita.it/primo-piano/inaugurato-il-nuovo-itinerario-ciclopedonale-viadotto-dei-presidenti/</link>
+      <description>Un tracciato di 2,7 km che recupera una vecchia infrastruttura abbandonata</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-tra-febbraio-e-marzo-lapertura-del-parcheggio-interrato-cornelia/</link>
+      <description>Stamane il sopralluogo dell'assessore ai Trasporti Eugenio Patanè</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tramvia Togliatti, entro dicembre si concludono i lavori della tratta Ponte Mammolo-Quarticciolo</title>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/roma-corre-in-bici-al-via-gli-incentivi-per-chi-si-sposta-in-bicicletta-in-citta/</link>
       <description>Per ogni km percorso, incentivo di 0,30 centesimi. Patané: "Premiare comportamenti che contribuiscono a una mobilità più sostenibile"</description>
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Settimana Europea della Mobilità, Roma Capitale partecipa con oltre 100 iniziative</title>
-      <link>https://romamobilita.it/primo-piano/settimana-europea-della-mobilita-roma-capitale-partecipa-con-oltre-100-iniziative/</link>
-      <description>Coinvolti tutti i Municipi della città</description>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
