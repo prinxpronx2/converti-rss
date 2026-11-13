@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:47:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:11:51 +0000</lastBuildDate>
     <item>
       <title>Cantieri in città, una mappa delle deviazioni in corso</title>
       <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
@@ -74,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/bici-e-monopattini-sharing-verso-il-nuovo-affidamento-nove-grandi-aziende-per-la-selezione/</link>
       <description>Tre saranno scelte per le biciclette, altrettante per i monopattini</description>
       <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sicurezza stradale, a Barcellona premiato il programma FIA sperimentato a Roma</title>
+      <link>https://romamobilita.it/primo-piano/sicurezza-stradale-a-barcellona-premiato-il-programma-fia-sperimentato-a-roma/</link>
+      <description>Utilizzato sull'incrocio tra viale dell’Oceano Atlantico, viale dell’Oceano Pacifico e via Cristoforo Colombo</description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sicurezza stradale, a Barcellona premiato il programma FIA sperimentato a Roma</title>
@@ -217,12 +223,6 @@
       <title>Linea 8, tram di nuovo in servizio lungo l’intero percorso</title>
       <link>https://romamobilita.it/primo-piano/linea-8-da-domani-tram-attivi-lungo-lintero-percorso-casaletto-piazza-venezia/</link>
       <description>Ancora per oggi però navette serali per lavori in viale della Piramide Cestia</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pubblicato il nuovo bando sharing, agevolazioni tariffarie per abbonati Metrebus e decoro urbano</title>
-      <link>https://romamobilita.it/primo-piano/pubblicato-il-nuovo-bando-sharing-agevolazioni-tariffarie-per-abbonati-metrebus-e-decoro-urbano/</link>
-      <description>Leggi di più</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
