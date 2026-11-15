@@ -8,23 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:26:31 +0000</lastBuildDate>
-    <item>
-      <title>Cantieri in città, una mappa delle deviazioni in corso</title>
-      <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
-      <description>Sulla Tangenziale restringimento altezza corso Francia direzione stadio. Dal 16 novembre nuova fase dei lavori notturni nella Nci</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Nov 2026 00:05:53 +0000</lastBuildDate>
     <item>
       <title>Fascia Verde, in arrivo la prima domenica ecologica della stagione. Potenziate metro A e B e otto linee bus</title>
       <link>https://romamobilita.it/primo-piano/domeniche-ecologiche-la-prima-il-15-novembre/</link>
-      <description>Stop al traffico privato (con alcune deroghe) dalle 7,30 alle 12,30 e dalle 16,30 alle 20,30</description>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Domani stop al traffico privato (con alcune deroghe) dalle 7,30 alle 12,30 e dalle 16,30 alle 20,30</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domani mattina evento sportivo in Centro con partenza dal Colosseo. Chiusure al traffico e deviazioni</title>
+      <link>https://romamobilita.it/primo-piano/domenica-mattina-evento-sportivo-in-centro-con-partenza-dal-colosseo-chiusure-al-traffico-e-deviazioni/</link>
+      <description>La linea tram 3L Porta Maggiore-stazione Trastevere sarà sospesa tra le 8,30 e le 11</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ponte Matteotti, seconda fase di lavori dal 16 novembre. Linee tpl deviate su lungotevere Michelangelo</title>
       <link>https://romamobilita.it/primo-piano/ponte-matteotti-seconda-fase-di-lavori-dal-16-novembre-linee-tpl-deviate-su-lungotevere-michelangelo/</link>
       <description>Riaperto in direzione Prati</description>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cantieri in città, una mappa delle deviazioni in corso</title>
+      <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
+      <description>Sulla Tangenziale restringimento altezza corso Francia direzione stadio. Dal 16 novembre nuova fase dei lavori notturni nella Nci</description>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -37,12 +43,6 @@
       <title>Manutenzioni stradali, il cronoprogramma degli interventi di Risorse per Roma</title>
       <link>https://romamobilita.it/primo-piano/manutenzioni-stradali-il-cronoprogramma-degli-interventi-di-risorse-per-roma/</link>
       <description>Cantieri in tutti i Municipi e sulla grande viabilità</description>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Domenica mattina evento sportivo in Centro con partenza dal Colosseo. Chiusure al traffico e deviazioni</title>
-      <link>https://romamobilita.it/primo-piano/domenica-mattina-evento-sportivo-in-centro-con-partenza-dal-colosseo-chiusure-al-traffico-e-deviazioni/</link>
-      <description>La linea tram 3L Porta Maggiore-stazione Trastevere sarà sospesa tra le 8,30 e le 11</description>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -208,12 +208,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mobilità, al via bando per incentivi a navette aziendali</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-al-via-bando-per-incentivi-a-navette-aziendali/</link>
-      <description>Obiettivo, sostenere l’attivazione di nuovi servizi di trasporto collettivo o potenziare quelli esistenti</description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Ztl Centro Storico, Patanè: “Risultati concreti contro la congestione”</title>
       <link>https://romamobilita.it/primo-piano/ztl-centro-storico-patane-risultati-concreti-contro-la-congestione/</link>
       <description>"Ingressi quotidiani drasticamente ridotti"</description>
@@ -223,6 +217,12 @@
       <title>Linea 8, tram di nuovo in servizio lungo l’intero percorso</title>
       <link>https://romamobilita.it/primo-piano/linea-8-da-domani-tram-attivi-lungo-lintero-percorso-casaletto-piazza-venezia/</link>
       <description>Ancora per oggi però navette serali per lavori in viale della Piramide Cestia</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pubblicato il nuovo bando sharing, agevolazioni tariffarie per abbonati Metrebus e decoro urbano</title>
+      <link>https://romamobilita.it/primo-piano/pubblicato-il-nuovo-bando-sharing-agevolazioni-tariffarie-per-abbonati-metrebus-e-decoro-urbano/</link>
+      <description>Leggi di più</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
