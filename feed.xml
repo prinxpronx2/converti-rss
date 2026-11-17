@@ -8,23 +8,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:10:26 +0000</lastBuildDate>
     <item>
       <title>Cantieri in città, una mappa delle deviazioni in corso</title>
       <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
-      <description>Da oggi nuova fase dei lavori notturni nella Nuova Circonvallazione Interna</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Nuova fase dei lavori notturni nella Nuova Circonvallazione Interna</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponte Matteotti, seconda fase di lavori. Linee tpl deviate su lungotevere Michelangelo</title>
+      <link>https://romamobilita.it/primo-piano/ponte-matteotti-seconda-fase-di-lavori-linee-tpl-deviate-su-lungotevere-michelangelo/</link>
+      <description>Riaperto in direzione Prati</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stazione Trastevere, aperto il nuovo accesso</title>
+      <link>https://romamobilita.it/primo-piano/stazione-trastevere-aperto-il-nuovo-accesso/</link>
+      <description>Ingresso sul lato Marconi-Portuense e un secondo sottopasso pedonale. La stazione ricuce i quartieri Gianicolense e Marconi</description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Venerdì sciopero generale, come sarà la protesta nel trasporto pubblico locale</title>
       <link>https://romamobilita.it/primo-piano/venerdi-20-novembre-sciopero-generale-come-sara-la-protesta-nel-trasporto-pubblico-locale/</link>
       <description>Agitazione indetta da Cobas e Cgil. Interessati Atac, Cotral e privati</description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponte Matteotti, seconda fase di lavori da oggi. Linee tpl deviate su lungotevere Michelangelo</title>
-      <link>https://romamobilita.it/primo-piano/ponte-matteotti-seconda-fase-di-lavori-dal-16-novembre-linee-tpl-deviate-su-lungotevere-michelangelo/</link>
-      <description>Riaperto in direzione Prati</description>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -66,7 +72,7 @@
     <item>
       <title>Bici e monopattini sharing, verso il nuovo affidamento. Nove grandi aziende per la selezione</title>
       <link>https://romamobilita.it/primo-piano/bici-e-monopattini-sharing-verso-il-nuovo-affidamento-nove-grandi-aziende-per-la-selezione/</link>
-      <description>Tre saranno scelte per le biciclette, altrettante per i monopattini</description>
+      <description>Gualtieri alla famiglia del fisico investito: una commissione di esperti valuterà vantaggi e svantaggi di eliminare il noleggio</description>
       <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -218,12 +224,6 @@
       <link>https://romamobilita.it/primo-piano/salaria-riaperto-il-cavalcavia-ad-altezza-motorizzazione/</link>
       <description>Terminati i lavori di ripristino</description>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Appia Antica, operativa la Ztl nei week end</title>
-      <link>https://romamobilita.it/primo-piano/operativa-la-ztl-appia-antica/</link>
-      <description>Telecamere accese il sabato e la domenica dalle 7 alle 19</description>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
