@@ -8,11 +8,11 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 22 Nov 2026 17:58:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:30:04 +0000</lastBuildDate>
     <item>
-      <title>Oggi gare podistiche in città, chiusure al Tiburtino e alla Garbatella</title>
-      <link>https://romamobilita.it/primo-piano/domenica-due-gare-podistiche/</link>
-      <description>Il piano viabilità e trasporto pubblico</description>
+      <title>Cantieri in città, una mappa delle deviazioni in corso</title>
+      <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
+      <description>Nuova fase dei lavori notturni nella Nuova Circonvallazione Interna</description>
       <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -24,14 +24,8 @@
     <item>
       <title>Da domani tornano i tram tra Porta Maggiore e Valle Giulia</title>
       <link>https://romamobilita.it/primo-piano/rete-tram-da-lunedi-riprende-il-servizio-tra-porta-maggiore-e-valle-giulia/</link>
-      <description>La linea 3 torna alla nomalità, effetti anche sulla 19. Guida alle modifiche dei collegamenti</description>
+      <description>La linea 3 torna alla normalità, effetti anche sulla 19. Guida alle modifiche dei collegamenti</description>
       <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cantieri in città, una mappa delle deviazioni in corso</title>
-      <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
-      <description>Nuova fase dei lavori notturni nella Nuova Circonvallazione Interna</description>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ponte Matteotti, seconda fase di lavori. Linee tpl deviate su lungotevere Michelangelo</title>
@@ -80,6 +74,12 @@
       <link>https://romamobilita.it/primo-piano/metro-a-presentato-il-nuovo-volto-della-stazione-lepanto/</link>
       <description>Ad arricchire il restyling, il progetto "L'albero delle identità"</description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bici e monopattini sharing, verso il nuovo affidamento. Nove grandi aziende per la selezione</title>
+      <link>https://romamobilita.it/primo-piano/bici-e-monopattini-sharing-verso-il-nuovo-affidamento-nove-grandi-aziende-per-la-selezione/</link>
+      <description>Gualtieri alla famiglia del fisico investito: una commissione di esperti valuterà vantaggi e svantaggi di eliminare il noleggio</description>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sicurezza stradale, a Barcellona premiato il programma FIA sperimentato a Roma</title>
@@ -214,16 +214,16 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Linea 8, tram di nuovo in servizio lungo l’intero percorso</title>
-      <link>https://romamobilita.it/primo-piano/linea-8-da-domani-tram-attivi-lungo-lintero-percorso-casaletto-piazza-venezia/</link>
-      <description>Ancora per oggi però navette serali per lavori in viale della Piramide Cestia</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Pubblicato il nuovo bando sharing, agevolazioni tariffarie per abbonati Metrebus e decoro urbano</title>
       <link>https://romamobilita.it/primo-piano/pubblicato-il-nuovo-bando-sharing-agevolazioni-tariffarie-per-abbonati-metrebus-e-decoro-urbano/</link>
       <description>Leggi di più</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Salaria, riaperto il cavalcavia ad altezza Motorizzazione</title>
+      <link>https://romamobilita.it/primo-piano/salaria-riaperto-il-cavalcavia-ad-altezza-motorizzazione/</link>
+      <description>Terminati i lavori di ripristino</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
