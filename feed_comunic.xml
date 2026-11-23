@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:56:56 +0000</lastBuildDate>
-    <item>
-      <title>Arrivo del Giro e corteo in Centro. Gli eventi del fine settimana</title>
-      <link>https://romamobilita.it/comunicato/arrivo-del-giro-e-corteo-in-centro-gli-eventi-del-fine-settimana/</link>
-      <description>Domenica, con partenza alle 15,30, è in programma la tappa conclusiva del Giro d’Italia. Il via è previsto dall’Eur, l’arrivo al Circo Massimo. La carovana si dirigerà prima verso Ostia poi, attraversando la Colombo, approderà in Centro. Dalle 13 scatteranno le chiusure delle carreggiate centrali di viale Colombo. Deviazioni interesseranno le linee del trasporto pubblico. Tutto il piano mobilità è consultabile, con continui aggiornamenti, su romamobilita.it Domenica, dalle 18 alle 20,30, una manifestazione sfilerà da piazzale Aldo Moro a piazza Vittorio percorrendo via dei Marrucini, via Tiburtina, via di Santa Bibiana, via Giolitti, viale Manzoni, via Principe Eugenio. Possibili brevi stop o deviazioni per le linee di bus.</description>
-      <guid isPermaLink="false">https://romamobilita.it/comunicato/arrivo-del-giro-e-corteo-in-centro-gli-eventi-del-fine-settimana/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Concerto al Circo Massimo e Skateboarding a Ostia. Gli eventi dei prossimi giorni</title>
-      <link>https://romamobilita.it/comunicato/concerto-al-circo-massimo-e-skateboarding-a-ostia-gli-eventi-dei-prossimi-giorni/</link>
-      <description>Domani e domenica, in occasione del concerto al Circo Massimo di Cesare Cremonini, la viabilità subirà alcune variazioni. L’orario di accesso per gli spettatori è previsto per le 16 e le entrate saranno su via del Circo Massimo/via della Greca, in via del Circo Massimo/viale Aventino, via dei Cerchi/Porta Capena e via dei Cerchi/via di San Teodoro. Previste limitazioni al transito in via dei Cerchi, tra via di San Gregorio e via di San Teodoro. Tutti dettagli su romamobilita.it Da domenica prossima al 21 giugno Ostia ospiterà la World Skateboarding Cup. Per tutta la durata dell’evento verranno chiuse al transito via dell’Idroscalo, tra via Costanzo Casana e via della Martinica, e la stessa via della Martinica, nella sola corsia da via dell’Idroscalo a via delle Ebridi. Bus deviati.</description>
-      <guid isPermaLink="false">https://romamobilita.it/comunicato/concerto-al-circo-massimo-e-skateboarding-a-ostia-gli-eventi-dei-prossimi-giorni/</guid>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Nov 2026 14:10:17 +0000</lastBuildDate>
     <item>
       <title>Quattro cortei in varie zone. Gli eventi di domani</title>
       <link>https://romamobilita.it/comunicato/quattro-cortei-in-varie-zone-gli-eventi-di-domani/</link>
@@ -218,6 +204,20 @@
       <description>E’ in corso lo sciopero generale nazionale di 24 ore. Ecco la situazione del trasporto pubblico romano: -metro A: attiva con riduzione di corse -metro B/B1: attive con riduzione di corse -metro C: chiusa -rete di superficie: possibili riduzioni di corse o interruzioni sino alle 17</description>
       <guid isPermaLink="false">https://romamobilita.it/comunicato/sciopero-generale-chiusa-la-metro-c/</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sciopero generale, adesione personale Atac al 32,1%</title>
+      <link>https://romamobilita.it/comunicato/sciopero-generale-adesione-personale-atac-al-321/</link>
+      <description>L’adesione complessiva del personale Atac allo sciopero di oggi, rilevata nel corso della mattinata, è stata pari al 32,1%.</description>
+      <guid isPermaLink="false">https://romamobilita.it/comunicato/sciopero-generale-adesione-personale-atac-al-321/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domenica mattina gara podistica al Tiburtino. Bus deviati</title>
+      <link>https://romamobilita.it/comunicato/domenica-mattina-gara-podistica-al-tiburtino-bus-deviati/</link>
+      <description>Domenica mattina, tra le 8 e le 13, si svolgerà la manifestazione sportiva “Corri al Tiburtino” con partenza e arrivo in via Mozart. Il percorso di snoderà lungo via della Vanga, via Grotta di Gregna, via Iginio Giordani, via Trivento, via Venafro, via del Frantoio, via dell’Erpice, via e largo del Badile, di nuovo via della Vanga, via Grotta di Gregna, viale Ferdinando Santi, viale Palmiro Togliatti, viale Ettore Franceschini, piazza Camillo Loriedo, viale Battista Bardanzellu, viale Palmiro Togliatti, di nuovo viale Ferdinando Santi, via Cassiani, via degli Alberini, via Grotta di Gregna, via della Vanga, largo Boiano, via Trivento, via Venafro, via del Frantoio, via dell’Erpice, via e largo del Badile via della Vanga. Bus deviati.</description>
+      <guid isPermaLink="false">https://romamobilita.it/comunicato/domenica-mattina-gara-podistica-al-tiburtino-bus-deviati/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
