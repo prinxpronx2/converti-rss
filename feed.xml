@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Tue, 24 Nov 2026 01:47:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:01:39 +0000</lastBuildDate>
     <item>
       <title>Tra Porta Maggiore e Valle Giulia tram di nuovo in servizio</title>
       <link>https://romamobilita.it/primo-piano/rete-tram-da-23-novembre-ripreso-il-servizio-tra-porta-maggiore-e-valle-giulia/</link>
@@ -16,7 +16,19 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cantieri in città, una mappa delle deviazioni in corso</title>
+      <title>FL1, dal 26 al 29 novembre stop circolazione tra Ostiense e Fiumicino</title>
+      <link>https://romamobilita.it/primo-piano/fl1-dal-26-al-29-novembre-stop-circolazione-tra-ostiense-e-fiumicino/</link>
+      <description>Previsto un servizio bus sostitutivo. Si ferma anche il Leonardo Express</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giornata contro la violenza sulle donne, manifestazioni a Roma. La viabilità</title>
+      <link>https://romamobilita.it/primo-piano/giornata-contro-la-violenza-sulle-donne-manifestazioni-a-roma-la-viabilita/</link>
+      <description>Leggi di più</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cantieri in città, una mappa della viabilità e delle deviazioni per il tpl</title>
       <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
       <description>Nuova fase dei lavori notturni nella Nuova Circonvallazione Interna</description>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
@@ -58,7 +70,7 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Digitalizzazione dei biglietti, da Atac nuove card ricaricabili per viaggiare</title>
+      <title>Digitalizzazione dei biglietti, da Atac nuove card ricaricabili</title>
       <link>https://romamobilita.it/primo-piano/verso-la-dematerializzazione-del-biglietto-da-atac-nuove-card-ricaricabili-per-viaggiare/</link>
       <description>Disponibili nelle biglietterie di Lepanto, Ottaviano e Conca D'Oro</description>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
@@ -74,12 +86,6 @@
       <link>https://romamobilita.it/primo-piano/metro-a-presentato-il-nuovo-volto-della-stazione-lepanto/</link>
       <description>Ad arricchire il restyling, il progetto "L'albero delle identità"</description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bici e monopattini sharing, verso il nuovo affidamento. Nove grandi aziende per la selezione</title>
-      <link>https://romamobilita.it/primo-piano/bici-e-monopattini-sharing-verso-il-nuovo-affidamento-nove-grandi-aziende-per-la-selezione/</link>
-      <description>Gualtieri alla famiglia del fisico investito: una commissione di esperti valuterà vantaggi e svantaggi di eliminare il noleggio</description>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bici e monopattini sharing, verso il nuovo affidamento. Nove grandi aziende per la selezione</title>
@@ -142,15 +148,15 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tramvia Togliatti, entro dicembre si concludono i lavori della tratta Ponte Mammolo-Quarticciolo</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-entro-dicembre-finiranno-i-lavori-della-prima-tratta/</link>
-      <description>Il punto sui cantieri nel corso della commissione capitolina Trasporti</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Julia 3.0, nuova versione. Dai certificati alle segnalazioni, ora servizi anche in chat</title>
       <link>https://romamobilita.it/primo-piano/julia-3-0-servizi-in-chat-dai-certificati-alle-segnalazioni/</link>
       <description>Si evolve l'IA di Roma Capitale, da assistente digitale a strumento per svolgere operazioni. Al debutto la nuova App</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tramvia Togliatti, entro dicembre si concludono i lavori della tratta Ponte Mammolo-Quarticciolo</title>
+      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-entro-dicembre-finiranno-i-lavori-della-prima-tratta/</link>
+      <description>Il punto sui cantieri nel corso della commissione capitolina Trasporti</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -217,12 +223,6 @@
       <title>Ztl Centro Storico, Patanè: “Risultati concreti contro la congestione”</title>
       <link>https://romamobilita.it/primo-piano/ztl-centro-storico-patane-risultati-concreti-contro-la-congestione/</link>
       <description>"Ingressi quotidiani drasticamente ridotti"</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pubblicato il nuovo bando sharing, agevolazioni tariffarie per abbonati Metrebus e decoro urbano</title>
-      <link>https://romamobilita.it/primo-piano/pubblicato-il-nuovo-bando-sharing-agevolazioni-tariffarie-per-abbonati-metrebus-e-decoro-urbano/</link>
-      <description>Leggi di più</description>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
