@@ -8,7 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 23:59:43 +0000</lastBuildDate>
+    <item>
+      <title>Mobilità sharing, prosegue la crescita dei noleggi di bici e monopattini</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-sharing-prosegue-la-crescita-dei-noleggi-di-bici-e-monopattini/</link>
+      <description>I dati illustrati a Rimini nel corso del convegno IBE Intermobility Future Ways</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nuove preferenziali, metro D, tram Togliatti e Tva: il Campidoglio accelera sulla mobilità sostenibile</title>
+      <link>https://romamobilita.it/primo-piano/nuove-preferenziali-metro-d-tram-togliatti-e-tvail-campidoglio-accelera-sulla-mobilita-sostenibile/</link>
+      <description>L'assessore Patané fa il punto sui vari progetti</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>FL1, da domani al 29 novembre stop circolazione tra Ostiense e Fiumicino</title>
       <link>https://romamobilita.it/primo-piano/fl1-dal-26-al-29-novembre-stop-circolazione-tra-ostiense-e-fiumicino/</link>
@@ -124,6 +136,12 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
+      <link>https://romamobilita.it/primo-piano/mobilita-tra-febbraio-e-marzo-lapertura-del-parcheggio-interrato-cornelia/</link>
+      <description>Stamane il sopralluogo dell'assessore ai Trasporti Eugenio Patanè</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Atac, pubblicate due gare per rafforzare il decoro nelle metropolitane</title>
       <link>https://romamobilita.it/primo-piano/atac-pubblicate-due-gare-per-rafforzare-il-decoro-nelle-metropolitane/</link>
       <description>Obiettivo preservare il patrimonio pubblico</description>
@@ -142,21 +160,15 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
-      <link>https://romamobilita.it/primo-piano/mobilita-tra-febbraio-e-marzo-lapertura-del-parcheggio-interrato-cornelia/</link>
-      <description>Stamane il sopralluogo dell'assessore ai Trasporti Eugenio Patanè</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Tramvia Togliatti, entro dicembre si concludono i lavori della tratta Ponte Mammolo-Quarticciolo</title>
+      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-entro-dicembre-finiranno-i-lavori-della-prima-tratta/</link>
+      <description>Il punto sui cantieri nel corso della commissione capitolina Trasporti</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Julia 3.0, nuova versione. Dai certificati alle segnalazioni, ora servizi anche in chat</title>
       <link>https://romamobilita.it/primo-piano/julia-3-0-servizi-in-chat-dai-certificati-alle-segnalazioni/</link>
       <description>Si evolve l'IA di Roma Capitale, da assistente digitale a strumento per svolgere operazioni. Al debutto la nuova App</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tramvia Togliatti, entro dicembre si concludono i lavori della tratta Ponte Mammolo-Quarticciolo</title>
-      <link>https://romamobilita.it/primo-piano/tramvia-togliatti-entro-dicembre-finiranno-i-lavori-della-prima-tratta/</link>
-      <description>Il punto sui cantieri nel corso della commissione capitolina Trasporti</description>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -212,18 +224,6 @@
       <link>https://romamobilita.it/primo-piano/iniziati-collaudi-nuovi-tram/</link>
       <description>Aperta, dalle 9 alle 18, la corsia tranviaria di viale Carlo Felice</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sosta notturna a pagamento in tre parcheggi di scambio</title>
-      <link>https://romamobilita.it/primo-piano/sosta-notturna-a-pagamento-in-tre-parcheggi-di-scambio/</link>
-      <description>Lasciare l’auto in sosta nel corso della notte costa 80 centesimi l’ora</description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ztl Centro Storico, Patanè: “Risultati concreti contro la congestione”</title>
-      <link>https://romamobilita.it/primo-piano/ztl-centro-storico-patane-risultati-concreti-contro-la-congestione/</link>
-      <description>"Ingressi quotidiani drasticamente ridotti"</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
