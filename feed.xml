@@ -8,17 +8,23 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:12:25 +0000</lastBuildDate>
+    <item>
+      <title>FL1, sino a domenica stop circolazione tra Ostiense e Fiumicino</title>
+      <link>https://romamobilita.it/primo-piano/fl1-dal-26-al-29-novembre-stop-circolazione-tra-ostiense-e-fiumicino/</link>
+      <description>Previsto un servizio bus sostitutivo. Si ferma anche il Leonardo Express</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Domani corteo nazionale contro la violenza sulle donne, la viabilità</title>
+      <link>https://romamobilita.it/primo-piano/giornata-contro-la-violenza-sulle-donne-manifestazioni-a-roma-la-viabilita/</link>
+      <description>Da piazza della Repubblica a piazzale Ostiense</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Serie A, domenica all’Olimpico c’è Roma-Monza. I bus per lo stadio</title>
       <link>https://romamobilita.it/primo-piano/serie-a-domenica-allolimpico-ce-roma-monza-i-bus-per-lo-stadio/</link>
       <description>Previsti divieti di sosta ad ampio raggio nell'area del Foro Italico</description>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>FL1, da oggi a domenica stop circolazione tra Ostiense e Fiumicino</title>
-      <link>https://romamobilita.it/primo-piano/fl1-dal-26-al-29-novembre-stop-circolazione-tra-ostiense-e-fiumicino/</link>
-      <description>Previsto un servizio bus sostitutivo. Si ferma anche il Leonardo Express</description>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -28,15 +34,9 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nuove preferenziali, Metro D, tram Togliatti e Tva: il Campidoglio accelera sulla mobilità sostenibile</title>
+      <title>Nuove preferenziali, Metro D, tram Togliatti, Tva e ciclabili: il Campidoglio accelera sulla mobilità sostenibile</title>
       <link>https://romamobilita.it/primo-piano/nuove-preferenziali-metro-d-tram-togliatti-e-tvail-campidoglio-accelera-sulla-mobilita-sostenibile/</link>
       <description>L'assessore Patané fa il punto sui vari progetti</description>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sabato corteo nazionale contro la violenza sulle donne, la viabilità</title>
-      <link>https://romamobilita.it/primo-piano/giornata-contro-la-violenza-sulle-donne-manifestazioni-a-roma-la-viabilita/</link>
-      <description>Da piazza della Repubblica a piazzale Ostiense</description>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -44,12 +44,6 @@
       <link>https://romamobilita.it/primo-piano/rete-tram-da-23-novembre-ripreso-il-servizio-tra-porta-maggiore-e-valle-giulia/</link>
       <description>La linea 3 viaggia su rotaia lungo l'intero percorso. Parziale ripristino per la 19</description>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cantieri in città, una mappa della viabilità e delle deviazioni per il tpl</title>
-      <link>https://romamobilita.it/primo-piano/cantieri-in-citta-una-mappa-delle-deviazioni-in-corso/</link>
-      <description>Nuova fase dei lavori notturni nella Nuova Circonvallazione Interna</description>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Attraversamenti pedonali luminosi, nuovi impianti entro dicembre</title>
@@ -142,12 +136,6 @@
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Inaugurato il nuovo itinerario ciclopedonale “Viadotto dei Presidenti”</title>
-      <link>https://romamobilita.it/primo-piano/inaugurato-il-nuovo-itinerario-ciclopedonale-viadotto-dei-presidenti/</link>
-      <description>Un tracciato di 2,7 km che recupera una vecchia infrastruttura abbandonata</description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Mobilità, tra febbraio e marzo l’apertura del parcheggio interrato Cornelia</title>
       <link>https://romamobilita.it/primo-piano/mobilita-tra-febbraio-e-marzo-lapertura-del-parcheggio-interrato-cornelia/</link>
       <description>Stamane il sopralluogo dell'assessore ai Trasporti Eugenio Patanè</description>
@@ -163,6 +151,12 @@
       <title>Trasporto scolastico 2026/27, iscrizioni di nuovo possibili</title>
       <link>https://romamobilita.it/primo-piano/trasporto-scolastico-2026-27-iscrizioni-di-nuovo-possibili-dal-27-ottobre/</link>
       <description>Domande solo on line</description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inaugurato il nuovo itinerario ciclopedonale “Viadotto dei Presidenti”</title>
+      <link>https://romamobilita.it/primo-piano/inaugurato-il-nuovo-itinerario-ciclopedonale-viadotto-dei-presidenti/</link>
+      <description>Un tracciato di 2,7 km che recupera una vecchia infrastruttura abbandonata</description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -223,6 +217,12 @@
       <title>Centro, la nuova passeggiata archeologica si completerà nel 2027</title>
       <link>https://romamobilita.it/primo-piano/centro-la-nuova-passeggiata-archeologica-si-completera-nel-2027/</link>
       <description>Il punto sul progetto CArMe</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terminate le prove tecniche per i nuovi tram, servizio regolare per la linea 3L</title>
+      <link>https://romamobilita.it/primo-piano/iniziati-collaudi-nuovi-tram/</link>
+      <description>Aperta, dalle 9 alle 18, la corsia tranviaria di viale Carlo Felice</description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
